@@ -1,0 +1,146 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1018.42 692.46" width="1018" height="692" class="kew__svg">
+	<defs>
+		<style>
+			.kew-cls-1,.kew-cls-9{fill:#2d437a;}.kew-cls-1,.kew-cls-19,.kew-cls-20,.kew-cls-21,.kew-cls-24,.kew-cls-25,.kew-cls-26,.kew-cls-27,.kew-cls-28,.kew-cls-29,.kew-cls-30,.kew-cls-31,.kew-cls-32,.kew-cls-33,.kew-cls-34,.kew-cls-35,.kew-cls-36,.kew-cls-37,.kew-cls-38,.kew-cls-39,.kew-cls-40,.kew-cls-41,.kew-cls-42,.kew-cls-43,.kew-cls-44,.kew-cls-45,.kew-cls-46,.kew-cls-47,.kew-cls-48,.kew-cls-49,.kew-cls-50,.kew-cls-51,.kew-cls-52,.kew-cls-53,.kew-cls-54,.kew-cls-55,.kew-cls-56,.kew-cls-57,.kew-cls-58{stroke-miterlimit:10;}.kew-cls-1{stroke:url(#kew-linear-gradient);}.kew-cls-2{fill:url(#kew-linear-gradient-2);}.kew-cls-3{fill:#2d96d2;}.kew-cls-4{fill:url(#kew-linear-gradient-3);}.kew-cls-5{fill:url(#kew-linear-gradient-4);}.kew-cls-6{fill:url(#kew-linear-gradient-5);}.kew-cls-7{fill:url(#kew-linear-gradient-6);}.kew-cls-8{fill:url(#kew-linear-gradient-7);}.kew-cls-10{fill:url(#kew-linear-gradient-8);}.kew-cls-11{fill:url(#kew-linear-gradient-9);}.kew-cls-12{fill:#09d1e3;}.kew-cls-13{fill:url(#kew-linear-gradient-10);}.kew-cls-14{opacity:0.2;}.kew-cls-15{fill:url(#kew-linear-gradient-11);}.kew-cls-16{fill:url(#kew-linear-gradient-12);}.kew-cls-17{fill:url(#kew-linear-gradient-13);}.kew-cls-18{fill:url(#kew-linear-gradient-14);}.kew-cls-19,.kew-cls-20,.kew-cls-21,.kew-cls-24,.kew-cls-25,.kew-cls-26,.kew-cls-27,.kew-cls-28,.kew-cls-29,.kew-cls-30,.kew-cls-31,.kew-cls-32,.kew-cls-33,.kew-cls-34,.kew-cls-35,.kew-cls-36,.kew-cls-37,.kew-cls-38,.kew-cls-39,.kew-cls-40,.kew-cls-41,.kew-cls-42,.kew-cls-43,.kew-cls-44,.kew-cls-45,.kew-cls-46,.kew-cls-47,.kew-cls-48,.kew-cls-49,.kew-cls-50,.kew-cls-51,.kew-cls-52,.kew-cls-53,.kew-cls-54,.kew-cls-55,.kew-cls-56,.kew-cls-57,.kew-cls-58{fill:none;stroke-linecap:round;stroke-width:2px;}.kew-cls-19{stroke:url(#kew-linear-gradient-15);}.kew-cls-20{stroke:url(#kew-linear-gradient-16);}.kew-cls-21{stroke:url(#kew-linear-gradient-17);}.kew-cls-22{fill:url(#kew-linear-gradient-18);}.kew-cls-23{fill:url(#kew-linear-gradient-19);}.kew-cls-24{stroke:url(#kew-linear-gradient-20);}.kew-cls-25{stroke:url(#kew-linear-gradient-21);}.kew-cls-26{stroke:url(#kew-linear-gradient-22);}.kew-cls-27{stroke:url(#kew-linear-gradient-23);}.kew-cls-28{stroke:url(#kew-linear-gradient-24);}.kew-cls-29{stroke:url(#kew-linear-gradient-25);}.kew-cls-30{stroke:url(#kew-linear-gradient-26);}.kew-cls-31{stroke:url(#kew-linear-gradient-27);}.kew-cls-32{stroke:url(#kew-linear-gradient-28);}.kew-cls-33{stroke:url(#kew-linear-gradient-29);}.kew-cls-34{stroke:url(#kew-linear-gradient-30);}.kew-cls-35{stroke:url(#kew-linear-gradient-31);}.kew-cls-36{stroke:url(#kew-linear-gradient-32);}.kew-cls-37{stroke:url(#kew-linear-gradient-33);}.kew-cls-38{stroke:url(#kew-linear-gradient-34);}.kew-cls-39{stroke:url(#kew-linear-gradient-35);}.kew-cls-40{stroke:url(#kew-linear-gradient-36);}.kew-cls-41{stroke:url(#kew-linear-gradient-37);}.kew-cls-42{stroke:url(#kew-linear-gradient-38);}.kew-cls-43{stroke:url(#kew-linear-gradient-39);}.kew-cls-44{stroke:url(#kew-linear-gradient-40);}.kew-cls-45{stroke:url(#kew-linear-gradient-41);}.kew-cls-46{stroke:url(#kew-linear-gradient-42);}.kew-cls-47{stroke:url(#kew-linear-gradient-43);}.kew-cls-48{stroke:url(#kew-linear-gradient-44);}.kew-cls-49{stroke:url(#kew-linear-gradient-45);}.kew-cls-50{stroke:url(#kew-linear-gradient-46);}.kew-cls-51{stroke:url(#kew-linear-gradient-47);}.kew-cls-52{stroke:url(#kew-linear-gradient-48);}.kew-cls-53{stroke:url(#kew-linear-gradient-49);}.kew-cls-54{stroke:url(#kew-linear-gradient-50);}.kew-cls-55{stroke:url(#kew-linear-gradient-51);}.kew-cls-56{stroke:url(#kew-linear-gradient-52);}.kew-cls-57{stroke:url(#kew-linear-gradient-53);}.kew-cls-58{stroke:url(#kew-linear-gradient-54);}
+		</style>
+		<linearGradient id="kew-linear-gradient" x1="458.3" y1="138.51" x2="570.98" y2="138.51" gradientUnits="userSpaceOnUse">
+			<stop offset="0.07" stop-color="#c914bc" />
+			<stop offset="0.59" stop-color="#911ac4" />
+			<stop offset="0.99" stop-color="#731ac4" />
+		</linearGradient>
+		<linearGradient id="kew-linear-gradient-2" x1="572.67" y1="191.17" x2="1017.71" y2="191.17" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#2057a1" />
+			<stop offset="1" stop-color="#2d96d2" />
+		</linearGradient>
+		<linearGradient id="kew-linear-gradient-3" x1="597.59" y1="41.16" x2="833.03" y2="177.09" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#2d96d2" />
+			<stop offset="1" stop-color="#2057a1" />
+		</linearGradient>
+		<linearGradient id="kew-linear-gradient-4" x1="551.02" y1="81.55" x2="623.56" y2="123.44" xlink:href="#kew-linear-gradient-3" />
+		<linearGradient id="kew-linear-gradient-5" x1="434.48" y1="101.68" x2="515.48" y2="148.44" xlink:href="#kew-linear-gradient-3" />
+		<linearGradient id="kew-linear-gradient-6" x1="487.03" y1="341.85" x2="723.05" y2="478.12" xlink:href="#kew-linear-gradient-3" />
+		<linearGradient id="kew-linear-gradient-7" x1="232.87" y1="421.4" x2="469.99" y2="421.4" xlink:href="#kew-linear-gradient-2" />
+		<linearGradient id="kew-linear-gradient-8" x1="318.92" y1="270.25" x2="469.9" y2="270.25" xlink:href="#kew-linear-gradient-2" />
+		<linearGradient id="kew-linear-gradient-9" x1="488.34" y1="208.06" x2="645.82" y2="298.98" xlink:href="#kew-linear-gradient-3" />
+		<linearGradient id="kew-linear-gradient-10" x1="389.08" y1="196.41" x2="469.07" y2="196.41" xlink:href="#kew-linear-gradient-2" />
+		<linearGradient id="kew-linear-gradient-11" x1="498.6" y1="146.77" x2="593.06" y2="201.3" xlink:href="#kew-linear-gradient-3" />
+		<linearGradient id="kew-linear-gradient-12" x1="0" y1="516.05" x2="430.43" y2="516.05" xlink:href="#kew-linear-gradient-2" />
+		<linearGradient id="kew-linear-gradient-13" x1="82.41" y1="386.21" x2="415.36" y2="386.21" xlink:href="#kew-linear-gradient-2" />
+		<linearGradient id="kew-linear-gradient-14" x1="561.8" y1="388.23" x2="644.47" y2="388.23" xlink:href="#kew-linear-gradient-3" />
+		<linearGradient id="kew-linear-gradient-15" x1="130.42" y1="587.23" x2="132.42" y2="587.23" xlink:href="#kew-linear-gradient" />
+		<linearGradient id="kew-linear-gradient-16" x1="16.34" y1="565.87" x2="94.04" y2="565.87" xlink:href="#kew-linear-gradient" />
+		<linearGradient id="kew-linear-gradient-17" x1="33.17" y1="481.5" x2="83.45" y2="481.5" xlink:href="#kew-linear-gradient" />
+		<linearGradient id="kew-linear-gradient-18" x1="519.98" y1="123.87" x2="559.56" y2="123.87" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#64c8c3" />
+			<stop offset="1" stop-color="#4296ab" />
+		</linearGradient>
+		<linearGradient id="kew-linear-gradient-19" x1="465.74" y1="128.14" x2="519.98" y2="128.14" xlink:href="#kew-linear-gradient-18" />
+		<linearGradient id="kew-linear-gradient-20" x1="157.32" y1="568.22" x2="216.21" y2="568.22" xlink:href="#kew-linear-gradient" />
+		<linearGradient id="kew-linear-gradient-21" x1="209.01" y1="538.5" x2="267.91" y2="538.5" xlink:href="#kew-linear-gradient" />
+		<linearGradient id="kew-linear-gradient-22" x1="255.18" y1="511.94" x2="314.07" y2="511.94" xlink:href="#kew-linear-gradient" />
+		<linearGradient id="kew-linear-gradient-23" x1="307.16" y1="482.19" x2="366.06" y2="482.19" xlink:href="#kew-linear-gradient" />
+		<linearGradient id="kew-linear-gradient-24" x1="359.06" y1="451.66" x2="417.96" y2="451.66" xlink:href="#kew-linear-gradient" />
+		<linearGradient id="kew-linear-gradient-25" x1="694.72" y1="216.98" x2="742.89" y2="216.98" xlink:href="#kew-linear-gradient" />
+		<linearGradient id="kew-linear-gradient-26" x1="746.41" y1="228.74" x2="805.31" y2="228.74" xlink:href="#kew-linear-gradient" />
+		<linearGradient id="kew-linear-gradient-27" x1="792.57" y1="202.18" x2="851.47" y2="202.18" xlink:href="#kew-linear-gradient" />
+		<linearGradient id="kew-linear-gradient-28" x1="844.56" y1="172.43" x2="903.46" y2="172.43" xlink:href="#kew-linear-gradient" />
+		<linearGradient id="kew-linear-gradient-29" x1="896.46" y1="141.9" x2="955.35" y2="141.9" xlink:href="#kew-linear-gradient" />
+		<linearGradient id="kew-linear-gradient-30" x1="579.26" y1="301.36" x2="675.02" y2="301.36" xlink:href="#kew-linear-gradient" />
+		<linearGradient id="kew-linear-gradient-31" x1="522.81" y1="253.9" x2="574.36" y2="253.9" xlink:href="#kew-linear-gradient" />
+		<linearGradient id="kew-linear-gradient-32" x1="554.48" y1="236.02" x2="606.04" y2="236.02" xlink:href="#kew-linear-gradient" />
+		<linearGradient id="kew-linear-gradient-33" x1="610.74" y1="283.3" x2="709.33" y2="283.3" xlink:href="#kew-linear-gradient" />
+		<linearGradient id="kew-linear-gradient-34" x1="492.75" y1="351.03" x2="591.33" y2="351.03" xlink:href="#kew-linear-gradient" />
+		<linearGradient id="kew-linear-gradient-35" x1="468.3" y1="387.58" x2="550.35" y2="387.58" xlink:href="#kew-linear-gradient" />
+		<linearGradient id="kew-linear-gradient-36" x1="432.47" y1="472.55" x2="465.99" y2="472.55" gradientTransform="matrix(-1, 0, 0, 1, 903.41, 0)" xlink:href="#kew-linear-gradient" />
+		<linearGradient id="kew-linear-gradient-37" x1="347.41" y1="472.55" x2="380.93" y2="472.55" gradientTransform="translate(121.58)" xlink:href="#kew-linear-gradient" />
+		<linearGradient id="kew-linear-gradient-38" x1="603.43" y1="322.13" x2="636.95" y2="322.13" gradientTransform="translate(121.58)" xlink:href="#kew-linear-gradient" />
+		<linearGradient id="kew-linear-gradient-39" x1="403.89" y1="349.36" x2="420.4" y2="349.36" xlink:href="#kew-linear-gradient" />
+		<linearGradient id="kew-linear-gradient-40" x1="387.74" y1="313" x2="439.64" y2="313" gradientTransform="matrix(-1, 0, 0, 1, 858.03, 0)" xlink:href="#kew-linear-gradient" />
+		<linearGradient id="kew-linear-gradient-41" x1="414.36" y1="432.34" x2="431.43" y2="432.34" xlink:href="#kew-linear-gradient" />
+		<linearGradient id="kew-linear-gradient-42" x1="468.17" y1="392.86" x2="470.99" y2="392.86" xlink:href="#kew-linear-gradient" />
+		<linearGradient id="kew-linear-gradient-43" x1="190.44" y1="265.8" x2="334.68" y2="265.8" gradientTransform="matrix(-1, 0, 0, 1, 580.52, 0)" xlink:href="#kew-linear-gradient" />
+		<linearGradient id="kew-linear-gradient-44" x1="425.98" y1="318.22" x2="130.42" y2="318.22" xlink:href="#kew-linear-gradient" />
+		<linearGradient id="kew-linear-gradient-45" x1="370.52" y1="258.84" x2="307.52" y2="258.84" xlink:href="#kew-linear-gradient" />
+		<linearGradient id="kew-linear-gradient-46" x1="916.2" y1="98.12" x2="1018.42" y2="98.12" xlink:href="#kew-linear-gradient" />
+		<linearGradient id="kew-linear-gradient-47" x1="916.2" y1="34.64" x2="939.29" y2="34.64" xlink:href="#kew-linear-gradient" />
+		<linearGradient id="kew-linear-gradient-48" x1="589.33" y1="393.2" x2="658.74" y2="393.2" xlink:href="#kew-linear-gradient" />
+		<linearGradient id="kew-linear-gradient-49" x1="589.33" y1="437.11" x2="658.74" y2="437.11" xlink:href="#kew-linear-gradient" />
+		<linearGradient id="kew-linear-gradient-50" x1="617.96" y1="402.05" x2="636.9" y2="402.05" xlink:href="#kew-linear-gradient" />
+		<linearGradient id="kew-linear-gradient-51" x1="604.04" y1="398.91" x2="647.44" y2="398.91" xlink:href="#kew-linear-gradient" />
+		<linearGradient id="kew-linear-gradient-52" x1="589.33" y1="347.55" x2="658.74" y2="347.55" xlink:href="#kew-linear-gradient" />
+		<linearGradient id="kew-linear-gradient-53" x1="862" y1="81.45" x2="631.07" y2="81.45" xlink:href="#kew-linear-gradient" />
+		<linearGradient id="kew-linear-gradient-54" x1="630.81" y1="255.23" x2="782.9" y2="255.23" xlink:href="#kew-linear-gradient" />
+	</defs>
+	<g>
+		<g>
+			<polygon class="kew-cls-1" points="459.19 141.62 526.19 103.63 570.02 131.17 498.52 173.37 459.19 141.62" />
+			<path class="kew-cls-2" d="M1017.71,165.25c0-107.41-100.37-138.34-100.37-138.34L572.67,218.62l31.76,35.85-16.77,9.76,52,30,4.78,5.4,2.81-1,98.35,56.78,237-136.81s40.29-23.26,34.54-53.17Z" />
+			<path class="kew-cls-3" d="M917.34,26.9l-5.08,2.23a42.5,42.5,0,0,0-9.71-7.34C869.28,2.59,836,21.38,836,21.38L507.27,210.76l66.55,38.42,328.73-189s14.64-8.45,14.78-19.75h0Z" />
+			<path class="kew-cls-4" d="M573.82,236,507.27,197.6,836,8.23s33.27-18.79,66.55.42,0,38.42,0,38.42Z" />
+			<polygon class="kew-cls-5" points="552.23 79.45 552.23 84.78 609.32 118.02 624.64 121.58 552.23 79.45" />
+			<polygon class="kew-cls-6" points="395.41 169.33 552.23 79.45 552.23 84.78 403.72 173.37 395.41 169.33" />
+			<path class="kew-cls-7" d="M695.8,239.58s86,18.87,86,136.71l-312.22,182,.07-186.38Z" />
+			<path class="kew-cls-8" d="M318.92,284.66s-86,18.87-86,136.71L470,558.14l-.07-186.38Z" />
+			<polygon class="kew-cls-3" points="649.01 212.56 469.63 270.62 469.63 227.91 469.63 371.83 469.69 371.87 695.8 239.58 695.8 212.56 649.01 212.56" />
+			<polygon class="kew-cls-9" points="365.72 257.62 469.69 227.59 469.99 227.77 469.99 371.69 469.93 371.73 318.92 284.63 318.92 257.62 365.72 257.62" />
+			<path class="kew-cls-10" d="M318.92,257.76s9-49.44,70.15-62.07l80.83,46.07-.21,103Z" />
+			<path class="kew-cls-11" d="M695.72,212.56s-2.75-48.86-63.87-64.12l-163,93.3,1,103.05Z" />
+			<polygon class="kew-cls-3" points="607.1 134.16 493.75 184.3 468.89 173.37 468.89 241.75 468.92 241.77 631.84 148.44 631.84 134.16 607.1 134.16" />
+			<polygon class="kew-cls-9" points="413.82 195.44 468.8 163.71 468.95 163.8 468.95 241.72 468.92 241.75 389.08 195.69 389.08 181.41 413.82 195.44" />
+			<path class="kew-cls-12" d="M552.23,84.78,411.57,165.26l57.5,33.19L609.32,118ZM465.74,142,520,110.49l39.58,22.85L505.44,164.9Z" />
+			<path class="kew-cls-13" d="M468.86,227.58l.21-29.13-57.5-33.19s-22.49-.81-22.49,16.16Z" />
+			<path class="kew-cls-14" d="M469.14,227.58l.21-29.13-57.5-33.19s-22.49-.81-22.49,16.16Z" />
+			<path class="kew-cls-15" d="M469,227.62l-.21-29.13L609.32,118s22.49-.81,22.49,16.16Z" />
+			<path class="kew-cls-16" d="M415.36,339.64,86.08,457.51C-11.08,517.1.42,626.7.42,626.7h0c-.7,13.9,7.71,29.69,35.06,45.49,79,45.6,158,0,158,0l237-136.81C430.43,412.44,415.36,339.64,415.36,339.64Z" />
+			<path class="kew-cls-3" d="M403.91,333.05l-54.33-31.29L97,447.75a42.48,42.48,0,0,0-6.9,5.24l-7.72,2.95v12.5l0,0c.41,5.37,4.25,11.34,14.58,17.3,32.89,19,65.77,0,65.77,0L415.36,339.64v-11Z" />
+			<path class="kew-cls-17" d="M349.58,290.8,97,436.79s-32.89,19,0,38,65.77,0,65.77,0L415.36,328.68S387.36,280,349.58,290.8Z" />
+			<path class="kew-cls-18" d="M590.33,487.9S591.47,342,561.8,318.32l50.3-29.76,32.37,14.66L590.33,487.9" />
+			<line class="kew-cls-19" x1="131.42" y1="691.26" x2="131.42" y2="483.2" />
+			<path class="kew-cls-20" d="M17.34,659.49S26.9,519.11,93,483.2v-11" />
+			<path class="kew-cls-21" d="M34.17,505.52s24.3-37.43,48.24-37.08l0-11" />
+			<polygon class="kew-cls-22" points="519.98 110.49 519.98 118.01 552.83 137.26 559.55 133.34 519.98 110.49" />
+			<polygon class="kew-cls-23" points="519.98 110.49 519.98 118.01 472.1 145.79 465.74 141.99 519.98 110.49" />
+		</g>
+		<g>
+			<path class="kew-cls-24" d="M215.21,659.49c0-116.47-56.9-171.59-56.9-171.59v-11" />
+			<path class="kew-cls-25" d="M266.91,629.55C266.91,513.08,210,458,210,458v-10.5" />
+			<path class="kew-cls-26" d="M313.07,603.12c0-116.47-56.9-171.59-56.9-171.59V420.75" />
+			<path class="kew-cls-27" d="M365.06,573.7c0-116.47-56.9-171.59-56.9-171.59V390.68" />
+			<path class="kew-cls-28" d="M360.06,360.66v10.4S417,426.19,417,542.66" />
+			<path class="kew-cls-29" d="M741.89,266.79c-16.49-59.88-46.18-88.65-46.18-88.65v-11" />
+			<path class="kew-cls-30" d="M804.31,319.78c0-116.47-56.9-171.59-56.9-171.59v-10.5" />
+			<path class="kew-cls-31" d="M850.47,293.36c0-116.47-56.9-171.59-56.9-171.59V111" />
+			<path class="kew-cls-32" d="M902.46,263.93c0-116.47-56.9-171.59-56.9-171.59V80.92" />
+			<path class="kew-cls-33" d="M954.35,232.9c0-116.47-56.9-171.59-56.9-171.59V50.9" />
+			<path class="kew-cls-34" d="M580.26,163.58v14.5c45.05,13.88,49.56,72.37,49.56,72.37v27s44.2,31,44.2,161.67" />
+			<path class="kew-cls-35" d="M523.81,197v14.5c45.05,13.88,49.56,72.37,49.56,72.37v27" />
+			<path class="kew-cls-36" d="M555.48,179.09v14.5C600.53,207.47,605,266,605,266v27" />
+			<path class="kew-cls-37" d="M611.74,146.43v14.5c45.05,13.88,49.56,72.37,49.56,72.37v27c16.29,21.79,47,74.26,47,159.87" />
+			<path class="kew-cls-38" d="M493.75,214.16v14.5C538.8,242.54,543.3,301,543.3,301v27c16.29,21.79,47,74.26,47,159.87" />
+			<path class="kew-cls-39" d="M469.3,262c29.68,20.92,33,64.27,33,64.27v27c16.29,21.79,47,74.26,47,159.87" />
+			<path class="kew-cls-40" d="M469.94,404.86c-15.17,28.14-31.52,72.94-31.52,135.37" />
+			<path class="kew-cls-41" d="M470,404.86c15.17,28.14,31.52,72.94,31.52,135.37" />
+			<path class="kew-cls-42" d="M726,254.45c15.17,28.14,31.52,72.94,31.52,135.37" />
+			<path class="kew-cls-43" d="M419.4,364c-8.31-12.24-14.51-18.25-14.51-18.25v-11" />
+			<path class="kew-cls-44" d="M419.4,364a154.14,154.14,0,0,1,11-14.48V322.13s2.65-42.39,38.87-60.12" />
+			<path class="kew-cls-45" d="M430.43,535.38c0-119.34-15.07-195.12-15.07-195.12v-11" />
+			<polyline class="kew-cls-46" points="469.99 558.14 469.69 371.87 469.17 227.58" />
+			<path class="kew-cls-47" d="M246.84,350.19c11.72-26.58,33.09-53.24,72-65.41l.09-27s10.17-48.42,70.15-62.07V181.41" />
+			<path class="kew-cls-48" d="M425,202.19V216.4c-45.56,32.35-44.22,77.05-44.22,77.05L131.42,434.25" />
+			<path class="kew-cls-49" d="M369.52,202.73c-33.67,20.77-36.67,63.07-36.67,63.07v27.66s-11,7.06-24.33,21.51" />
+			<path class="kew-cls-50" d="M917.2,29.05V42.13s100.22,17.43,100.22,125" />
+			<path class="kew-cls-51" d="M917.2,34.12s12.18-3.11,21.09,2" />
+			<polygon class="kew-cls-12" points="590.33 487.9 590.33 367.01 624.04 347.55 657.74 328.09 657.74 448.6 590.33 487.9" />
+			<path class="kew-cls-12" d="M624,308.63s33.7-20.93,33.7,19.46L590.33,367S590.33,330.79,624,308.63Z" />
+			<line class="kew-cls-52" x1="590.33" y1="412.66" x2="657.74" y2="373.74" />
+			<line class="kew-cls-53" x1="590.33" y1="456.57" x2="657.74" y2="417.65" />
+			<path class="kew-cls-54" d="M635.88,461.65V341s.77-12-7.82-7.49c-9.49,5-9.1,17.26-9.1,17.26V471.57" />
+			<path class="kew-cls-55" d="M646.41,456.28V338.35s1.63-29.29-19-18.81C604.08,331.4,605,362.23,605,362.23V480.56" />
+			<line class="kew-cls-56" x1="590.33" y1="367.01" x2="657.74" y2="328.09" />
+			<line class="kew-cls-57" x1="632.07" y1="147.78" x2="861" y2="15.12" />
+			<path class="kew-cls-58" d="M781.85,376.28s5.15-108.17-86-136.71l-.09-27s-3.88-50.47-63.87-64.12l0-14.27" />
+			<path class="kew-cls-14" d="M469.93,371.73l-.3,186.52-39.2-22.87C411.57,426.79,339,383.8,339,383.8V373.74s-67.28-26-139.47,3.79l47.3-27.34S265,301,318.92,284.66l20.6,11.88,10.06-5.74S382.1,277,415.36,328.68V340Z" />
+			<path class="kew-cls-14" d="M318.92,257.76s9-49.44,70.15-62.07l80.83,46.07-.21,103Z" />
+		</g>
+	</g>
+</svg>

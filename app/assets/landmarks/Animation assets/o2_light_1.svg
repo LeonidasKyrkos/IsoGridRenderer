@@ -1,0 +1,25 @@
+<svg class="o2__light" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 665.79 539.93" width="666" height="540">
+	<defs>
+		<style>
+			.o2-cls-1,.o2-cls-2,.o2-cls-3,.o2-cls-5{opacity:0.3;}.o2-cls-1{fill:url(#o2-linear-gradient);}.o2-cls-2{fill:url(#o2-linear-gradient-2);}.o2-cls-3{fill:url(#o2-linear-gradient-3);}.o2-cls-4{fill:url(#o2-linear-gradient-4);}.o2-cls-5{fill:url(#o2-linear-gradient-5);}
+		</style>
+		<linearGradient id="o2-linear-gradient" x1="502.16" y1="106.38" x2="665.36" y2="106.38" gradientUnits="userSpaceOnUse">
+			<stop offset="0.07" stop-color="#c914bc" />
+			<stop offset="0.59" stop-color="#911ac4" />
+			<stop offset="0.99" stop-color="#731ac4" />
+		</linearGradient>
+		<linearGradient id="o2-linear-gradient-2" x1="502.59" y1="106.07" x2="665.79" y2="106.07" xlink:href="#o2-linear-gradient" />
+		<linearGradient id="o2-linear-gradient-3" x1="658.75" y1="211.35" x2="661.25" y2="211.35" xlink:href="#o2-linear-gradient" />
+		<linearGradient id="o2-linear-gradient-4" x1="504.34" y1="3.05" x2="506.26" y2="3.05" xlink:href="#o2-linear-gradient" />
+		<linearGradient id="o2-linear-gradient-5" x1="0" y1="272" x2="658.75" y2="272" xlink:href="#o2-linear-gradient" />
+	</defs>
+	<g>
+		<g>
+			<path class="o2-cls-1" d="M661.25,210.72l-2.5,1.26c-16.45,5.09-59.94-32.09-100.48-86.67s-63.56-107-53.93-121.23l1.92-2c14.07-10.45,60.18,27.79,103,85.42S675.33,200.27,661.25,210.72Z" />
+			<path class="o2-cls-2" d="M661.68,210.41l-2.5,1.26c-16.45,5.09-59.94-32.09-100.48-86.67S495.14,18,504.77,3.76l1.92-2c14.07-10.45,60.18,27.79,103,85.42S675.75,200,661.68,210.41Z" />
+			<path class="o2-cls-3" d="M661.25,210.72a8.45,8.45,0,0,1-2.5,1.26Z" />
+			<path class="o2-cls-4" d="M504.34,4.07a8.22,8.22,0,0,1,1.92-2Z" />
+			<path class="o2-cls-5" d="M658.75,212,0,539.93,504.34,4.07c-9.63,14.27,13.4,66.66,53.93,121.23S642.3,217.07,658.75,212Z" />
+		</g>
+	</g>
+</svg>

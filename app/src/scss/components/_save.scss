@@ -1,0 +1,17 @@
+$module: 		'save';
+
+.#{$module} {
+	&__status {
+		position: fixed;
+		top: 50%;
+		left: 0;
+		right: 0;
+		width: em(300);
+		text-align: center;
+		padding: em(20);
+		background-color: white;
+		border-radius: em(6);
+		margin: 0 auto;
+		z-index: 10;
+	}
+}

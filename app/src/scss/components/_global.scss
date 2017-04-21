@@ -1,0 +1,57 @@
+::-webkit-scrollbar { 
+    display: none; 
+}
+
+* {
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 62.5%;
+}
+
+body {
+	background-color: $color6;
+	@include font-size($fzBase);
+	font-family: $ffBase;	
+	overflow: -moz-scrollbars-none !important;
+	width: 100vw;
+	height: 100vh;
+	overflow: hidden;
+	line-height: ($lhBase / $fzBase);
+}
+
+.innerwrap {
+	cursor: -webkit-grab;
+	cursor: -moz-grab;
+	overflow: hidden;
+	width: em(8000);
+	height: 100vh;
+	overflow: -moz-scrollbars-none !important;
+
+	&:active {
+		cursor: -webkit-grabbing;
+		cursor: -moz-grabbing;
+	}
+}
+
+.hide {
+	display: none !important;
+}
+
+.invisible {
+	visibility: hidden !important;
+}
+
+#templates {
+	display: none;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+p {
+	margin-bottom: em(20);
+}

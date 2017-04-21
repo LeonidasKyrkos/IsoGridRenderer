@@ -1,0 +1,87 @@
+$module: 		'kew';
+
+.#{$module} {
+	width: em(300);
+	transform: translateY(16px)translateX(13px);
+
+	&__svg {
+		width: 100%;
+		height: auto;
+	}
+
+	&__window {
+		position: absolute;
+		bottom: calc(100% - 50px);
+		left: em(135);
+		width: em(30);
+		height: auto;
+		transform: translateX(0)translateY(0);
+		transition-property: transform;
+		transition-duration: 0.15s;
+		transition-delay: 0.2s;
+		transition-timing-function: linear;
+
+		.#{$module}.active & {
+			transform: translateX(20px)translateY(-11px);
+		}
+	}
+
+	&__tree {
+		position: absolute;
+		bottom: calc(100% - 46px);
+		left: em(149);
+		visibility: hidden;
+
+		.#{$module}.active & {
+			visibility: visible;
+		}
+	}	
+
+	&__tree-trunk {
+		height: em(80);
+		background-color: $color2;
+		width: em(4);
+		display: block;
+		transform: scaleY(0);
+		transform-origin: center bottom;
+		transition-property: transform;
+		transition-duration: 0.3s;
+		transition-delay: 0.7s;
+		transition-timing-function: linear;
+
+		.#{$module}.active & {
+			transform: scaleY(0.4);
+		}
+	}
+
+	&__tree-leaves {
+		opacity: 0.9;
+		height: em(50);
+		width: em(55);
+		background-color: $color3;
+		border-radius: 100%;
+		transition-property: transform;
+		transition-duration: 0.35s;
+		transition-delay: 1.05s;
+		transition-timing-function: linear;
+		transform: scale3d(0,0,0);
+		transform-origin: center;
+		display: block;
+		position: absolute;
+		bottom: em(8);
+		left: 50%;
+		margin-left: em(-27);
+
+		.#{$module}.active & {
+			transform: scale3d(1,1,1);
+		}
+	}
+
+	&__tree-leaves--top {
+		@extend .#{$module}__tree-leaves;
+		height: em(30);
+		width: em(35);
+		bottom: em(50);
+		margin-left: em(-17);
+	}
+}

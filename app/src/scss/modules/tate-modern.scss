@@ -1,0 +1,58 @@
+$module: 		'tate-modern';
+
+.#{$module} {
+	transform: translateY(49px)translateX(2px);
+
+	&__svg {
+		transform: translateZ(0);
+	}
+
+	&__painting {
+		position: absolute;
+		top: em(-50);
+		right: em(-170);
+		max-width: em(80);
+		opacity: 0;
+
+		.palette & {
+			display: none;
+		}
+
+		&:nth-child(1) {
+			.#{$module}.active & {
+				animation: 5s 3s linear infinite paintingSlide;
+			}			
+		}
+
+		&:nth-child(2) {
+			.#{$module}.active & {
+				animation: 5s 1.5s linear infinite paintingSlide;
+			}
+		}
+
+		&:nth-child(3) {
+			.#{$module}.active & {
+				animation: 5s linear infinite paintingSlide;
+			}
+		}
+	}
+}
+
+@keyframes paintingSlide {
+	0% {
+		opacity: 0;
+		transform: translateX(0)translateY(0);
+	}
+	10% {
+		opacity: 1;
+		transform: translateX(-34px)translateY(20px);
+	}
+	80% {
+		opacity: 1;
+		transform: translateX(-270px)translateY(160px);
+	}
+	100% {
+		opacity: 1;
+		transform: translateX(-270px)translateY(160px);
+	}
+}

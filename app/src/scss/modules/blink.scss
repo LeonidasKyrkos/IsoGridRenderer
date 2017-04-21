@@ -1,0 +1,5 @@
+$module: 	'blink';
+
+.#{$module} {
+	animation: 1s linear infinite blink;
+}

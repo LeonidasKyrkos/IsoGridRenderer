@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 120.48 182.18" width="120" height="182" class="shard__balloon">
+	<defs>
+		<style>
+			.shard-balloon-cls-1{fill:#3c59a3;}.shard-balloon-cls-2{fill:url(#shard-balloon-linear-gradient);}.shard-balloon-cls-3{fill:#09d1e3;}.shard-balloon-cls-4{opacity:0.8;fill:url(#shard-balloon-linear-gradient-2);}.shard-balloon-cls-5{fill:url(#shard-balloon-linear-gradient-3);}
+		</style>
+		<linearGradient id="shard-balloon-linear-gradient" x1="43.15" y1="168.07" x2="62.21" y2="171.57" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#2d96d2" />
+			<stop offset="1" stop-color="#2057a1" />
+		</linearGradient>
+		<linearGradient id="shard-balloon-linear-gradient-2" x1="9.36" y1="27.86" x2="112.86" y2="87.61" gradientUnits="userSpaceOnUse">
+			<stop offset="0.07" stop-color="#c914bc" />
+			<stop offset="0.59" stop-color="#911ac4" />
+			<stop offset="0.99" stop-color="#731ac4" />
+		</linearGradient>
+		<linearGradient id="shard-balloon-linear-gradient-3" x1="0.21" y1="118.86" x2="120.26" y2="118.86" xlink:href="#shard-balloon-linear-gradient" />
+	</defs>
+	<g>
+		<g>
+			<polygon class="shard-balloon-cls-1" points="45.1 157.47 60.26 166.23 75.38 157.5 59.91 148.78 45.1 157.47" />
+			<polygon class="shard-balloon-cls-2" points="45.1 157.47 45.1 173.42 60.26 182.18 60.26 166.23 45.1 157.47" />
+			<polygon class="shard-balloon-cls-3" points="75.38 157.5 75.38 173.45 60.26 182.18 60.26 166.23 75.38 157.5" />
+			<path class="shard-balloon-cls-4" d="M120.48,60.24A60.24,60.24,0,0,0,0,60.24c0,33.27,27,51.59,60.24,51.59S120.48,93.51,120.48,60.24Z" />
+			<path class="shard-balloon-cls-5" d="M120.26,73a1.28,1.28,0,1,0-2.55,0c0,3.26-6.07,6.75-16.25,9.35-11,2.8-25.64,4.34-41.23,4.34S30,85.17,19,82.37C8.84,79.78,2.76,76.29,2.76,73A1.28,1.28,0,1,0,.21,73,6.21,6.21,0,0,0,2,77.16l43.5,80.34a.64.64,0,1,0,1.12-.61L4.63,79.42c3.64,2.43,9,4.2,13.75,5.42,11,2.81,25.66,4.38,41.22,4.42l0,76.06a.64.64,0,1,0,1.28,0l0-76.06c15.56,0,30.17-1.61,41.22-4.42,4.86-1.24,10.26-3,13.9-5.52L74.11,156.8a.64.64,0,0,0,1.12.61l43.55-80.56A6,6,0,0,0,120.26,73Z" />
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,54 @@
+$module: 		'palette';
+
+.#{$module} {
+	@include font-size($fzBase);
+	position: fixed;
+	top: 0;
+	right: 0;
+	background-color: rgba(black,0.8);
+	height: 70vh;
+
+	&:after {
+		content: "";
+		pointer-events: none;
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		height: em(100);
+		background-image: linear-gradient(to top,rgba(black,0.6) 0%, rgba(black,0.6) 50%,transparent 100%);;
+	}
+
+	&__inner {
+		max-height: 100%;
+		overflow: scroll;
+		display: inline-block;
+		vertical-align: top;
+		padding: em(10) em(20) em(100);
+	}
+
+	&__item {
+		display: block;
+		margin: em(5) auto;
+		padding: 3px;
+		max-width: em(100);
+		height: auto;
+
+		&.empty {
+			width: em(50);
+			height: em(50);
+			background-color: black;
+		}
+
+		&.animation {
+			width: em(100);
+			height: em(100);
+
+			margin: em(20) auto;
+		}
+
+		&.active {			
+			outline: 1px solid white;
+		}
+	}
+}

@@ -1,0 +1,649 @@
+<svg class="battersea__svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1609.73 1276.21" width="1610" height="1276">
+	<defs>
+		<style>
+			.battersea-cls-1{fill:url(#battersea-linear-gradient);}.battersea-cls-2{fill:#09d1e3;}.battersea-cls-3{fill:url(#battersea-linear-gradient-2);}.battersea-cls-4{fill:url(#battersea-linear-gradient-3);}.battersea-cls-5{fill:url(#battersea-linear-gradient-4);}.battersea-cls-6{fill:url(#battersea-linear-gradient-5);}.battersea-cls-7{fill:url(#battersea-linear-gradient-6);}.battersea-cls-8{fill:url(#battersea-linear-gradient-7);}.battersea-cls-9{fill:#2d96d2;}.battersea-cls-10{fill:url(#battersea-linear-gradient-8);}.battersea-cls-11{fill:url(#battersea-linear-gradient-9);}.battersea-cls-12{fill:url(#battersea-linear-gradient-10);}.battersea-cls-13{fill:url(#battersea-linear-gradient-11);}.battersea-cls-14{fill:url(#battersea-linear-gradient-12);}.battersea-cls-15{fill:url(#battersea-linear-gradient-13);}.battersea-cls-16{fill:url(#battersea-linear-gradient-14);}.battersea-cls-17{fill:url(#battersea-linear-gradient-15);}.battersea-cls-18{fill:url(#battersea-linear-gradient-16);}.battersea-cls-19{fill:url(#battersea-linear-gradient-17);}.battersea-cls-20{fill:url(#battersea-linear-gradient-18);}.battersea-cls-21{fill:url(#battersea-linear-gradient-19);}.battersea-cls-22{fill:url(#battersea-linear-gradient-20);}.battersea-cls-23{fill:url(#battersea-linear-gradient-21);}.battersea-cls-24{fill:url(#battersea-linear-gradient-22);}.battersea-cls-25{fill:url(#battersea-linear-gradient-23);}.battersea-cls-26{fill:url(#battersea-linear-gradient-24);}.battersea-cls-27{fill:url(#battersea-linear-gradient-25);}.battersea-cls-28{fill:url(#battersea-linear-gradient-26);}.battersea-cls-29{fill:url(#battersea-linear-gradient-27);}.battersea-cls-30{fill:url(#battersea-linear-gradient-28);}.battersea-cls-129,.battersea-cls-134,.battersea-cls-135,.battersea-cls-136,.battersea-cls-137,.battersea-cls-138,.battersea-cls-139,.battersea-cls-140,.battersea-cls-141,.battersea-cls-142,.battersea-cls-143,.battersea-cls-173,.battersea-cls-178,.battersea-cls-179,.battersea-cls-180,.battersea-cls-181,.battersea-cls-182,.battersea-cls-183,.battersea-cls-184,.battersea-cls-185,.battersea-cls-186,.battersea-cls-187,.battersea-cls-225,.battersea-cls-226,.battersea-cls-227,.battersea-cls-228,.battersea-cls-229,.battersea-cls-230,.battersea-cls-231,.battersea-cls-233,.battersea-cls-234,.battersea-cls-235,.battersea-cls-236,.battersea-cls-239,.battersea-cls-240,.battersea-cls-241,.battersea-cls-242,.battersea-cls-243,.battersea-cls-244,.battersea-cls-245,.battersea-cls-247,.battersea-cls-248,.battersea-cls-249,.battersea-cls-250,.battersea-cls-31,.battersea-cls-36,.battersea-cls-37,.battersea-cls-38,.battersea-cls-39,.battersea-cls-40,.battersea-cls-41,.battersea-cls-42,.battersea-cls-43,.battersea-cls-44,.battersea-cls-45,.battersea-cls-78,.battersea-cls-83,.battersea-cls-84,.battersea-cls-85,.battersea-cls-86,.battersea-cls-87,.battersea-cls-88,.battersea-cls-89,.battersea-cls-90,.battersea-cls-91,.battersea-cls-92{fill:none;}.battersea-cls-129,.battersea-cls-134,.battersea-cls-135,.battersea-cls-136,.battersea-cls-137,.battersea-cls-138,.battersea-cls-139,.battersea-cls-140,.battersea-cls-141,.battersea-cls-142,.battersea-cls-143,.battersea-cls-173,.battersea-cls-178,.battersea-cls-179,.battersea-cls-180,.battersea-cls-181,.battersea-cls-182,.battersea-cls-183,.battersea-cls-184,.battersea-cls-185,.battersea-cls-186,.battersea-cls-187,.battersea-cls-31,.battersea-cls-36,.battersea-cls-37,.battersea-cls-38,.battersea-cls-39,.battersea-cls-40,.battersea-cls-41,.battersea-cls-42,.battersea-cls-43,.battersea-cls-44,.battersea-cls-45,.battersea-cls-78,.battersea-cls-83,.battersea-cls-84,.battersea-cls-85,.battersea-cls-86,.battersea-cls-87,.battersea-cls-88,.battersea-cls-89,.battersea-cls-90,.battersea-cls-91,.battersea-cls-92{stroke-miterlimit:10;}.battersea-cls-31{stroke:url(#battersea-linear-gradient-29);}.battersea-cls-32{fill:url(#battersea-linear-gradient-30);}.battersea-cls-33{fill:url(#battersea-linear-gradient-31);}.battersea-cls-34{fill:url(#battersea-linear-gradient-32);}.battersea-cls-35{fill:url(#battersea-linear-gradient-33);}.battersea-cls-134,.battersea-cls-135,.battersea-cls-136,.battersea-cls-137,.battersea-cls-138,.battersea-cls-139,.battersea-cls-140,.battersea-cls-141,.battersea-cls-142,.battersea-cls-143,.battersea-cls-178,.battersea-cls-179,.battersea-cls-180,.battersea-cls-181,.battersea-cls-182,.battersea-cls-183,.battersea-cls-184,.battersea-cls-185,.battersea-cls-186,.battersea-cls-187,.battersea-cls-225,.battersea-cls-226,.battersea-cls-227,.battersea-cls-228,.battersea-cls-229,.battersea-cls-230,.battersea-cls-231,.battersea-cls-233,.battersea-cls-234,.battersea-cls-235,.battersea-cls-236,.battersea-cls-239,.battersea-cls-240,.battersea-cls-241,.battersea-cls-242,.battersea-cls-243,.battersea-cls-244,.battersea-cls-245,.battersea-cls-247,.battersea-cls-248,.battersea-cls-249,.battersea-cls-250,.battersea-cls-36,.battersea-cls-37,.battersea-cls-38,.battersea-cls-39,.battersea-cls-40,.battersea-cls-41,.battersea-cls-42,.battersea-cls-43,.battersea-cls-44,.battersea-cls-45,.battersea-cls-83,.battersea-cls-84,.battersea-cls-85,.battersea-cls-86,.battersea-cls-87,.battersea-cls-88,.battersea-cls-89,.battersea-cls-90,.battersea-cls-91,.battersea-cls-92{stroke-linecap:round;}.battersea-cls-36{stroke:url(#battersea-linear-gradient-34);}.battersea-cls-37{stroke:url(#battersea-linear-gradient-35);}.battersea-cls-38{stroke:url(#battersea-linear-gradient-36);}.battersea-cls-39{stroke:url(#battersea-linear-gradient-37);}.battersea-cls-40{stroke:url(#battersea-linear-gradient-38);}.battersea-cls-41{stroke:url(#battersea-linear-gradient-39);}.battersea-cls-42{stroke:url(#battersea-linear-gradient-40);}.battersea-cls-43{stroke:url(#battersea-linear-gradient-41);}.battersea-cls-44{stroke:url(#battersea-linear-gradient-42);}.battersea-cls-45{stroke:url(#battersea-linear-gradient-43);}.battersea-cls-46{fill:url(#battersea-linear-gradient-44);}.battersea-cls-47{fill:url(#battersea-linear-gradient-45);}.battersea-cls-48{fill:url(#battersea-linear-gradient-46);}.battersea-cls-49{fill:url(#battersea-linear-gradient-47);}.battersea-cls-50{fill:url(#battersea-linear-gradient-48);}.battersea-cls-51{fill:url(#battersea-linear-gradient-49);}.battersea-cls-52{fill:url(#battersea-linear-gradient-50);}.battersea-cls-53{fill:url(#battersea-linear-gradient-51);}.battersea-cls-54{fill:url(#battersea-linear-gradient-52);}.battersea-cls-55{fill:url(#battersea-linear-gradient-53);}.battersea-cls-56{fill:url(#battersea-linear-gradient-54);}.battersea-cls-57{fill:url(#battersea-linear-gradient-55);}.battersea-cls-58{fill:url(#battersea-linear-gradient-56);}.battersea-cls-59{fill:url(#battersea-linear-gradient-57);}.battersea-cls-60{fill:url(#battersea-linear-gradient-58);}.battersea-cls-61{fill:url(#battersea-linear-gradient-59);}.battersea-cls-62{fill:url(#battersea-linear-gradient-60);}.battersea-cls-63{fill:url(#battersea-linear-gradient-61);}.battersea-cls-64{fill:url(#battersea-linear-gradient-62);}.battersea-cls-65{fill:url(#battersea-linear-gradient-63);}.battersea-cls-66{fill:url(#battersea-linear-gradient-64);}.battersea-cls-67{fill:url(#battersea-linear-gradient-65);}.battersea-cls-68{fill:url(#battersea-linear-gradient-66);}.battersea-cls-69{fill:url(#battersea-linear-gradient-67);}.battersea-cls-70{fill:url(#battersea-linear-gradient-68);}.battersea-cls-71{fill:url(#battersea-linear-gradient-69);}.battersea-cls-72{fill:url(#battersea-linear-gradient-70);}.battersea-cls-73{fill:url(#battersea-linear-gradient-71);}.battersea-cls-74{fill:url(#battersea-linear-gradient-72);}.battersea-cls-75{fill:url(#battersea-linear-gradient-73);}.battersea-cls-76{fill:url(#battersea-linear-gradient-74);}.battersea-cls-77{fill:url(#battersea-linear-gradient-75);}.battersea-cls-78{stroke:url(#battersea-linear-gradient-76);}.battersea-cls-79{fill:url(#battersea-linear-gradient-77);}.battersea-cls-80{fill:url(#battersea-linear-gradient-78);}.battersea-cls-81{fill:url(#battersea-linear-gradient-79);}.battersea-cls-82{fill:url(#battersea-linear-gradient-80);}.battersea-cls-83{stroke:url(#battersea-linear-gradient-81);}.battersea-cls-84{stroke:url(#battersea-linear-gradient-82);}.battersea-cls-85{stroke:url(#battersea-linear-gradient-83);}.battersea-cls-86{stroke:url(#battersea-linear-gradient-84);}.battersea-cls-87{stroke:url(#battersea-linear-gradient-85);}.battersea-cls-88{stroke:url(#battersea-linear-gradient-86);}.battersea-cls-89{stroke:url(#battersea-linear-gradient-87);}.battersea-cls-90{stroke:url(#battersea-linear-gradient-88);}.battersea-cls-91{stroke:url(#battersea-linear-gradient-89);}.battersea-cls-92{stroke:url(#battersea-linear-gradient-90);}.battersea-cls-93{fill:url(#battersea-linear-gradient-91);}.battersea-cls-94{fill:url(#battersea-linear-gradient-92);}.battersea-cls-95{fill:url(#battersea-linear-gradient-93);}.battersea-cls-96{fill:url(#battersea-linear-gradient-94);}.battersea-cls-97{fill:url(#battersea-linear-gradient-95);}.battersea-cls-98{fill:url(#battersea-linear-gradient-96);}.battersea-cls-99{fill:url(#battersea-linear-gradient-97);}.battersea-cls-100{fill:url(#battersea-linear-gradient-98);}.battersea-cls-101{fill:url(#battersea-linear-gradient-99);}.battersea-cls-102{fill:url(#battersea-linear-gradient-100);}.battersea-cls-103{fill:url(#battersea-linear-gradient-101);}.battersea-cls-104{fill:url(#battersea-linear-gradient-102);}.battersea-cls-105{fill:url(#battersea-linear-gradient-103);}.battersea-cls-106{fill:url(#battersea-linear-gradient-104);}.battersea-cls-107{fill:url(#battersea-linear-gradient-105);}.battersea-cls-108{fill:url(#battersea-linear-gradient-106);}.battersea-cls-109{fill:url(#battersea-linear-gradient-107);}.battersea-cls-110{fill:url(#battersea-linear-gradient-108);}.battersea-cls-111{fill:url(#battersea-linear-gradient-109);}.battersea-cls-112{fill:url(#battersea-linear-gradient-110);}.battersea-cls-113{fill:url(#battersea-linear-gradient-111);}.battersea-cls-114{fill:url(#battersea-linear-gradient-112);}.battersea-cls-115{fill:url(#battersea-linear-gradient-113);}.battersea-cls-116{fill:url(#battersea-linear-gradient-114);}.battersea-cls-117{fill:url(#battersea-linear-gradient-115);}.battersea-cls-118{fill:url(#battersea-linear-gradient-116);}.battersea-cls-119{fill:url(#battersea-linear-gradient-117);}.battersea-cls-120{fill:url(#battersea-linear-gradient-118);}.battersea-cls-121{fill:url(#battersea-linear-gradient-119);}.battersea-cls-122{fill:url(#battersea-linear-gradient-120);}.battersea-cls-123{fill:url(#battersea-linear-gradient-121);}.battersea-cls-124{fill:url(#battersea-linear-gradient-122);}.battersea-cls-125{fill:url(#battersea-linear-gradient-123);}.battersea-cls-126{fill:url(#battersea-linear-gradient-124);}.battersea-cls-127{fill:url(#battersea-linear-gradient-125);}.battersea-cls-128{fill:url(#battersea-linear-gradient-126);}.battersea-cls-129{stroke:url(#battersea-linear-gradient-127);}.battersea-cls-130{fill:url(#battersea-linear-gradient-128);}.battersea-cls-131{fill:url(#battersea-linear-gradient-129);}.battersea-cls-132{fill:url(#battersea-linear-gradient-130);}.battersea-cls-133{fill:url(#battersea-linear-gradient-131);}.battersea-cls-134{stroke:url(#battersea-linear-gradient-132);}.battersea-cls-135{stroke:url(#battersea-linear-gradient-133);}.battersea-cls-136{stroke:url(#battersea-linear-gradient-134);}.battersea-cls-137{stroke:url(#battersea-linear-gradient-135);}.battersea-cls-138{stroke:url(#battersea-linear-gradient-136);}.battersea-cls-139{stroke:url(#battersea-linear-gradient-137);}.battersea-cls-140{stroke:url(#battersea-linear-gradient-138);}.battersea-cls-141{stroke:url(#battersea-linear-gradient-139);}.battersea-cls-142{stroke:url(#battersea-linear-gradient-140);}.battersea-cls-143{stroke:url(#battersea-linear-gradient-141);}.battersea-cls-144{fill:url(#battersea-linear-gradient-142);}.battersea-cls-145{fill:url(#battersea-linear-gradient-143);}.battersea-cls-146{fill:url(#battersea-linear-gradient-144);}.battersea-cls-147{fill:url(#battersea-linear-gradient-145);}.battersea-cls-148{fill:url(#battersea-linear-gradient-146);}.battersea-cls-149{fill:url(#battersea-linear-gradient-147);}.battersea-cls-150{fill:url(#battersea-linear-gradient-148);}.battersea-cls-151{fill:url(#battersea-linear-gradient-149);}.battersea-cls-152{fill:url(#battersea-linear-gradient-150);}.battersea-cls-153{fill:url(#battersea-linear-gradient-151);}.battersea-cls-154{fill:url(#battersea-linear-gradient-152);}.battersea-cls-155{fill:url(#battersea-linear-gradient-153);}.battersea-cls-156{fill:url(#battersea-linear-gradient-154);}.battersea-cls-157{fill:url(#battersea-linear-gradient-155);}.battersea-cls-158{fill:url(#battersea-linear-gradient-156);}.battersea-cls-159{fill:url(#battersea-linear-gradient-157);}.battersea-cls-160{fill:url(#battersea-linear-gradient-158);}.battersea-cls-161{fill:url(#battersea-linear-gradient-159);}.battersea-cls-162{fill:url(#battersea-linear-gradient-160);}.battersea-cls-163{fill:url(#battersea-linear-gradient-161);}.battersea-cls-164{fill:url(#battersea-linear-gradient-162);}.battersea-cls-165{fill:url(#battersea-linear-gradient-163);}.battersea-cls-166{fill:url(#battersea-linear-gradient-164);}.battersea-cls-167{fill:url(#battersea-linear-gradient-165);}.battersea-cls-168{fill:url(#battersea-linear-gradient-166);}.battersea-cls-169{fill:url(#battersea-linear-gradient-167);}.battersea-cls-170{fill:url(#battersea-linear-gradient-168);}.battersea-cls-171{fill:url(#battersea-linear-gradient-169);}.battersea-cls-172{fill:url(#battersea-linear-gradient-170);}.battersea-cls-173{stroke:url(#battersea-linear-gradient-171);}.battersea-cls-174{fill:url(#battersea-linear-gradient-172);}.battersea-cls-175{fill:url(#battersea-linear-gradient-173);}.battersea-cls-176{fill:url(#battersea-linear-gradient-174);}.battersea-cls-177{fill:url(#battersea-linear-gradient-175);}.battersea-cls-178{stroke:url(#battersea-linear-gradient-176);}.battersea-cls-179{stroke:url(#battersea-linear-gradient-177);}.battersea-cls-180{stroke:url(#battersea-linear-gradient-178);}.battersea-cls-181{stroke:url(#battersea-linear-gradient-179);}.battersea-cls-182{stroke:url(#battersea-linear-gradient-180);}.battersea-cls-183{stroke:url(#battersea-linear-gradient-181);}.battersea-cls-184{stroke:url(#battersea-linear-gradient-182);}.battersea-cls-185{stroke:url(#battersea-linear-gradient-183);}.battersea-cls-186{stroke:url(#battersea-linear-gradient-184);}.battersea-cls-187{stroke:url(#battersea-linear-gradient-185);}.battersea-cls-188{fill:url(#battersea-linear-gradient-186);}.battersea-cls-189{fill:url(#battersea-linear-gradient-187);}.battersea-cls-190{fill:url(#battersea-linear-gradient-188);}.battersea-cls-191{fill:url(#battersea-linear-gradient-189);}.battersea-cls-192{fill:url(#battersea-linear-gradient-190);}.battersea-cls-193{fill:url(#battersea-linear-gradient-191);}.battersea-cls-194{fill:url(#battersea-linear-gradient-192);}.battersea-cls-195{fill:url(#battersea-linear-gradient-193);}.battersea-cls-196{fill:url(#battersea-linear-gradient-194);}.battersea-cls-197{fill:url(#battersea-linear-gradient-195);}.battersea-cls-198{fill:url(#battersea-linear-gradient-196);}.battersea-cls-199{fill:url(#battersea-linear-gradient-197);}.battersea-cls-200{fill:url(#battersea-linear-gradient-198);}.battersea-cls-201{fill:url(#battersea-linear-gradient-199);}.battersea-cls-202{fill:url(#battersea-linear-gradient-200);}.battersea-cls-203{fill:url(#battersea-linear-gradient-201);}.battersea-cls-204{fill:url(#battersea-linear-gradient-202);}.battersea-cls-205{fill:url(#battersea-linear-gradient-203);}.battersea-cls-206{opacity:0.3;}.battersea-cls-207{fill:url(#battersea-linear-gradient-204);}.battersea-cls-208{fill:url(#battersea-linear-gradient-205);}.battersea-cls-209{fill:url(#battersea-linear-gradient-206);}.battersea-cls-210{fill:url(#battersea-linear-gradient-207);}.battersea-cls-211{fill:url(#battersea-linear-gradient-208);}.battersea-cls-212{fill:url(#battersea-linear-gradient-209);}.battersea-cls-213{fill:url(#battersea-linear-gradient-210);}.battersea-cls-214{fill:url(#battersea-linear-gradient-211);}.battersea-cls-215{fill:url(#battersea-linear-gradient-212);}.battersea-cls-216{fill:url(#battersea-linear-gradient-213);}.battersea-cls-217{fill:url(#battersea-linear-gradient-214);}.battersea-cls-218{fill:url(#battersea-linear-gradient-215);}.battersea-cls-219{fill:url(#battersea-linear-gradient-216);}.battersea-cls-220{fill:url(#battersea-linear-gradient-217);}.battersea-cls-221{fill:url(#battersea-linear-gradient-218);}.battersea-cls-222{fill:#662d91;}.battersea-cls-223{fill:#f0f;}.battersea-cls-224{fill:url(#battersea-linear-gradient-219);}.battersea-cls-225,.battersea-cls-226,.battersea-cls-227,.battersea-cls-228,.battersea-cls-229,.battersea-cls-230,.battersea-cls-231,.battersea-cls-233,.battersea-cls-234,.battersea-cls-235,.battersea-cls-236,.battersea-cls-239,.battersea-cls-240,.battersea-cls-241,.battersea-cls-242,.battersea-cls-243,.battersea-cls-244,.battersea-cls-245,.battersea-cls-247,.battersea-cls-248,.battersea-cls-249,.battersea-cls-250{stroke-linejoin:round;stroke-width:4px;}.battersea-cls-225{stroke:url(#battersea-linear-gradient-220);}.battersea-cls-226{stroke:url(#battersea-linear-gradient-221);}.battersea-cls-227{stroke:url(#battersea-linear-gradient-222);}.battersea-cls-228{stroke:url(#battersea-linear-gradient-223);}.battersea-cls-229{stroke:url(#battersea-linear-gradient-224);}.battersea-cls-230{stroke:url(#battersea-linear-gradient-225);}.battersea-cls-231{stroke:url(#battersea-linear-gradient-226);}.battersea-cls-232{fill:url(#battersea-linear-gradient-227);}.battersea-cls-233{stroke:url(#battersea-linear-gradient-228);}.battersea-cls-234{stroke:url(#battersea-linear-gradient-229);}.battersea-cls-235{stroke:url(#battersea-linear-gradient-230);}.battersea-cls-236{stroke:url(#battersea-linear-gradient-231);}.battersea-cls-237{fill:url(#battersea-linear-gradient-232);}.battersea-cls-238{fill:url(#battersea-linear-gradient-233);}.battersea-cls-239{stroke:url(#battersea-linear-gradient-234);}.battersea-cls-240{stroke:url(#battersea-linear-gradient-235);}.battersea-cls-241{stroke:url(#battersea-linear-gradient-236);}.battersea-cls-242{stroke:url(#battersea-linear-gradient-237);}.battersea-cls-243{stroke:url(#battersea-linear-gradient-238);}.battersea-cls-244{stroke:url(#battersea-linear-gradient-239);}.battersea-cls-245{stroke:url(#battersea-linear-gradient-240);}.battersea-cls-246{fill:url(#battersea-linear-gradient-241);}.battersea-cls-247{stroke:url(#battersea-linear-gradient-242);}.battersea-cls-248{stroke:url(#battersea-linear-gradient-243);}.battersea-cls-249{stroke:url(#battersea-linear-gradient-244);}.battersea-cls-250{stroke:url(#battersea-linear-gradient-245);}
+		</style>
+		<linearGradient id="battersea-linear-gradient" x1="784.27" y1="519.75" x2="715.82" y2="519.75" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#2d96d2" />
+			<stop offset="1" stop-color="#2057a1" />
+		</linearGradient>
+		<linearGradient id="battersea-linear-gradient-2" x1="454.14" y1="445.14" x2="784.27" y2="445.14" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-3" x1="99.96" y1="822.35" x2="31.51" y2="822.35" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-4" x1="38.53" y1="820.78" x2="46.18" y2="820.78" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#64c8c3" />
+			<stop offset="1" stop-color="#4296ab" />
+		</linearGradient>
+		<linearGradient id="battersea-linear-gradient-5" x1="49.78" y1="827.27" x2="57.43" y2="827.27" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-6" x1="61.03" y1="833.77" x2="68.68" y2="833.77" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-7" x1="72.28" y1="840.27" x2="79.93" y2="840.27" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-8" x1="813.35" y1="336.35" x2="790.78" y2="336.35" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-9" x1="852.85" y1="463.45" x2="1010.82" y2="554.66" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-10" x1="856.8" y1="472.71" x2="1012.29" y2="562.49" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-11" x1="882.81" y1="328.21" x2="935.55" y2="358.66" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-12" x1="892.34" y1="493.45" x2="790.78" y2="493.45" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-13" x1="926.21" y1="549.12" x2="741.74" y2="442.62" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-14" x1="800.15" y1="471.71" x2="932.01" y2="547.84" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-15" x1="914.25" y1="352.63" x2="835.42" y2="352.63" gradientTransform="matrix(-1, 0, 0, 1, 1791.6, 0)" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-16" x1="949.05" y1="574.56" x2="820.96" y2="500.61" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-17" x1="852.56" y1="520.29" x2="724.47" y2="446.34" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-18" x1="800.37" y1="350.3" x2="781.18" y2="350.3" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-19" x1="740.34" y1="453.04" x2="855.74" y2="519.67" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-20" x1="811.98" y1="487.95" x2="819.64" y2="487.95" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-21" x1="823.23" y1="494.45" x2="830.89" y2="494.45" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-22" x1="834.48" y1="500.94" x2="842.14" y2="500.94" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-23" x1="845.73" y1="507.44" x2="853.39" y2="507.44" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-24" x1="906.63" y1="427.71" x2="914.28" y2="427.71" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-25" x1="916.64" y1="421.92" x2="924.29" y2="421.92" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-26" x1="896.62" y1="433.5" x2="904.27" y2="433.5" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-27" x1="535.24" y1="433.5" x2="542.9" y2="433.5" gradientTransform="matrix(-1, 0, 0, 1, 1424.08, 0)" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-28" x1="631.73" y1="379.44" x2="639.38" y2="379.44" gradientTransform="matrix(-1, 0, 0, 1, 1424.08, 0)" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-29" x1="898.84" y1="38.48" x2="898.84" y2="38.48" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-30" x1="805.77" y1="343.25" x2="869.77" y2="343.25" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-31" x1="813.35" y1="315.56" x2="880.97" y2="315.56" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-32" x1="895.78" y1="334.8" x2="868.18" y2="286.99" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-33" x1="855.62" y1="16.84" x2="908.58" y2="16.84" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-34" x1="856.24" y1="165.75" x2="849.06" y2="165.75" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-35" x1="860.46" y1="171.32" x2="852.9" y2="171.32" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-36" x1="866.57" y1="175.42" x2="859.29" y2="175.42" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-37" x1="872.38" y1="178.15" x2="866.88" y2="178.15" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-38" x1="878.18" y1="179.71" x2="876.59" y2="179.71" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-39" x1="886.39" y1="180.32" x2="883.26" y2="180.32" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-40" x1="895.9" y1="179.17" x2="889.34" y2="179.17" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-41" x1="902.84" y1="177.44" x2="894.73" y2="177.44" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-42" x1="909.68" y1="174.02" x2="901.78" y2="174.02" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-43" x1="913.87" y1="169.19" x2="906.43" y2="169.19" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-44" x1="563.79" y1="656.19" x2="395.93" y2="656.19" gradientUnits="userSpaceOnUse">
+			<stop offset="0.07" stop-color="#c914bc" />
+			<stop offset="0.59" stop-color="#911ac4" />
+			<stop offset="0.99" stop-color="#731ac4" />
+		</linearGradient>
+		<linearGradient id="battersea-linear-gradient-45" x1="333.88" y1="782.94" x2="166.02" y2="782.94" xlink:href="#battersea-linear-gradient-44" />
+		<linearGradient id="battersea-linear-gradient-46" x1="926.65" y1="576.87" x2="1105.05" y2="576.87" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-47" x1="463.67" y1="480.82" x2="487.3" y2="480.82" gradientTransform="matrix(-1, 0, 0, 1, 1424.08, 0)" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-48" x1="400.84" y1="516.69" x2="424.47" y2="516.69" gradientTransform="matrix(-1, 0, 0, 1, 1424.08, 0)" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-49" x1="338.01" y1="552.56" x2="361.64" y2="552.56" gradientTransform="matrix(-1, 0, 0, 1, 1424.08, 0)" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-50" x1="463.67" y1="594.58" x2="487.3" y2="594.58" gradientTransform="matrix(-1, 0, 0, 1, 1424.08, 0)" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-51" x1="400.84" y1="630.45" x2="424.47" y2="630.45" gradientTransform="matrix(-1, 0, 0, 1, 1424.08, 0)" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-52" x1="338.01" y1="666.32" x2="361.64" y2="666.32" gradientTransform="matrix(-1, 0, 0, 1, 1424.08, 0)" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-53" x1="925.65" y1="558.91" x2="1100.11" y2="558.91" xlink:href="#battersea-linear-gradient-44" />
+		<linearGradient id="battersea-linear-gradient-54" x1="1065.61" y1="488.22" x2="1125.73" y2="488.22" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-55" x1="88.5" y1="755" x2="65.93" y2="755" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-56" x1="128" y1="882.11" x2="285.98" y2="973.32" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-57" x1="131.96" y1="891.37" x2="287.45" y2="981.14" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-58" x1="157.96" y1="746.87" x2="210.7" y2="777.32" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-59" x1="167.49" y1="912.11" x2="65.93" y2="912.11" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-60" x1="201.37" y1="967.78" x2="16.89" y2="861.27" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-61" x1="75.3" y1="890.37" x2="207.16" y2="966.5" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-62" x1="1639.1" y1="771.29" x2="1560.27" y2="771.29" gradientTransform="matrix(-1, 0, 0, 1, 1791.6, 0)" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-63" x1="224.2" y1="993.22" x2="96.11" y2="919.27" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-64" x1="127.72" y1="938.95" x2="-0.37" y2="865" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-65" x1="75.52" y1="768.96" x2="56.34" y2="768.96" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-66" x1="15.49" y1="871.7" x2="130.9" y2="938.33" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-67" x1="87.14" y1="906.61" x2="94.79" y2="906.61" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-68" x1="98.39" y1="913.1" x2="106.04" y2="913.1" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-69" x1="109.64" y1="919.6" x2="117.29" y2="919.6" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-70" x1="120.89" y1="926.1" x2="128.54" y2="926.1" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-71" x1="181.78" y1="846.37" x2="189.43" y2="846.37" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-72" x1="191.79" y1="840.58" x2="199.44" y2="840.58" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-73" x1="171.77" y1="852.16" x2="179.43" y2="852.16" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-74" x1="1260.09" y1="852.16" x2="1267.75" y2="852.16" gradientTransform="matrix(-1, 0, 0, 1, 1424.08, 0)" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-75" x1="1356.58" y1="798.1" x2="1364.23" y2="798.1" gradientTransform="matrix(-1, 0, 0, 1, 1424.08, 0)" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-76" x1="173.99" y1="457.14" x2="173.99" y2="457.14" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-77" x1="80.92" y1="761.91" x2="144.92" y2="761.91" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-78" x1="88.5" y1="734.22" x2="156.12" y2="734.22" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-79" x1="170.93" y1="753.46" x2="143.33" y2="705.65" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-80" x1="130.77" y1="435.5" x2="183.73" y2="435.5" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-81" x1="131.39" y1="584.41" x2="124.21" y2="584.41" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-82" x1="135.61" y1="589.97" x2="128.05" y2="589.97" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-83" x1="141.72" y1="594.08" x2="134.44" y2="594.08" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-84" x1="147.53" y1="596.81" x2="142.03" y2="596.81" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-85" x1="153.33" y1="598.37" x2="151.74" y2="598.37" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-86" x1="161.54" y1="598.97" x2="158.41" y2="598.97" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-87" x1="171.05" y1="597.83" x2="164.49" y2="597.83" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-88" x1="177.99" y1="596.1" x2="169.88" y2="596.1" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-89" x1="184.83" y1="592.67" x2="176.94" y2="592.67" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-90" x1="189.02" y1="587.85" x2="181.58" y2="587.85" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-91" x1="201.8" y1="995.52" x2="380.2" y2="995.52" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-92" x1="1188.52" y1="899.48" x2="1212.15" y2="899.48" gradientTransform="matrix(-1, 0, 0, 1, 1424.08, 0)" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-93" x1="1125.69" y1="935.35" x2="1149.32" y2="935.35" gradientTransform="matrix(-1, 0, 0, 1, 1424.08, 0)" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-94" x1="1062.85" y1="971.22" x2="1086.49" y2="971.22" gradientTransform="matrix(-1, 0, 0, 1, 1424.08, 0)" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-95" x1="1188.52" y1="1013.24" x2="1212.15" y2="1013.24" gradientTransform="matrix(-1, 0, 0, 1, 1424.08, 0)" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-96" x1="1125.69" y1="1049.11" x2="1149.32" y2="1049.11" gradientTransform="matrix(-1, 0, 0, 1, 1424.08, 0)" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-97" x1="1062.85" y1="1084.97" x2="1086.49" y2="1084.97" gradientTransform="matrix(-1, 0, 0, 1, 1424.08, 0)" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-98" x1="340.15" y1="906.9" x2="399.34" y2="906.9" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-99" x1="487.31" y1="400.24" x2="670.75" y2="400.24" gradientTransform="matrix(0.5, 0.87, 0.87, -0.5, -318.36, 551.42)" xlink:href="#battersea-linear-gradient-44" />
+		<linearGradient id="battersea-linear-gradient-100" x1="200.8" y1="980.81" x2="375.26" y2="980.81" xlink:href="#battersea-linear-gradient-44" />
+		<linearGradient id="battersea-linear-gradient-101" x1="1106.42" y1="505.61" x2="1083.85" y2="505.61" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-102" x1="1145.92" y1="632.71" x2="1303.89" y2="723.92" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-103" x1="1149.87" y1="641.97" x2="1305.36" y2="731.75" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-104" x1="1175.88" y1="497.47" x2="1228.62" y2="527.92" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-105" x1="1185.41" y1="662.71" x2="1083.85" y2="662.71" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-106" x1="1219.28" y1="718.39" x2="1034.81" y2="611.88" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-107" x1="1093.22" y1="640.98" x2="1225.08" y2="717.1" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-108" x1="621.18" y1="521.9" x2="542.36" y2="521.9" gradientTransform="matrix(-1, 0, 0, 1, 1791.6, 0)" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-109" x1="1242.12" y1="743.82" x2="1114.03" y2="669.87" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-110" x1="1145.63" y1="689.55" x2="1017.54" y2="615.6" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-111" x1="1093.44" y1="519.56" x2="1074.25" y2="519.56" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-112" x1="1033.41" y1="622.31" x2="1148.81" y2="688.93" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-113" x1="1105.05" y1="657.21" x2="1112.71" y2="657.21" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-114" x1="1116.3" y1="663.71" x2="1123.96" y2="663.71" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-115" x1="1127.55" y1="670.2" x2="1135.21" y2="670.2" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-116" x1="1138.8" y1="676.7" x2="1146.46" y2="676.7" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-117" x1="1199.7" y1="596.97" x2="1207.35" y2="596.97" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-118" x1="1209.71" y1="591.18" x2="1217.36" y2="591.18" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-119" x1="1219.72" y1="585.38" x2="1227.37" y2="585.38" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-120" x1="1229.72" y1="579.67" x2="1237.38" y2="579.67" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-121" x1="1239.73" y1="573.83" x2="1247.39" y2="573.83" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-122" x1="1249.74" y1="568.09" x2="1257.4" y2="568.09" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-123" x1="1259.75" y1="562.31" x2="1267.4" y2="562.31" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-124" x1="1189.69" y1="602.77" x2="1197.34" y2="602.77" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-125" x1="242.17" y1="602.77" x2="249.83" y2="602.77" gradientTransform="matrix(-1, 0, 0, 1, 1424.08, 0)" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-126" x1="338.66" y1="548.7" x2="346.31" y2="548.7" gradientTransform="matrix(-1, 0, 0, 1, 1424.08, 0)" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-127" x1="1191.91" y1="207.74" x2="1191.91" y2="207.74" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-128" x1="1098.84" y1="512.51" x2="1162.83" y2="512.51" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-129" x1="1106.42" y1="484.83" x2="1174.04" y2="484.83" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-130" x1="1188.85" y1="504.06" x2="1161.25" y2="456.25" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-131" x1="1148.69" y1="186.1" x2="1201.65" y2="186.1" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-132" x1="1149.31" y1="335.01" x2="1142.13" y2="335.01" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-133" x1="1153.52" y1="340.58" x2="1145.97" y2="340.58" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-134" x1="1159.64" y1="344.68" x2="1152.36" y2="344.68" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-135" x1="1165.45" y1="347.41" x2="1159.95" y2="347.41" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-136" x1="1171.25" y1="348.97" x2="1169.66" y2="348.97" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-137" x1="1179.46" y1="349.58" x2="1176.33" y2="349.58" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-138" x1="1188.96" y1="348.43" x2="1182.41" y2="348.43" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-139" x1="1195.91" y1="346.7" x2="1187.8" y2="346.7" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-140" x1="1202.75" y1="343.28" x2="1194.85" y2="343.28" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-141" x1="1206.94" y1="338.45" x2="1199.5" y2="338.45" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-142" x1="868.18" y1="988.37" x2="1183.74" y2="1170.56" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-143" x1="543.98" y1="910.01" x2="1178.08" y2="910.01" xlink:href="#battersea-linear-gradient-44" />
+		<linearGradient id="battersea-linear-gradient-144" x1="543.98" y1="885.05" x2="1178.08" y2="885.05" xlink:href="#battersea-linear-gradient-44" />
+		<linearGradient id="battersea-linear-gradient-145" x1="381.57" y1="924.27" x2="359" y2="924.27" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-146" x1="421.07" y1="1051.37" x2="579.04" y2="1142.58" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-147" x1="425.03" y1="1060.63" x2="580.52" y2="1150.4" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-148" x1="451.03" y1="916.13" x2="503.77" y2="946.58" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-149" x1="460.56" y1="1081.37" x2="359" y2="1081.37" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-150" x1="494.43" y1="1137.04" x2="309.96" y2="1030.54" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-151" x1="368.37" y1="1059.63" x2="500.23" y2="1135.76" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-152" x1="1346.03" y1="940.55" x2="1267.2" y2="940.55" gradientTransform="matrix(-1, 0, 0, 1, 1791.6, 0)" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-153" x1="517.27" y1="1162.48" x2="389.18" y2="1088.53" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-154" x1="420.79" y1="1108.21" x2="292.7" y2="1034.26" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-155" x1="368.59" y1="938.22" x2="349.41" y2="938.22" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-156" x1="308.56" y1="1040.96" x2="423.96" y2="1107.59" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-157" x1="380.21" y1="1075.87" x2="387.86" y2="1075.87" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-158" x1="391.46" y1="1082.37" x2="399.11" y2="1082.37" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-159" x1="402.71" y1="1088.86" x2="410.36" y2="1088.86" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-160" x1="413.96" y1="1095.36" x2="421.61" y2="1095.36" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-161" x1="474.85" y1="1015.63" x2="482.5" y2="1015.63" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-162" x1="484.86" y1="1009.84" x2="492.51" y2="1009.84" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-163" x1="494.87" y1="1004.04" x2="502.52" y2="1004.04" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-164" x1="504.88" y1="998.33" x2="512.53" y2="998.33" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-165" x1="514.88" y1="992.48" x2="522.54" y2="992.48" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-166" x1="524.89" y1="986.74" x2="532.55" y2="986.74" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-167" x1="534.9" y1="980.97" x2="542.56" y2="980.97" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-168" x1="464.84" y1="1021.42" x2="472.5" y2="1021.42" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-169" x1="967.02" y1="1021.42" x2="974.68" y2="1021.42" gradientTransform="matrix(-1, 0, 0, 1, 1424.08, 0)" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-170" x1="1063.51" y1="967.36" x2="1071.16" y2="967.36" gradientTransform="matrix(-1, 0, 0, 1, 1424.08, 0)" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-171" x1="467.06" y1="626.4" x2="467.06" y2="626.4" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-172" x1="373.99" y1="931.17" x2="437.99" y2="931.17" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-173" x1="381.57" y1="903.48" x2="449.19" y2="903.48" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-174" x1="464" y1="922.72" x2="436.4" y2="874.91" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-175" x1="423.84" y1="604.76" x2="476.8" y2="604.76" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-176" x1="424.46" y1="753.67" x2="417.28" y2="753.67" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-177" x1="428.68" y1="759.23" x2="421.12" y2="759.23" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-178" x1="434.79" y1="763.34" x2="427.51" y2="763.34" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-179" x1="440.6" y1="766.07" x2="435.1" y2="766.07" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-180" x1="446.4" y1="767.63" x2="444.81" y2="767.63" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-181" x1="454.61" y1="768.23" x2="451.48" y2="768.23" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-182" x1="464.12" y1="767.09" x2="457.56" y2="767.09" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-183" x1="471.06" y1="765.36" x2="462.95" y2="765.36" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-184" x1="477.9" y1="761.94" x2="470.01" y2="761.94" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-185" x1="482.09" y1="757.11" x2="474.65" y2="757.11" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-186" x1="619.6" y1="1189.23" x2="542.12" y2="1189.23" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-187" x1="760.52" y1="921.92" x2="1124.99" y2="1132.35" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-188" x1="743.1" y1="1218.24" x2="665.62" y2="1218.24" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-189" x1="741.64" y1="1206.43" x2="749.3" y2="1206.43" gradientTransform="matrix(-1, 0, 0, 1, 1424.08, 0)" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-190" x1="728.48" y1="1213.93" x2="736.13" y2="1213.93" gradientTransform="matrix(-1, 0, 0, 1, 1424.08, 0)" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-191" x1="-399" y1="1212.15" x2="-391.34" y2="1212.15" gradientTransform="translate(1183.75 4.67)" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-192" x1="-412.17" y1="1219.65" x2="-404.51" y2="1219.65" gradientTransform="translate(1183.75 4.67)" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-193" x1="-314.65" y1="1161.42" x2="-306.99" y2="1161.42" gradientTransform="translate(1183.75 4.67)" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-194" x1="-327.81" y1="1168.92" x2="-320.16" y2="1168.92" gradientTransform="translate(1183.75 4.67)" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-195" x1="-238.94" y1="1119.83" x2="-231.28" y2="1119.83" gradientTransform="translate(1183.75 4.67)" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-196" x1="-252.1" y1="1127.33" x2="-244.45" y2="1127.33" gradientTransform="translate(1183.75 4.67)" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-197" x1="-160.44" y1="1075.68" x2="-152.78" y2="1075.68" gradientTransform="translate(1183.75 4.67)" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-198" x1="-173.6" y1="1083.18" x2="-165.95" y2="1083.18" gradientTransform="translate(1183.75 4.67)" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-199" x1="-86.79" y1="1035.96" x2="-79.13" y2="1035.96" gradientTransform="translate(1183.75 4.67)" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-200" x1="-99.95" y1="1043.46" x2="-92.3" y2="1043.46" gradientTransform="translate(1183.75 4.67)" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-201" x1="-7.75" y1="990.86" x2="-0.1" y2="990.86" gradientTransform="translate(1183.75 4.67)" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-202" x1="-20.92" y1="998.36" x2="-13.26" y2="998.36" gradientTransform="translate(1183.75 4.67)" xlink:href="#battersea-linear-gradient-4" />
+		<linearGradient id="battersea-linear-gradient-203" x1="880.96" y1="557.03" x2="941.07" y2="557.03" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-204" x1="1215.78" y1="815.9" x2="1011.9" y2="815.9" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-205" x1="1057.3" y1="880.53" x2="1011.9" y2="880.53" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-206" x1="996.88" y1="936.94" x2="793" y2="936.94" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-207" x1="838.4" y1="1001.57" x2="793" y2="1001.57" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-208" x1="778.26" y1="1057.44" x2="574.38" y2="1057.44" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-209" x1="619.79" y1="1122.07" x2="574.38" y2="1122.07" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-210" x1="1254.71" y1="898.73" x2="1080.7" y2="898.73" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-211" x1="1119.45" y1="953.89" x2="1080.7" y2="953.89" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-212" x1="1067.88" y1="1002.04" x2="893.86" y2="1002.04" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-213" x1="932.62" y1="1057.2" x2="893.86" y2="1057.2" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-214" x1="881.28" y1="1104.89" x2="707.27" y2="1104.89" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-215" x1="746.02" y1="1160.05" x2="707.27" y2="1160.05" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-216" x1="604.03" y1="657.19" x2="689.56" y2="422.19" xlink:href="#battersea-linear-gradient" />
+		<linearGradient id="battersea-linear-gradient-217" x1="769.55" y1="538.98" x2="601.7" y2="538.98" xlink:href="#battersea-linear-gradient-44" />
+		<linearGradient id="battersea-linear-gradient-218" x1="298.71" y1="265.22" x2="311.09" y2="231.21" xlink:href="#battersea-linear-gradient-44" />
+		<linearGradient id="battersea-linear-gradient-219" x1="327.52" y1="242.31" x2="251.2" y2="242.31" xlink:href="#battersea-linear-gradient-44" />
+		<linearGradient id="battersea-linear-gradient-220" x1="29.03" y1="364.71" x2="0" y2="364.71" xlink:href="#battersea-linear-gradient-44" />
+		<linearGradient id="battersea-linear-gradient-221" x1="1138.54" y1="402.83" x2="1107.54" y2="402.83" gradientTransform="matrix(-1, 0, 0, 1, 1361.75, 0)" xlink:href="#battersea-linear-gradient-44" />
+		<linearGradient id="battersea-linear-gradient-222" x1="1138.54" y1="410.58" x2="1107.54" y2="410.58" gradientTransform="matrix(-1, 0, 0, 1, 1361.75, 0)" xlink:href="#battersea-linear-gradient-44" />
+		<linearGradient id="battersea-linear-gradient-223" x1="281.21" y1="402.83" x2="250.21" y2="402.83" xlink:href="#battersea-linear-gradient-44" />
+		<linearGradient id="battersea-linear-gradient-224" x1="281.21" y1="410.58" x2="250.21" y2="410.58" xlink:href="#battersea-linear-gradient-44" />
+		<linearGradient id="battersea-linear-gradient-225" x1="46.58" y1="373.63" x2="17.8" y2="323.78" xlink:href="#battersea-linear-gradient-44" />
+		<linearGradient id="battersea-linear-gradient-226" x1="54.07" y1="348.02" x2="0" y2="348.02" xlink:href="#battersea-linear-gradient-44" />
+		<linearGradient id="battersea-linear-gradient-227" x1="327.52" y1="217.87" x2="251.2" y2="217.87" xlink:href="#battersea-linear-gradient-44" />
+		<linearGradient id="battersea-linear-gradient-228" x1="1354.22" y1="513.37" x2="1323.22" y2="513.37" gradientTransform="translate(399.53 1666.6) rotate(-120)" xlink:href="#battersea-linear-gradient-44" />
+		<linearGradient id="battersea-linear-gradient-229" x1="1354.22" y1="521.12" x2="1323.22" y2="521.12" gradientTransform="translate(399.53 1666.6) rotate(-120)" xlink:href="#battersea-linear-gradient-44" />
+		<linearGradient id="battersea-linear-gradient-230" x1="65.52" y1="513.37" x2="34.52" y2="513.37" gradientTransform="matrix(0.5, 0.87, 0.87, -0.5, -281.34, 487.29)" xlink:href="#battersea-linear-gradient-44" />
+		<linearGradient id="battersea-linear-gradient-231" x1="65.52" y1="490.06" x2="34.52" y2="490.06" gradientTransform="matrix(0.5, 0.87, 0.87, -0.5, -281.34, 487.29)" xlink:href="#battersea-linear-gradient-44" />
+		<linearGradient id="battersea-linear-gradient-232" x1="-152.73" y1="752.18" x2="-140.35" y2="718.17" gradientTransform="matrix(-1, 0, 0, 1, 1158.29, 0)" xlink:href="#battersea-linear-gradient-44" />
+		<linearGradient id="battersea-linear-gradient-233" x1="-123.92" y1="729.27" x2="-200.24" y2="729.27" gradientTransform="matrix(-1, 0, 0, 1, 1158.29, 0)" xlink:href="#battersea-linear-gradient-44" />
+		<linearGradient id="battersea-linear-gradient-234" x1="-422.4" y1="851.67" x2="-451.44" y2="851.67" gradientTransform="matrix(-1, 0, 0, 1, 1158.29, 0)" xlink:href="#battersea-linear-gradient-44" />
+		<linearGradient id="battersea-linear-gradient-235" x1="1589.97" y1="889.79" x2="1558.97" y2="889.79" gradientTransform="translate(-203.46)" xlink:href="#battersea-linear-gradient-44" />
+		<linearGradient id="battersea-linear-gradient-236" x1="1589.97" y1="897.54" x2="1558.97" y2="897.54" gradientTransform="translate(-203.46)" xlink:href="#battersea-linear-gradient-44" />
+		<linearGradient id="battersea-linear-gradient-237" x1="-170.23" y1="889.79" x2="-201.23" y2="889.79" gradientTransform="matrix(-1, 0, 0, 1, 1158.29, 0)" xlink:href="#battersea-linear-gradient-44" />
+		<linearGradient id="battersea-linear-gradient-238" x1="-170.23" y1="897.54" x2="-201.23" y2="897.54" gradientTransform="matrix(-1, 0, 0, 1, 1158.29, 0)" xlink:href="#battersea-linear-gradient-44" />
+		<linearGradient id="battersea-linear-gradient-239" x1="-404.86" y1="860.59" x2="-433.64" y2="810.74" gradientTransform="matrix(-1, 0, 0, 1, 1158.29, 0)" xlink:href="#battersea-linear-gradient-44" />
+		<linearGradient id="battersea-linear-gradient-240" x1="-397.37" y1="834.98" x2="-451.44" y2="834.98" gradientTransform="matrix(-1, 0, 0, 1, 1158.29, 0)" xlink:href="#battersea-linear-gradient-44" />
+		<linearGradient id="battersea-linear-gradient-241" x1="-123.92" y1="704.83" x2="-200.24" y2="704.83" gradientTransform="matrix(-1, 0, 0, 1, 1158.29, 0)" xlink:href="#battersea-linear-gradient-44" />
+		<linearGradient id="battersea-linear-gradient-242" x1="1158.22" y1="-121.07" x2="1127.22" y2="-121.07" gradientTransform="matrix(0.5, -0.87, -0.87, -0.5, 758.75, 1666.6)" xlink:href="#battersea-linear-gradient-44" />
+		<linearGradient id="battersea-linear-gradient-243" x1="1158.22" y1="-113.32" x2="1127.22" y2="-113.32" gradientTransform="matrix(0.5, -0.87, -0.87, -0.5, 758.75, 1666.6)" xlink:href="#battersea-linear-gradient-44" />
+		<linearGradient id="battersea-linear-gradient-244" x1="261.52" y1="-121.07" x2="230.52" y2="-121.07" gradientTransform="translate(1439.63 487.29) rotate(120)" xlink:href="#battersea-linear-gradient-44" />
+		<linearGradient id="battersea-linear-gradient-245" x1="261.52" y1="-144.37" x2="230.52" y2="-144.37" gradientTransform="translate(1439.63 487.29) rotate(120)" xlink:href="#battersea-linear-gradient-44" />
+	</defs>
+	<g>
+		<g>
+			<polygon class="battersea-cls-1" points="715.82 431.75 784.27 471.14 784.27 607.75 716 568.58 715.82 431.75" />
+			<polygon class="battersea-cls-2" points="784.27 443.77 784.27 471.14 715.82 431.75 110.5 779.91 31.51 734.31 636.82 386.28 656.62 374.62 784.27 443.77" />
+			<polygon class="battersea-cls-3" points="784.27 443.77 784.27 471.14 715.82 431.75 577.11 511.88 523.61 491.55 454.14 491.5 517.74 454.87 530.58 454.88 663.59 378.4 784.27 443.77" />
+			<polygon class="battersea-cls-4" points="31.51 734.35 99.96 773.74 99.96 910.35 31.69 871.17 31.51 734.35" />
+			<polygon class="battersea-cls-5" points="39.28 773.66 38.53 773.23 38.53 863.91 46.18 868.33 46.18 867.9 39.28 863.91 39.28 773.66" />
+			<polygon class="battersea-cls-6" points="50.53 780.15 49.78 779.72 49.78 870.4 57.43 874.83 57.43 874.39 50.53 870.4 50.53 780.15" />
+			<polygon class="battersea-cls-7" points="61.78 786.65 61.03 786.22 61.03 876.9 68.68 881.32 68.68 880.89 61.78 876.9 61.78 786.65" />
+			<polygon class="battersea-cls-8" points="73.03 793.14 72.28 792.72 72.28 883.4 79.93 887.82 79.93 887.38 73.03 883.4 73.03 793.14" />
+			<polygon class="battersea-cls-9" points="39.28 773.66 39.28 863.91 46.18 867.9 46.18 777.62 39.28 773.66" />
+			<polygon class="battersea-cls-9" points="50.53 780.15 50.53 870.4 57.43 874.39 57.43 784.12 50.53 780.15" />
+			<polygon class="battersea-cls-9" points="61.78 786.65 61.78 876.9 68.68 880.89 68.68 790.61 61.78 786.65" />
+			<polygon class="battersea-cls-9" points="73.03 793.14 73.03 883.4 79.93 887.38 79.93 797.11 73.03 793.14" />
+			<polygon class="battersea-cls-9" points="715.82 431.75 716 568.82 274.76 818.43 146.18 759.93 715.82 431.75" />
+			<polyline class="battersea-cls-10" points="813.35 349.44 790.78 336.41 813.35 323.25" />
+			<polygon class="battersea-cls-11" points="892.34 668.67 892.34 395.05 971.33 349.44 971.33 623.07 892.34 668.67" />
+			<polygon class="battersea-cls-12" points="892.34 672.79 892.34 411.16 976.76 362.41 976.76 624.04 892.34 672.79" />
+			<polygon class="battersea-cls-13" points="869.76 350.81 948.59 304.86 948.59 336.07 869.76 382.01 869.76 350.81" />
+			<polygon class="battersea-cls-2" points="948.59 336.07 971.33 349.44 892.34 395.05 869.76 382.01 948.59 336.07" />
+			<polygon class="battersea-cls-14" points="892.34 395.05 892.34 668.67 790.78 610.03 790.78 336.41 813.35 349.44 813.35 318.23 869.76 350.8 869.76 359.4 877.35 364.28 877.35 386.39 892.34 395.05" />
+			<polygon class="battersea-cls-2" points="948.59 304.86 892.34 273.48 813.35 318.24 869.76 350.81 948.59 304.86" />
+			<polygon class="battersea-cls-15" points="862.18 364.28 805.77 331.71 805.77 627.45 862.18 660.03 862.18 364.28" />
+			<polygon class="battersea-cls-16" points="869.76 655.65 862.18 660.03 862.18 364.28 869.76 359.4 869.76 655.65" />
+			<polygon class="battersea-cls-2" points="805.77 331.71 813.35 327.11 869.76 359.4 862.18 364.28 805.77 331.71" />
+			<polygon class="battersea-cls-17" points="877.35 364.28 956.17 318.96 956.17 340.97 877.35 386.31 877.35 364.28" />
+			<polygon class="battersea-cls-2" points="956.17 318.96 948.59 314.36 869.76 359.4 877.35 364.28 956.17 318.96" />
+			<polygon class="battersea-cls-18" points="877.67 664.32 892.34 672.79 892.34 410.88 877.67 402.39 877.67 664.32" />
+			<polygon class="battersea-cls-2" points="971.33 359.42 971.33 361.92 892.34 405.86 882.4 399.92 877.67 402.39 892.34 411.16 976.76 362.41 971.33 359.42" />
+			<polygon class="battersea-cls-19" points="781.18 610.04 795.85 618.51 795.85 356.6 781.18 348.11 781.18 610.04" />
+			<polygon class="battersea-cls-20" points="790.78 348.55 790.78 343.71 786.12 345.76 781.18 348.11 795.85 356.89 800.37 354.28 790.78 348.55" />
+			<polygon class="battersea-cls-21" points="795.85 356.89 800.37 354.28 800.37 615.58 795.85 618.51 795.85 356.89" />
+			<polygon class="battersea-cls-22" points="812.73 340.83 811.98 340.4 811.98 631.08 819.64 635.5 819.64 635.07 812.73 631.08 812.73 340.83" />
+			<polygon class="battersea-cls-23" points="823.98 347.33 823.23 346.9 823.23 637.58 830.89 642 830.89 641.57 823.98 637.58 823.98 347.33" />
+			<polygon class="battersea-cls-24" points="835.23 353.82 834.48 353.39 834.48 644.07 842.14 648.49 842.14 648.06 835.23 644.07 835.23 353.82" />
+			<polygon class="battersea-cls-25" points="846.48 360.32 845.73 359.89 845.73 650.57 853.39 654.99 853.39 654.56 846.48 650.57 846.48 360.32" />
+			<polygon class="battersea-cls-9" points="812.73 340.83 812.73 631.08 819.64 635.07 819.64 344.79 812.73 340.83" />
+			<polygon class="battersea-cls-9" points="823.98 347.33 823.98 637.58 830.89 641.57 830.89 351.29 823.98 347.33" />
+			<polygon class="battersea-cls-9" points="835.23 353.82 835.23 644.07 842.14 648.06 842.14 357.78 835.23 353.82" />
+			<polygon class="battersea-cls-9" points="846.48 360.32 846.48 650.57 853.39 654.56 853.39 364.28 846.48 360.32" />
+			<polygon class="battersea-cls-26" points="913.85 445.4 906.63 449.57 906.63 450.26 914.28 445.84 914.28 405.16 913.85 405.41 913.85 445.4" />
+			<polygon class="battersea-cls-27" points="923.85 439.61 916.64 443.78 916.64 444.47 924.29 440.05 924.29 399.37 923.85 399.62 923.85 439.61" />
+			<polygon class="battersea-cls-28" points="903.84 451.2 896.62 455.37 896.62 456.06 904.27 451.63 904.27 410.95 903.84 411.2 903.84 451.2" />
+			<polygon class="battersea-cls-9" points="903.84 411.2 896.62 415.35 896.62 455.37 903.84 451.2 903.84 411.2" />
+			<polygon class="battersea-cls-29" points="881.62 451.2 888.83 455.37 888.83 456.06 881.18 451.63 881.18 410.95 881.62 411.2 881.62 451.2" />
+			<polygon class="battersea-cls-9" points="881.62 411.2 888.83 415.35 888.83 455.37 881.62 451.2 881.62 411.2" />
+			<polygon class="battersea-cls-30" points="785.13 397.13 792.35 401.3 792.35 401.99 784.69 397.57 784.69 356.89 785.13 357.14 785.13 397.13" />
+			<polygon class="battersea-cls-9" points="785.13 357.14 792.35 361.28 792.35 401.3 785.13 397.13 785.13 357.14" />
+			<polygon class="battersea-cls-9" points="913.85 405.41 906.63 409.55 906.63 449.57 913.85 445.4 913.85 405.41" />
+			<polygon class="battersea-cls-9" points="923.85 399.62 916.64 403.76 916.64 443.78 923.85 439.61 923.85 399.62" />
+			<path class="battersea-cls-31" d="M898.84,38.48" />
+			<polygon class="battersea-cls-32" points="869.76 359.4 853.39 359.2 805.77 331.71 813.35 327.11 869.76 359.4" />
+			<polygon class="battersea-cls-33" points="880.97 334.32 841.22 334.32 813.35 318.24 851.17 296.81 880.97 334.32" />
+			<path class="battersea-cls-34" d="M920.55,311s-.63-8.88-7.45-14.24h-4.46l-.22-.13s-25.19-15.16-52.07.13h-5.18A17.47,17.47,0,0,0,843.63,311h.06c-1,9.6,12.19,16.55,12.19,16.55s26.3,15.36,52.93-.33c5.49-3.23,8.7-6.44,10.33-9.48a10.78,10.78,0,0,0,1.28-6.74Z" />
+			<path class="battersea-cls-2" d="M917.42,305.66,911.34,16.81H852.9l24.19,6.67,33.68,293.29a19.39,19.39,0,0,0,5.37-5.93,10.06,10.06,0,0,0,1.27-5.19Z" />
+			<path class="battersea-cls-2" d="M852.9,16.81,847.14,303c-2.82,9.67,10.88,16.87,10.88,16.87s24.16,14.11,48.63-.3a38.92,38.92,0,0,0,4.13-2.78L877.09,23.48Z" />
+			<path class="battersea-cls-9" d="M883.76,326A54.3,54.3,0,0,1,858,319.85s-13.7-7.2-10.88-16.87L852.9,16.81l24.19,6.67,6.64,301.25Z" />
+			<path class="battersea-cls-2" d="M862.21,28.57s-11.32-5.95-9-13.94C854,11.79,856.6,8.69,862,5.5c20.61-12.14,40.08-.4,40.08-.4s12.92,7.13,8.15,16c-1.24,2.31-3.68,4.74-7.85,7.2C882.17,40.23,862.21,28.57,862.21,28.57Z" />
+			<path class="battersea-cls-35" d="M864.06,27.48s-10.27-5.39-8.15-12.64c.75-2.58,3.07-5.39,8-8.28,18.69-11,36.35-.36,36.35-.36s11.72,6.47,7.39,14.53c-1.13,2.1-3.33,4.3-7.12,6.53C882.17,38.05,864.06,27.48,864.06,27.48Z" />
+			<line class="battersea-cls-36" x1="855.74" y1="26.65" x2="849.56" y2="304.86" />
+			<line class="battersea-cls-37" x1="853.4" y1="311.56" x2="859.96" y2="31.07" />
+			<line class="battersea-cls-38" x1="866.07" y1="34.23" x2="859.79" y2="316.61" />
+			<line class="battersea-cls-39" x1="867.38" y1="320.31" x2="871.88" y2="35.98" />
+			<line class="battersea-cls-40" x1="877.68" y1="37.06" x2="877.09" y2="322.36" />
+			<line class="battersea-cls-41" x1="885.89" y1="322.82" x2="883.76" y2="37.81" />
+			<line class="battersea-cls-42" x1="889.84" y1="37.81" x2="895.4" y2="320.53" />
+			<line class="battersea-cls-43" x1="902.34" y1="318.23" x2="895.23" y2="36.64" />
+			<line class="battersea-cls-44" x1="909.18" y1="314.36" x2="902.28" y2="33.68" />
+			<line class="battersea-cls-45" x1="906.93" y1="30.21" x2="913.37" y2="308.17" />
+			<path class="battersea-cls-46" d="M563.79,562.22a1,1,0,0,0,0-.17s0-.06,0-.09a1,1,0,0,0-.07-.17l0-.07a1,1,0,0,0-.11-.14l0-.06a1,1,0,0,0-.21-.16L496.9,523.27h0L484,515.89a1,1,0,0,0-.67-.11h-.08a1,1,0,0,0-.24.1l-86.62,50.46a1,1,0,0,0-.17.13l0,0a1,1,0,0,0-.1.13l-.06.07a1,1,0,0,0,0,.12,1,1,0,0,0-.05.12,1,1,0,0,0,0,.12,1,1,0,0,0,0,.14V749.64a1,1,0,0,1,0,.52,1,1,0,0,0,.5.86l79.24,45.46a1,1,0,0,0,1,0L563.29,746a1,1,0,0,0,.5-.87.44.44,0,0,1,0-.23V562.22h0Zm-42.56,63.51-7.88-33.55,23-13.39Zm17.7-48.45,5.9-3.44V726.19l-22.71-96.68Zm5.48,155.88-46.94-27.1,23.46-72.87Zm2.42-178.94,14,8-14,8.13Zm0,18.46,15-8.72V743.19l-15-8.64Zm-2-1.15-5,2.9,5-15.48Zm-4.58-21.09,4.4,2.53-7.39,23-24.39,14.21-15-64Zm-42.92-17.73,13.74,58.48-13.74,8Zm0,68.8,14.22-8.28,8.5,36.19L497.32,700Zm-12.77-83,10.77,6.18v75.69l-10.77,6.28Zm0,90.47,10.77-6.28V704.82l-10.77-6.22ZM458.2,713.3l-13.09,7.62-9.62-41,22.71-70.55ZM443.79,724l14,59.6-46.94-27.1,5.28-16.39ZM417,737.28l17.26-53.63,9,38.33ZM445.59,723l12.61-7.34v61Zm-11-46.77-23.4-99.63L458,603.43Zm-1.19,3.69-19,58.91L410.7,741V583.17Zm-19.88,61.75-2.84,8.81v-7.16Zm-14.17,8.26,9.34-5.44v10.83Zm75.8,43.76-15-8.64V714.45l15-8.72Zm-15-81.51V604.68l15,8.58v90.16Zm22.35-13-5.38,3.14v-89l5.38-3.14Zm0-180.62v89.3l-6.39,3.72-77.23-44.32ZM408.7,575.13v167l-10.77,6.28V568.94Zm68.46,218.75v-89.3l6.39-3.72,77.23,44.32Z" />
+			<path class="battersea-cls-47" d="M333.88,689a1,1,0,0,0,0-.17s0-.06,0-.09a1,1,0,0,0-.07-.17l0-.07a1,1,0,0,0-.11-.14l0-.06a1,1,0,0,0-.21-.16L267,650h0l-12.84-7.37a1,1,0,0,0-.67-.11h-.08a1,1,0,0,0-.24.1L166.52,693.1a1,1,0,0,0-.17.13l0,0a1,1,0,0,0-.1.13l-.06.07a1,1,0,0,0,0,.12,1,1,0,0,0-.05.12,1,1,0,0,0,0,.12,1,1,0,0,0,0,.14V876.38a1,1,0,0,1,0,.52,1,1,0,0,0,.5.86l79.24,45.46a1,1,0,0,0,1,0l86.62-50.46a1,1,0,0,0,.5-.87.44.44,0,0,1,0-.23V689h0Zm-42.56,63.51-7.88-33.55,23-13.39ZM309,704l5.9-3.44V852.93l-22.71-96.68Zm5.48,155.88-46.94-27.1L291,759.94ZM316.92,681l14,8-14,8.13Zm0,18.46,15-8.72V869.94l-15-8.64Zm-2-1.15-5,2.9,5-15.48Zm-4.58-21.09,4.4,2.53-7.39,23L283,716.89l-15-64Zm-42.92-17.73,13.74,58.48-13.74,8Zm0,68.8L281.63,720l8.5,36.19-22.72,70.57Zm-12.77-83,10.77,6.18v75.69l-10.77,6.28Zm0,90.47,10.77-6.28V831.57l-10.77-6.22ZM228.29,840l-13.09,7.62-9.62-41,22.71-70.55Zm-14.42,10.71,14,59.6-46.94-27.1,5.28-16.39ZM187.13,864,204.4,810.4l9,38.33Zm28.55-14.32,12.61-7.34v61Zm-11-46.77-23.4-99.63,46.82,26.87Zm-1.19,3.69-19,58.91-3.75,2.19V709.92Zm-19.88,61.75-2.84,8.81V870Zm-14.17,8.26,9.34-5.44V882Zm75.8,43.76-15-8.64V841.2l15-8.72Zm-15-81.51V731.42l15,8.58v90.16Zm22.35-13L247.26,829V740l5.38-3.14Zm0-180.62v89.3l-6.39,3.72L169,694Zm-73.85,56.63v167L168,875.16V695.69Zm68.46,218.75v-89.3l6.39-3.72,77.23,44.32Z" />
+			<polygon class="battersea-cls-2" points="926.65 397.64 976.76 368.8 1148.81 468.94 1099.11 497.69 926.65 397.64" />
+			<polygon class="battersea-cls-48" points="926.65 653.18 1105.05 756.18 1105.05 500.55 926.65 397.55 926.65 653.18" />
+			<polygon class="battersea-cls-49" points="937.21 499.21 960.41 512.63 960.41 513.32 936.77 499.64 936.77 448.33 937.21 448.58 937.21 499.21" />
+			<polygon class="battersea-cls-9" points="937.21 448.58 960.41 461.97 960.41 512.63 937.21 499.21 937.21 448.58" />
+			<polygon class="battersea-cls-50" points="1000.04 535.07 1023.24 548.49 1023.24 549.18 999.61 535.51 999.61 484.2 1000.04 484.45 1000.04 535.07" />
+			<polygon class="battersea-cls-9" points="1000.04 484.45 1023.24 497.84 1023.24 548.49 1000.04 535.07 1000.04 484.45" />
+			<polygon class="battersea-cls-51" points="1062.88 570.94 1086.07 584.36 1086.07 585.05 1062.44 571.38 1062.44 520.07 1062.88 520.32 1062.88 570.94" />
+			<polygon class="battersea-cls-9" points="1062.88 520.32 1086.07 533.71 1086.07 584.36 1062.88 570.94 1062.88 520.32" />
+			<polygon class="battersea-cls-52" points="937.21 612.96 960.41 626.38 960.41 627.07 936.77 613.4 936.77 562.09 937.21 562.34 937.21 612.96" />
+			<polygon class="battersea-cls-9" points="937.21 562.34 960.41 575.73 960.41 626.38 937.21 612.96 937.21 562.34" />
+			<polygon class="battersea-cls-53" points="1000.04 648.83 1023.24 662.25 1023.24 662.94 999.61 649.27 999.61 597.96 1000.04 598.21 1000.04 648.83" />
+			<polygon class="battersea-cls-9" points="1000.04 598.21 1023.24 611.6 1023.24 662.25 1000.04 648.83 1000.04 598.21" />
+			<polygon class="battersea-cls-54" points="1062.88 684.7 1086.07 698.12 1086.07 698.81 1062.44 685.14 1062.44 633.82 1062.88 634.08 1062.88 684.7" />
+			<polygon class="battersea-cls-9" points="1062.88 634.08 1086.07 647.47 1086.07 698.12 1062.88 684.7 1062.88 634.08" />
+			<path class="battersea-cls-55" d="M1098.6,531.54a1,1,0,1,0,1-1.73l-55.77-32.38V466.76l54.77,31.8a1,1,0,1,0,1-1.73L927.15,396.69a1,1,0,1,0-1,1.73l56.4,32.75v30.67l-55.39-32.16a1,1,0,1,0-1,1.73l56.4,32.75v71.64l-55.39-32.16a1,1,0,1,0-1,1.73l56.4,32.75v42.69l-55.39-32.16a1,1,0,1,0-1,1.73l56.4,32.75v63.27L927.15,614.2a1,1,0,1,0-1,1.73l56.4,32.75V686a1,1,0,0,0,2,0V649.84l57.3,33.27v37.16a1,1,0,0,0,2,0v-36l54.77,31.8a1,1,0,1,0,1-1.73L1043.84,682V618.69l54.77,31.8a1,1,0,1,0,1-1.73l-55.77-32.38V573.69l54.77,31.8a1,1,0,1,0,1-1.73l-55.77-32.38V499.74Zm-56.77,149.26-57.3-33.27V584.26l57.3,33.27Zm0-65.58-57.3-33.27V539.26l57.3,33.27Zm0-45-57.3-33.27V465.31l57.3,33.27ZM984.54,463V432.33l57.3,33.27v30.67Z" />
+			<polyline class="battersea-cls-56" points="1065.61 477.06 1102.71 499.7 1125.73 476.75" />
+			<polyline class="battersea-cls-57" points="88.5 768.1 65.93 755.07 88.5 741.91" />
+			<polygon class="battersea-cls-58" points="167.49 1087.33 167.49 813.71 246.48 768.1 246.48 1041.73 167.49 1087.33" />
+			<polygon class="battersea-cls-59" points="167.49 1091.44 167.49 829.82 251.91 781.07 251.91 1042.69 167.49 1091.44" />
+			<polygon class="battersea-cls-60" points="144.92 769.46 223.74 723.52 223.74 754.73 144.92 800.67 144.92 769.46" />
+			<polygon class="battersea-cls-2" points="223.74 754.73 246.48 768.1 167.49 813.71 144.92 800.67 223.74 754.73" />
+			<polygon class="battersea-cls-61" points="167.49 813.71 167.49 1087.33 65.93 1028.69 65.93 755.07 88.5 768.1 88.5 736.89 144.91 769.46 144.91 778.06 152.5 782.94 152.5 805.05 167.49 813.71" />
+			<polygon class="battersea-cls-2" points="223.74 723.52 167.49 692.14 88.5 736.89 144.92 769.46 223.74 723.52" />
+			<polygon class="battersea-cls-62" points="137.33 782.94 80.92 750.37 80.92 1046.1 137.33 1078.69 137.33 782.94" />
+			<polygon class="battersea-cls-63" points="144.92 1074.31 137.33 1078.69 137.33 782.94 144.92 778.06 144.92 1074.31" />
+			<polygon class="battersea-cls-2" points="80.92 750.37 88.5 745.76 144.92 778.06 137.33 782.94 80.92 750.37" />
+			<polygon class="battersea-cls-64" points="152.5 782.94 231.33 737.62 231.33 759.63 152.5 804.97 152.5 782.94" />
+			<polygon class="battersea-cls-2" points="231.33 737.62 223.74 733.01 144.92 778.06 152.5 782.94 231.33 737.62" />
+			<polygon class="battersea-cls-65" points="152.82 1082.97 167.49 1091.44 167.49 829.53 152.82 821.04 152.82 1082.97" />
+			<polygon class="battersea-cls-2" points="246.48 778.08 246.48 780.58 167.49 824.51 157.56 818.57 152.82 821.04 167.49 829.82 251.91 781.07 246.48 778.08" />
+			<polygon class="battersea-cls-66" points="56.34 1028.7 71.01 1037.17 71.01 775.26 56.34 766.77 56.34 1028.7" />
+			<polygon class="battersea-cls-67" points="65.93 767.21 65.93 762.37 61.27 764.42 56.34 766.77 71.01 775.55 75.52 772.94 65.93 767.21" />
+			<polygon class="battersea-cls-68" points="71.01 775.55 75.52 772.94 75.52 1034.24 71.01 1037.17 71.01 775.55" />
+			<polygon class="battersea-cls-69" points="87.89 759.49 87.14 759.06 87.14 1049.74 94.79 1054.16 94.79 1053.73 87.89 1049.74 87.89 759.49" />
+			<polygon class="battersea-cls-70" points="99.14 765.98 98.39 765.55 98.39 1056.23 106.04 1060.66 106.04 1060.22 99.14 1056.23 99.14 765.98" />
+			<polygon class="battersea-cls-71" points="110.39 772.48 109.64 772.05 109.64 1062.73 117.29 1067.15 117.29 1066.72 110.39 1062.73 110.39 772.48" />
+			<polygon class="battersea-cls-72" points="121.64 778.98 120.89 778.54 120.89 1069.23 128.54 1073.65 128.54 1073.21 121.64 1069.23 121.64 778.98" />
+			<polygon class="battersea-cls-9" points="87.89 759.49 87.89 1049.74 94.79 1053.73 94.79 763.45 87.89 759.49" />
+			<polygon class="battersea-cls-9" points="99.14 765.98 99.14 1056.23 106.04 1060.22 106.04 769.95 99.14 765.98" />
+			<polygon class="battersea-cls-9" points="110.39 772.48 110.39 1062.73 117.29 1066.72 117.29 776.44 110.39 772.48" />
+			<polygon class="battersea-cls-9" points="121.64 778.98 121.64 1069.23 128.54 1073.21 128.54 782.94 121.64 778.98" />
+			<polygon class="battersea-cls-73" points="189 864.06 181.78 868.23 181.78 868.92 189.44 864.5 189.44 823.82 189 824.07 189 864.06" />
+			<polygon class="battersea-cls-74" points="199.01 858.27 191.79 862.44 191.79 863.13 199.44 858.71 199.44 818.03 199.01 818.28 199.01 858.27" />
+			<polygon class="battersea-cls-75" points="178.99 869.85 171.77 874.02 171.77 874.71 179.43 870.29 179.43 829.61 178.99 829.86 178.99 869.85" />
+			<polygon class="battersea-cls-9" points="178.99 829.86 171.77 834 171.77 874.02 178.99 869.85 178.99 829.86" />
+			<polygon class="battersea-cls-76" points="156.77 869.85 163.98 874.02 163.98 874.71 156.33 870.29 156.33 829.61 156.77 829.86 156.77 869.85" />
+			<polygon class="battersea-cls-9" points="156.77 829.86 163.98 834 163.98 874.02 156.77 869.85 156.77 829.86" />
+			<polygon class="battersea-cls-77" points="60.28 815.79 67.5 819.96 67.5 820.65 59.84 816.23 59.84 775.55 60.28 775.8 60.28 815.79" />
+			<polygon class="battersea-cls-9" points="60.28 775.8 67.5 779.94 67.5 819.96 60.28 815.79 60.28 775.8" />
+			<polygon class="battersea-cls-9" points="189 824.07 181.78 828.21 181.78 868.23 189 864.06 189 824.07" />
+			<polygon class="battersea-cls-9" points="199.01 818.28 191.79 822.42 191.79 862.44 199.01 858.27 199.01 818.28" />
+			<path class="battersea-cls-78" d="M174,457.14" />
+			<polygon class="battersea-cls-79" points="144.92 778.06 128.54 777.86 80.92 750.37 88.5 745.76 144.92 778.06" />
+			<polygon class="battersea-cls-80" points="156.12 752.98 116.37 752.98 88.5 736.89 126.33 715.46 156.12 752.98" />
+			<path class="battersea-cls-81" d="M195.7,729.7s-.63-8.88-7.45-14.24h-4.46l-.22-.13s-25.19-15.16-52.07.13h-5.18a17.47,17.47,0,0,0-7.54,14.24h.06c-1,9.6,12.19,16.55,12.19,16.55s26.3,15.36,52.93-.33c5.49-3.23,8.7-6.44,10.33-9.48a10.78,10.78,0,0,0,1.28-6.74Z" />
+			<path class="battersea-cls-2" d="M192.57,724.31l-6.08-288.84H128.05l24.19,6.67,33.68,293.29a19.39,19.39,0,0,0,5.37-5.93,10.06,10.06,0,0,0,1.27-5.19Z" />
+			<path class="battersea-cls-2" d="M128.05,435.47l-5.76,286.17c-2.82,9.67,10.88,16.87,10.88,16.87s24.16,14.11,48.63-.3a38.92,38.92,0,0,0,4.13-2.78L152.24,442.14Z" />
+			<path class="battersea-cls-9" d="M158.91,744.7a54.3,54.3,0,0,1-25.74-6.19s-13.7-7.2-10.88-16.87l5.76-286.17,24.19,6.67,6.64,301.25Z" />
+			<path class="battersea-cls-2" d="M137.36,447.23s-11.32-5.95-9-13.94c.83-2.84,3.38-5.94,8.79-9.13,20.61-12.14,40.08-.4,40.08-.4s12.92,7.13,8.15,16c-1.24,2.31-3.68,4.74-7.85,7.2C157.32,458.88,137.36,447.23,137.36,447.23Z" />
+			<path class="battersea-cls-82" d="M139.21,446.14s-10.27-5.39-8.15-12.64c.75-2.58,3.07-5.39,8-8.28,18.69-11,36.35-.36,36.35-.36s11.72,6.47,7.39,14.53c-1.13,2.1-3.33,4.3-7.12,6.53C157.32,456.71,139.21,446.14,139.21,446.14Z" />
+			<line class="battersea-cls-83" x1="130.89" y1="445.3" x2="124.71" y2="723.52" />
+			<line class="battersea-cls-84" x1="128.55" y1="730.22" x2="135.11" y2="449.73" />
+			<line class="battersea-cls-85" x1="141.22" y1="452.89" x2="134.94" y2="735.26" />
+			<line class="battersea-cls-86" x1="142.53" y1="738.97" x2="147.03" y2="454.64" />
+			<line class="battersea-cls-87" x1="152.83" y1="455.72" x2="152.24" y2="741.01" />
+			<line class="battersea-cls-88" x1="161.04" y1="741.47" x2="158.91" y2="456.47" />
+			<line class="battersea-cls-89" x1="164.99" y1="456.47" x2="170.55" y2="739.18" />
+			<line class="battersea-cls-90" x1="177.49" y1="736.89" x2="170.38" y2="455.3" />
+			<line class="battersea-cls-91" x1="184.33" y1="733.01" x2="177.44" y2="452.34" />
+			<line class="battersea-cls-92" x1="182.08" y1="448.87" x2="188.52" y2="726.83" />
+			<polygon class="battersea-cls-2" points="201.8 816.3 251.91 787.45 423.96 887.6 374.26 916.35 201.8 816.3" />
+			<polygon class="battersea-cls-93" points="201.8 1071.84 380.2 1174.84 380.2 919.21 201.8 816.21 201.8 1071.84" />
+			<polygon class="battersea-cls-94" points="212.36 917.86 235.56 931.28 235.56 931.97 211.93 918.3 211.93 866.99 212.36 867.24 212.36 917.86" />
+			<polygon class="battersea-cls-9" points="212.36 867.24 235.56 880.63 235.56 931.28 212.36 917.86 212.36 867.24" />
+			<polygon class="battersea-cls-95" points="275.2 953.73 298.39 967.15 298.39 967.84 274.76 954.17 274.76 902.86 275.2 903.11 275.2 953.73" />
+			<polygon class="battersea-cls-9" points="275.2 903.11 298.39 916.5 298.39 967.15 275.2 953.73 275.2 903.11" />
+			<polygon class="battersea-cls-96" points="338.03 989.6 361.22 1003.02 361.22 1003.71 337.59 990.04 337.59 938.72 338.03 938.98 338.03 989.6" />
+			<polygon class="battersea-cls-9" points="338.03 938.98 361.22 952.37 361.22 1003.02 338.03 989.6 338.03 938.98" />
+			<polygon class="battersea-cls-97" points="212.36 1031.62 235.56 1045.04 235.56 1045.73 211.93 1032.06 211.93 980.75 212.36 981 212.36 1031.62" />
+			<polygon class="battersea-cls-9" points="212.36 981 235.56 994.39 235.56 1045.04 212.36 1031.62 212.36 981" />
+			<polygon class="battersea-cls-98" points="275.2 1067.49 298.39 1080.91 298.39 1081.6 274.76 1067.93 274.76 1016.61 275.2 1016.87 275.2 1067.49" />
+			<polygon class="battersea-cls-9" points="275.2 1016.87 298.39 1030.26 298.39 1080.91 275.2 1067.49 275.2 1016.87" />
+			<polygon class="battersea-cls-99" points="338.03 1103.36 361.22 1116.78 361.22 1117.47 337.59 1103.79 337.59 1052.48 338.03 1052.73 338.03 1103.36" />
+			<polygon class="battersea-cls-9" points="338.03 1052.73 361.22 1066.12 361.22 1116.78 338.03 1103.36 338.03 1052.73" />
+			<polygon class="battersea-cls-100" points="399.34 896.09 340.15 896.09 376.56 917.71 399.34 896.09" />
+			<path class="battersea-cls-101" d="M424.76,896.73a1.05,1.05,0,0,0-.38-1.44L243,790.63a1,1,0,0,0-.34-.12h-.09a1,1,0,0,0-.33,0h0a1,1,0,0,0-.27.11L211.16,808.4a1.05,1.05,0,0,0,0,1.82L226,818.79h0l166.54,96.1a1.05,1.05,0,0,0,1.05-1.82l-10.66-6.15,21-10.34a1.05,1.05,0,0,0,.48-1.41l0-.06a1.05,1.05,0,0,0-1.38-.42l-20.21,10,10.45-24.9,30.11,17.37A1.05,1.05,0,0,0,424.76,896.73ZM229.15,815.59,242.82,793l16.44,9.49Zm30.57-11-9.78,25.61L228.87,818Zm2.42-.44,19,11-28.71,14.45Zm19.31,13.17L272,842.88,252.7,831.76Zm2.47-.61,18.66,10.77-28.11,14.76Zm19,13-9,25.85-19.15-11Zm2.45-.63,19.89,11.48-28.83,14.11Zm20.31,13.61-8.94,26L296.39,857Zm2.4-.51L346.86,853l-27.71,15Zm19.1,13.11-9,25.83-18.74-10.81Zm2.46-.67L368,865.21l-27.38,15.16Zm18.51,13-9.89,25.07-17.33-10Zm2.58-.82,19.75,11.4-29.75,13.94Zm9.52,38.58L361,894.26l29.67-13.9Zm-166.41-96,25.65-14.81-13.27,22Z" />
+			<path class="battersea-cls-102" d="M373.76,951a1,1,0,0,0,1-1.73l-28.62-16.54,15.54-20.45,1.4,21.39a1,1,0,0,0,1,.93h.07a1,1,0,0,0,.93-1.06l-1.45-22.19,10.14,5.86a1,1,0,0,0,1-1.73L216.41,824h0l-14.12-8.15a1,1,0,0,0-1.5.87v33.79a1,1,0,0,0,0,.27v0a1,1,0,0,0,.14.28l.05.07a1,1,0,0,0,.26.22L309.77,914a1,1,0,0,0-.15.49v73.23l-93.21-53.84h0l-14.12-8.15a1,1,0,0,0-1.5.87v33.79a1,1,0,0,0,0,.27v0a1,1,0,0,0,.14.28l.05.07a1,1,0,0,0,.26.22L309.82,1024a1,1,0,0,0-.2.57v111.19a1,1,0,0,0,2,0V1025l15,8.67a1,1,0,0,0-.15.49V1144.9a1,1,0,0,0,2,0V1034.75l45.28,26.16a1,1,0,0,0,1-1.73l-28.62-16.54,15.54-20.45,1.4,21.39a1,1,0,0,0,1,.93h.07a1,1,0,0,0,.93-1.06l-1.45-22.19,10.14,5.86a1,1,0,0,0,1-1.73l-46.28-26.74V924.84ZM361,909.85l-15.59,20.51-2.66-31.05Zm-17.52,21.36-18.78-10.85,16.11-20.28Zm-3.39-33.44-15.95,20.07-.53-29.59ZM202.8,818.45l11.77,6.8L202.8,846.62Zm.35,31.68,12.13-22,3.5,31Zm14-23.4,20,11.57-16.45,20.23Zm4.37,34,16.32-20.08,1.75,30.52Zm18.28-20.92,18.33,10.59-16.58,20Zm2.43,32.88,16.54-19.92L260,883Zm18.5-20.79,18.2,10.52-17,19.72Zm1.86,32.55,16.82-19.53,2.09,30.45Zm18.75-20.65L300.64,875l-17.19,19.74Zm2.84,33.12,17.1-19.63.8,30Zm19.07-20.46L321,886.76l-17,19.66Zm1.42,32.3,17-19.64.53,29.76ZM202.8,928.36l11.77,6.8L202.8,956.53Zm.35,31.68,12.13-22,3.5,31Zm14-23.4,20,11.57-16.45,20.23Zm4.37,34,16.32-20.08,1.75,30.52Zm18.28-20.92,18.33,10.59-16.58,20Zm2.43,32.88,16.54-19.92L260,992.86Zm18.5-20.79,18.2,10.52-17,19.72Zm1.86,32.55,16.82-19.53,2.09,30.45Zm18.75-20.65,19.31,11.16-17.19,19.74Zm2.84,33.12,17.1-19.63.8,30Zm19.07-20.46L321,996.67l-17,19.66Zm1.42,32.3,17-19.64.53,29.76Zm56.36,1.08-15.59,20.51-2.66-31.05Zm-17.52,21.36-18.78-10.85L340.83,1010Zm-19.33-13.37-.53-29.59,16.47,9.52Zm2.32-103.48v73.23l-14.86-8.58v-73.8l15,8.67A1,1,0,0,0,326.47,924.27Z" />
+			<polyline class="battersea-cls-103" points="1106.42 518.7 1083.85 505.67 1106.42 492.51" />
+			<polygon class="battersea-cls-104" points="1185.41 837.93 1185.41 564.31 1264.4 518.7 1264.4 792.33 1185.41 837.93" />
+			<polygon class="battersea-cls-105" points="1185.41 842.05 1185.41 580.42 1269.83 531.67 1269.83 793.3 1185.41 842.05" />
+			<polygon class="battersea-cls-106" points="1162.84 520.07 1241.66 474.12 1241.66 505.33 1162.84 551.27 1162.84 520.07" />
+			<polygon class="battersea-cls-2" points="1241.66 505.33 1264.4 518.7 1185.41 564.31 1162.84 551.27 1241.66 505.33" />
+			<polygon class="battersea-cls-107" points="1185.41 564.31 1185.41 837.93 1083.85 779.29 1083.85 505.67 1106.42 518.7 1106.42 487.49 1162.83 520.06 1162.83 528.66 1170.42 533.54 1170.42 555.65 1185.41 564.31" />
+			<polygon class="battersea-cls-2" points="1241.66 474.12 1185.41 442.74 1106.42 487.5 1162.84 520.07 1241.66 474.12" />
+			<polygon class="battersea-cls-108" points="1155.25 533.54 1098.84 500.97 1098.84 796.71 1155.25 829.29 1155.25 533.54" />
+			<polygon class="battersea-cls-109" points="1162.84 824.91 1155.25 829.29 1155.25 533.54 1162.84 528.66 1162.84 824.91" />
+			<polygon class="battersea-cls-2" points="1098.84 500.97 1106.42 496.37 1162.84 528.66 1155.25 533.54 1098.84 500.97" />
+			<polygon class="battersea-cls-110" points="1170.42 533.54 1249.24 488.22 1249.24 510.24 1170.42 555.57 1170.42 533.54" />
+			<polygon class="battersea-cls-2" points="1249.24 488.22 1241.66 483.62 1162.84 528.66 1170.42 533.54 1249.24 488.22" />
+			<polygon class="battersea-cls-111" points="1170.74 833.58 1185.41 842.05 1185.41 580.14 1170.74 571.65 1170.74 833.58" />
+			<polygon class="battersea-cls-2" points="1264.4 528.68 1264.4 531.18 1185.41 575.12 1175.47 569.18 1170.74 571.65 1185.41 580.42 1269.83 531.67 1264.4 528.68" />
+			<polygon class="battersea-cls-112" points="1074.25 779.31 1088.92 787.78 1088.92 525.87 1074.25 517.38 1074.25 779.31" />
+			<polygon class="battersea-cls-113" points="1083.85 517.81 1083.85 512.97 1079.18 515.02 1074.25 517.38 1088.92 526.15 1093.44 523.54 1083.85 517.81" />
+			<polygon class="battersea-cls-114" points="1088.92 526.15 1093.44 523.54 1093.44 784.85 1088.92 787.78 1088.92 526.15" />
+			<polygon class="battersea-cls-115" points="1105.8 510.09 1105.05 509.66 1105.05 800.34 1112.71 804.76 1112.71 804.33 1105.8 800.34 1105.8 510.09" />
+			<polygon class="battersea-cls-116" points="1117.05 516.59 1116.3 516.16 1116.3 806.84 1123.96 811.26 1123.96 810.83 1117.05 806.84 1117.05 516.59" />
+			<polygon class="battersea-cls-117" points="1128.3 523.08 1127.55 522.65 1127.55 813.33 1135.21 817.75 1135.21 817.32 1128.3 813.33 1128.3 523.08" />
+			<polygon class="battersea-cls-118" points="1139.55 529.58 1138.8 529.15 1138.8 819.83 1146.46 824.25 1146.46 823.82 1139.55 819.83 1139.55 529.58" />
+			<polygon class="battersea-cls-9" points="1105.8 510.09 1105.8 800.34 1112.71 804.33 1112.71 514.05 1105.8 510.09" />
+			<polygon class="battersea-cls-9" points="1117.05 516.59 1117.05 806.84 1123.96 810.83 1123.96 520.55 1117.05 516.59" />
+			<polygon class="battersea-cls-9" points="1128.3 523.08 1128.3 813.33 1135.21 817.32 1135.21 527.04 1128.3 523.08" />
+			<polygon class="battersea-cls-9" points="1139.55 529.58 1139.55 819.83 1146.46 823.82 1146.46 533.54 1139.55 529.58" />
+			<polygon class="battersea-cls-119" points="1206.91 614.67 1199.7 618.84 1199.7 619.52 1207.35 615.1 1207.35 574.42 1206.91 574.67 1206.91 614.67" />
+			<polygon class="battersea-cls-120" points="1216.92 608.88 1209.71 613.04 1209.71 613.73 1217.36 609.31 1217.36 568.63 1216.92 568.88 1216.92 608.88" />
+			<polygon class="battersea-cls-121" points="1226.93 603.07 1219.71 607.24 1219.71 607.93 1227.37 603.51 1227.37 562.83 1226.93 563.08 1226.93 603.07" />
+			<polygon class="battersea-cls-122" points="1236.94 597.36 1229.72 601.53 1229.72 602.22 1237.38 597.8 1237.38 557.12 1236.94 557.37 1236.94 597.36" />
+			<polygon class="battersea-cls-123" points="1246.95 591.52 1239.73 595.69 1239.73 596.38 1247.39 591.96 1247.39 551.27 1246.95 551.53 1246.95 591.52" />
+			<polygon class="battersea-cls-124" points="1256.96 585.78 1249.74 589.95 1249.74 590.64 1257.39 586.22 1257.39 545.53 1256.96 545.78 1256.96 585.78" />
+			<polygon class="battersea-cls-125" points="1266.97 540.01 1266.97 580 1259.75 584.17 1259.75 584.86 1267.4 580.44 1267.4 539.76 1266.97 540.01" />
+			<polygon class="battersea-cls-126" points="1196.91 620.46 1189.69 624.63 1189.69 625.32 1197.34 620.9 1197.34 580.22 1196.91 580.47 1196.91 620.46" />
+			<polygon class="battersea-cls-9" points="1196.91 580.47 1189.69 584.61 1189.69 624.63 1196.91 620.46 1196.91 580.47" />
+			<polygon class="battersea-cls-127" points="1174.68 620.46 1181.9 624.63 1181.9 625.32 1174.25 620.9 1174.25 580.22 1174.68 580.47 1174.68 620.46" />
+			<polygon class="battersea-cls-9" points="1174.68 580.47 1181.9 584.61 1181.9 624.63 1174.68 620.46 1174.68 580.47" />
+			<polygon class="battersea-cls-128" points="1078.2 566.39 1085.42 570.56 1085.42 571.25 1077.76 566.83 1077.76 526.15 1078.2 526.4 1078.2 566.39" />
+			<polygon class="battersea-cls-9" points="1078.2 526.4 1085.42 530.54 1085.42 570.56 1078.2 566.39 1078.2 526.4" />
+			<polygon class="battersea-cls-9" points="1206.91 574.67 1199.7 578.82 1199.7 618.84 1206.91 614.67 1206.91 574.67" />
+			<polygon class="battersea-cls-9" points="1216.92 568.88 1209.71 573.02 1209.71 613.04 1216.92 608.88 1216.92 568.88" />
+			<polygon class="battersea-cls-9" points="1226.93 563.08 1219.71 567.22 1219.71 607.24 1226.93 603.07 1226.93 563.08" />
+			<polygon class="battersea-cls-9" points="1236.94 557.37 1229.72 561.51 1229.72 601.53 1236.94 597.36 1236.94 557.37" />
+			<polygon class="battersea-cls-9" points="1246.95 551.53 1239.73 555.67 1239.73 595.69 1246.95 591.52 1246.95 551.53" />
+			<polygon class="battersea-cls-9" points="1256.96 545.78 1249.74 549.93 1249.74 589.95 1256.96 585.78 1256.96 545.78" />
+			<polygon class="battersea-cls-9" points="1266.97 540.01 1259.75 544.15 1259.75 584.17 1266.97 580 1266.97 540.01" />
+			<path class="battersea-cls-129" d="M1191.91,207.74" />
+			<polygon class="battersea-cls-130" points="1162.84 528.66 1146.46 528.47 1098.84 500.97 1106.42 496.37 1162.84 528.66" />
+			<polygon class="battersea-cls-131" points="1174.04 503.58 1134.29 503.58 1106.42 487.5 1144.24 466.07 1174.04 503.58" />
+			<path class="battersea-cls-132" d="M1213.62,480.3s-.63-8.88-7.45-14.24h-4.46l-.22-.13s-25.19-15.16-52.07.13h-5.18a17.47,17.47,0,0,0-7.54,14.24h.06c-1,9.6,12.19,16.55,12.19,16.55s26.3,15.36,52.93-.33c5.49-3.23,8.7-6.44,10.33-9.48a10.78,10.78,0,0,0,1.28-6.74Z" />
+			<path class="battersea-cls-2" d="M1210.49,474.92l-6.08-288.84H1146l24.19,6.67L1203.85,486a19.39,19.39,0,0,0,5.37-5.93,10.06,10.06,0,0,0,1.27-5.19Z" />
+			<path class="battersea-cls-2" d="M1146,186.08l-5.76,286.17c-2.82,9.67,10.88,16.87,10.88,16.87s24.16,14.11,48.63-.3a38.92,38.92,0,0,0,4.13-2.78l-33.68-293.29Z" />
+			<path class="battersea-cls-9" d="M1176.83,495.31a54.3,54.3,0,0,1-25.74-6.19s-13.7-7.2-10.88-16.87L1146,186.08l24.19,6.67L1176.8,494Z" />
+			<path class="battersea-cls-2" d="M1155.28,197.83s-11.32-5.95-9-13.94c.83-2.84,3.38-5.94,8.79-9.13,20.61-12.14,40.08-.4,40.08-.4s12.92,7.13,8.15,16c-1.24,2.31-3.68,4.74-7.85,7.2C1175.24,209.49,1155.28,197.83,1155.28,197.83Z" />
+			<path class="battersea-cls-133" d="M1157.13,196.74s-10.27-5.39-8.15-12.64c.75-2.58,3.07-5.39,8-8.28,18.69-11,36.35-.36,36.35-.36s11.72,6.47,7.39,14.53c-1.13,2.1-3.33,4.3-7.12,6.53C1175.24,207.31,1157.13,196.74,1157.13,196.74Z" />
+			<line class="battersea-cls-134" x1="1148.81" y1="195.91" x2="1142.63" y2="474.12" />
+			<line class="battersea-cls-135" x1="1146.47" y1="480.82" x2="1153.02" y2="200.33" />
+			<line class="battersea-cls-136" x1="1159.14" y1="203.49" x2="1152.86" y2="485.87" />
+			<line class="battersea-cls-137" x1="1160.45" y1="489.58" x2="1164.95" y2="205.24" />
+			<line class="battersea-cls-138" x1="1170.75" y1="206.33" x2="1170.16" y2="491.62" />
+			<line class="battersea-cls-139" x1="1178.96" y1="492.08" x2="1176.83" y2="207.08" />
+			<line class="battersea-cls-140" x1="1182.91" y1="207.08" x2="1188.46" y2="489.79" />
+			<line class="battersea-cls-141" x1="1195.41" y1="487.49" x2="1188.3" y2="205.91" />
+			<line class="battersea-cls-142" x1="1202.25" y1="483.62" x2="1195.35" y2="202.94" />
+			<line class="battersea-cls-143" x1="1200" y1="199.48" x2="1206.44" y2="477.43" />
+			<polygon class="battersea-cls-144" points="743.1 1205 1308.57 882.57 1308.57 954.34 743.1 1276.21 743.1 1205" />
+			<path class="battersea-cls-145" d="M545,1088.21a1,1,0,0,1-.49-1.87l632.1-354.4a1,1,0,1,1,1,1.74l-632.1,354.4A1,1,0,0,1,545,1088.21Z" />
+			<path class="battersea-cls-146" d="M545,1063.25a1,1,0,0,1-.49-1.87L1176.59,707a1,1,0,1,1,1,1.74l-632.1,354.4A1,1,0,0,1,545,1063.25Z" />
+			<polyline class="battersea-cls-147" points="381.57 937.36 359 924.33 381.57 911.17" />
+			<polygon class="battersea-cls-148" points="460.56 1256.59 460.56 982.97 539.55 937.36 539.55 1210.99 460.56 1256.59" />
+			<polygon class="battersea-cls-149" points="460.56 1260.71 460.56 999.08 544.98 950.33 544.98 1211.96 460.56 1260.71" />
+			<polygon class="battersea-cls-150" points="437.99 938.72 516.81 892.78 516.81 923.99 437.99 969.93 437.99 938.72" />
+			<polygon class="battersea-cls-2" points="516.81 923.99 539.55 937.36 460.56 982.97 437.99 969.93 516.81 923.99" />
+			<polygon class="battersea-cls-151" points="460.56 982.97 460.56 1256.59 359 1197.95 359 924.33 381.57 937.36 381.57 906.15 437.98 938.72 437.98 947.32 445.57 952.2 445.57 974.31 460.56 982.97" />
+			<polygon class="battersea-cls-2" points="516.81 892.78 460.56 861.4 381.57 906.15 437.99 938.72 516.81 892.78" />
+			<polygon class="battersea-cls-152" points="430.4 952.2 373.99 919.63 373.99 1215.37 430.4 1247.95 430.4 952.2" />
+			<polygon class="battersea-cls-153" points="437.99 1243.57 430.4 1247.95 430.4 952.2 437.99 947.32 437.99 1243.57" />
+			<polygon class="battersea-cls-2" points="373.99 919.63 381.57 915.02 437.99 947.32 430.4 952.2 373.99 919.63" />
+			<polygon class="battersea-cls-154" points="445.57 952.2 524.39 906.88 524.39 928.89 445.57 974.23 445.57 952.2" />
+			<polygon class="battersea-cls-2" points="524.39 906.88 516.81 902.27 437.99 947.32 445.57 952.2 524.39 906.88" />
+			<polygon class="battersea-cls-155" points="445.89 1252.24 460.56 1260.71 460.56 998.79 445.89 990.3 445.89 1252.24" />
+			<polygon class="battersea-cls-2" points="539.55 947.34 539.55 949.84 460.56 993.77 450.63 987.84 445.89 990.3 460.56 999.08 544.98 950.33 539.55 947.34" />
+			<polygon class="battersea-cls-156" points="349.41 1197.96 364.08 1206.43 364.08 944.52 349.41 936.03 349.41 1197.96" />
+			<polygon class="battersea-cls-157" points="359 936.47 359 931.63 354.34 933.68 349.41 936.03 364.08 944.81 368.59 942.2 359 936.47" />
+			<polygon class="battersea-cls-158" points="364.08 944.81 368.59 942.2 368.59 1203.5 364.08 1206.43 364.08 944.81" />
+			<polygon class="battersea-cls-159" points="380.96 928.75 380.21 928.32 380.21 1219 387.86 1223.42 387.86 1222.99 380.96 1219 380.96 928.75" />
+			<polygon class="battersea-cls-160" points="392.21 935.25 391.46 934.82 391.46 1225.5 399.11 1229.92 399.11 1229.48 392.21 1225.5 392.21 935.25" />
+			<polygon class="battersea-cls-161" points="403.46 941.74 402.71 941.31 402.71 1231.99 410.36 1236.41 410.36 1235.98 403.46 1231.99 403.46 941.74" />
+			<polygon class="battersea-cls-162" points="414.71 948.24 413.96 947.81 413.96 1238.49 421.61 1242.91 421.61 1242.47 414.71 1238.49 414.71 948.24" />
+			<polygon class="battersea-cls-9" points="380.96 928.75 380.96 1219 387.86 1222.99 387.86 932.71 380.96 928.75" />
+			<polygon class="battersea-cls-9" points="392.21 935.25 392.21 1225.5 399.11 1229.48 399.11 939.21 392.21 935.25" />
+			<polygon class="battersea-cls-9" points="403.46 941.74 403.46 1231.99 410.36 1235.98 410.36 945.7 403.46 941.74" />
+			<polygon class="battersea-cls-9" points="414.71 948.24 414.71 1238.49 421.61 1242.47 421.61 952.2 414.71 948.24" />
+			<polygon class="battersea-cls-163" points="482.07 1033.32 474.85 1037.49 474.85 1038.18 482.5 1033.76 482.5 993.08 482.07 993.33 482.07 1033.32" />
+			<polygon class="battersea-cls-164" points="492.07 1027.53 484.86 1031.7 484.86 1032.39 492.51 1027.97 492.51 987.29 492.07 987.54 492.07 1027.53" />
+			<polygon class="battersea-cls-165" points="502.08 1021.73 494.87 1025.9 494.87 1026.59 502.52 1022.17 502.52 981.49 502.08 981.74 502.08 1021.73" />
+			<polygon class="battersea-cls-166" points="512.09 1016.02 504.88 1020.19 504.88 1020.88 512.53 1016.46 512.53 975.78 512.09 976.03 512.09 1016.02" />
+			<polygon class="battersea-cls-167" points="522.1 1010.18 514.88 1014.34 514.88 1015.03 522.54 1010.61 522.54 969.93 522.1 970.18 522.1 1010.18" />
+			<polygon class="battersea-cls-168" points="532.11 1004.43 524.89 1008.6 524.89 1009.29 532.55 1004.87 532.55 964.19 532.11 964.44 532.11 1004.43" />
+			<polygon class="battersea-cls-169" points="542.12 958.67 542.12 998.66 534.9 1002.83 534.9 1003.52 542.56 999.1 542.56 958.41 542.12 958.67" />
+			<polygon class="battersea-cls-170" points="472.06 1039.12 464.84 1043.28 464.84 1043.97 472.5 1039.55 472.5 998.87 472.06 999.12 472.06 1039.12" />
+			<polygon class="battersea-cls-9" points="472.06 999.12 464.84 1003.26 464.84 1043.28 472.06 1039.12 472.06 999.12" />
+			<polygon class="battersea-cls-171" points="449.84 1039.12 457.05 1043.28 457.05 1043.97 449.4 1039.55 449.4 998.87 449.84 999.12 449.84 1039.12" />
+			<polygon class="battersea-cls-9" points="449.84 999.12 457.05 1003.26 457.05 1043.28 449.84 1039.12 449.84 999.12" />
+			<polygon class="battersea-cls-172" points="353.35 985.05 360.57 989.22 360.57 989.91 352.91 985.49 352.91 944.81 353.35 945.06 353.35 985.05" />
+			<polygon class="battersea-cls-9" points="353.35 945.06 360.57 949.2 360.57 989.22 353.35 985.05 353.35 945.06" />
+			<polygon class="battersea-cls-9" points="482.07 993.33 474.85 997.47 474.85 1037.49 482.07 1033.32 482.07 993.33" />
+			<polygon class="battersea-cls-9" points="492.07 987.54 484.86 991.68 484.86 1031.7 492.07 1027.53 492.07 987.54" />
+			<polygon class="battersea-cls-9" points="502.08 981.74 494.87 985.88 494.87 1025.9 502.08 1021.73 502.08 981.74" />
+			<polygon class="battersea-cls-9" points="512.09 976.03 504.88 980.17 504.88 1020.19 512.09 1016.02 512.09 976.03" />
+			<polygon class="battersea-cls-9" points="522.1 970.18 514.88 974.32 514.88 1014.34 522.1 1010.18 522.1 970.18" />
+			<polygon class="battersea-cls-9" points="532.11 964.44 524.89 968.58 524.89 1008.6 532.11 1004.43 532.11 964.44" />
+			<polygon class="battersea-cls-9" points="542.12 958.67 534.9 962.81 534.9 1002.83 542.12 998.66 542.12 958.67" />
+			<path class="battersea-cls-173" d="M467.06,626.4" />
+			<polygon class="battersea-cls-174" points="437.99 947.32 421.61 947.12 373.99 919.63 381.57 915.02 437.99 947.32" />
+			<polygon class="battersea-cls-175" points="449.19 922.24 409.44 922.24 381.57 906.15 419.39 884.73 449.19 922.24" />
+			<path class="battersea-cls-176" d="M488.77,899s-.63-8.88-7.45-14.24h-4.46l-.22-.13s-25.19-15.16-52.07.13h-5.18A17.47,17.47,0,0,0,411.86,899h.06c-1,9.6,12.19,16.55,12.19,16.55s26.3,15.36,52.93-.33c5.49-3.23,8.7-6.44,10.33-9.48a10.78,10.78,0,0,0,1.28-6.74Z" />
+			<path class="battersea-cls-2" d="M485.64,893.57l-6.08-288.84H421.12l24.19,6.67L479,904.69a19.39,19.39,0,0,0,5.37-5.93,10.06,10.06,0,0,0,1.27-5.19Z" />
+			<path class="battersea-cls-2" d="M421.12,604.73,415.36,890.9c-2.82,9.67,10.88,16.87,10.88,16.87s24.16,14.11,48.63-.3a38.92,38.92,0,0,0,4.13-2.78L445.31,611.4Z" />
+			<path class="battersea-cls-9" d="M452,914a54.3,54.3,0,0,1-25.74-6.19s-13.7-7.2-10.88-16.87l5.76-286.17,24.19,6.67L452,912.65Z" />
+			<path class="battersea-cls-2" d="M430.43,616.49s-11.32-5.95-9-13.94c.83-2.84,3.38-5.94,8.79-9.13,20.61-12.14,40.08-.4,40.08-.4s12.92,7.13,8.15,16c-1.24,2.31-3.68,4.74-7.85,7.2C450.39,628.15,430.43,616.49,430.43,616.49Z" />
+			<path class="battersea-cls-177" d="M432.28,615.4S422,610,424.13,602.75c.75-2.58,3.07-5.39,8-8.28,18.69-11,36.35-.36,36.35-.36s11.72,6.47,7.39,14.53c-1.13,2.1-3.33,4.3-7.12,6.53C450.39,626,432.28,615.4,432.28,615.4Z" />
+			<line class="battersea-cls-178" x1="423.96" y1="614.57" x2="417.78" y2="892.78" />
+			<line class="battersea-cls-179" x1="421.62" y1="899.48" x2="428.18" y2="618.99" />
+			<line class="battersea-cls-180" x1="434.29" y1="622.15" x2="428.01" y2="904.53" />
+			<line class="battersea-cls-181" x1="435.6" y1="908.23" x2="440.1" y2="623.9" />
+			<line class="battersea-cls-182" x1="445.9" y1="624.98" x2="445.31" y2="910.28" />
+			<line class="battersea-cls-183" x1="454.11" y1="910.74" x2="451.98" y2="625.73" />
+			<line class="battersea-cls-184" x1="458.06" y1="625.73" x2="463.62" y2="908.45" />
+			<line class="battersea-cls-185" x1="470.56" y1="906.15" x2="463.45" y2="624.56" />
+			<line class="battersea-cls-186" x1="477.4" y1="902.28" x2="470.51" y2="621.6" />
+			<line class="battersea-cls-187" x1="475.15" y1="618.13" x2="481.59" y2="896.09" />
+			<polygon class="battersea-cls-188" points="542.12 1212.47 619.6 1257.21 619.6 1166 542.12 1121.26 542.12 1212.47" />
+			<polygon class="battersea-cls-189" points="619.6 1166 1266.11 797.18 1266.32 887.54 619.6 1257.21 619.6 1166" />
+			<polygon class="battersea-cls-190" points="665.62 1231.47 743.1 1276.21 743.1 1205 665.62 1160.27 665.62 1231.47" />
+			<polygon class="battersea-cls-9" points="665.62 1160.27 1231.08 837.84 1308.57 882.57 743.1 1205 665.62 1160.27" />
+			<polygon class="battersea-cls-9" points="542.12 1121.26 619.6 1166 1266.11 797.18 1188.58 752.52 1185.17 754.46 1173.11 747.97 544.98 1105.52 544.98 1119.48 542.12 1121.26" />
+			<polygon class="battersea-cls-191" points="675.21 1224.13 682.43 1228.3 682.43 1228.98 674.78 1224.56 674.78 1183.88 675.21 1184.13 675.21 1224.13" />
+			<polygon class="battersea-cls-9" points="675.21 1184.13 682.43 1188.27 682.43 1228.3 675.21 1224.13 675.21 1184.13" />
+			<polygon class="battersea-cls-192" points="688.38 1231.63 695.6 1235.8 695.6 1236.48 687.94 1232.06 687.94 1191.38 688.38 1191.63 688.38 1231.63" />
+			<polygon class="battersea-cls-9" points="688.38 1191.63 695.6 1195.77 695.6 1235.8 688.38 1231.63 688.38 1191.63" />
+			<polygon class="battersea-cls-193" points="791.97 1234.51 784.75 1238.68 784.75 1239.37 792.41 1234.95 792.41 1194.27 791.97 1194.52 791.97 1234.51" />
+			<polygon class="battersea-cls-9" points="791.97 1194.52 784.75 1198.66 784.75 1238.68 791.97 1234.51 791.97 1194.52" />
+			<polygon class="battersea-cls-194" points="778.8 1242.01 771.59 1246.18 771.59 1246.87 779.24 1242.45 779.24 1201.77 778.8 1202.02 778.8 1242.01" />
+			<polygon class="battersea-cls-9" points="778.8 1202.02 771.59 1206.16 771.59 1246.18 778.8 1242.01 778.8 1202.02" />
+			<polygon class="battersea-cls-195" points="876.32 1183.77 869.11 1187.94 869.11 1188.63 876.76 1184.21 876.76 1143.53 876.32 1143.78 876.32 1183.77" />
+			<polygon class="battersea-cls-9" points="876.32 1143.78 869.11 1147.92 869.11 1187.94 876.32 1183.77 876.32 1143.78" />
+			<polygon class="battersea-cls-196" points="863.16 1191.27 855.94 1195.44 855.94 1196.13 863.6 1191.71 863.6 1151.03 863.16 1151.28 863.16 1191.27" />
+			<polygon class="battersea-cls-9" points="863.16 1151.28 855.94 1155.42 855.94 1195.44 863.16 1191.27 863.16 1151.28" />
+			<polygon class="battersea-cls-197" points="952.03 1142.19 944.82 1146.36 944.82 1147.05 952.47 1142.63 952.47 1101.95 952.03 1102.2 952.03 1142.19" />
+			<polygon class="battersea-cls-9" points="952.03 1102.2 944.82 1106.34 944.82 1146.36 952.03 1142.19 952.03 1102.2" />
+			<polygon class="battersea-cls-198" points="938.87 1149.69 931.65 1153.86 931.65 1154.55 939.31 1150.13 939.31 1109.45 938.87 1109.7 938.87 1149.69" />
+			<polygon class="battersea-cls-9" points="938.87 1109.7 931.65 1113.84 931.65 1153.86 938.87 1149.69 938.87 1109.7" />
+			<polygon class="battersea-cls-199" points="1030.53 1098.04 1023.32 1102.21 1023.32 1102.9 1030.97 1098.48 1030.97 1057.8 1030.53 1058.05 1030.53 1098.04" />
+			<polygon class="battersea-cls-9" points="1030.53 1058.05 1023.32 1062.19 1023.32 1102.21 1030.53 1098.04 1030.53 1058.05" />
+			<polygon class="battersea-cls-200" points="1017.37 1105.54 1010.15 1109.71 1010.15 1110.4 1017.8 1105.98 1017.8 1065.3 1017.37 1065.55 1017.37 1105.54" />
+			<polygon class="battersea-cls-9" points="1017.37 1065.55 1010.15 1069.69 1010.15 1109.71 1017.37 1105.54 1017.37 1065.55" />
+			<polygon class="battersea-cls-201" points="1104.18 1058.32 1096.97 1062.48 1096.97 1063.17 1104.62 1058.75 1104.62 1018.07 1104.18 1018.32 1104.18 1058.32" />
+			<polygon class="battersea-cls-9" points="1104.18 1018.32 1096.97 1022.47 1096.97 1062.48 1104.18 1058.32 1104.18 1018.32" />
+			<polygon class="battersea-cls-202" points="1091.02 1065.82 1083.8 1069.98 1083.8 1070.67 1091.45 1066.25 1091.45 1025.57 1091.02 1025.82 1091.02 1065.82" />
+			<polygon class="battersea-cls-9" points="1091.02 1025.82 1083.8 1029.96 1083.8 1069.98 1091.02 1065.82 1091.02 1025.82" />
+			<polygon class="battersea-cls-203" points="1183.22 1013.21 1176 1017.38 1176 1018.07 1183.66 1013.65 1183.66 972.97 1183.22 973.22 1183.22 1013.21" />
+			<polygon class="battersea-cls-9" points="1183.22 973.22 1176 977.36 1176 1017.38 1183.22 1013.21 1183.22 973.22" />
+			<polygon class="battersea-cls-204" points="1170.05 1020.71 1162.84 1024.88 1162.84 1025.57 1170.49 1021.15 1170.49 980.47 1170.05 980.72 1170.05 1020.71" />
+			<polygon class="battersea-cls-9" points="1170.05 980.72 1162.84 984.86 1162.84 1024.88 1170.05 1020.71 1170.05 980.72" />
+			<line class="battersea-cls-205" x1="941.07" y1="556.87" x2="880.96" y2="557.19" />
+			<polyline class="battersea-cls-206" points="1057.31 896.31 1011.9 896.31 981.5 879.21 1180.82 767.08 1190.86 767.04" />
+			<polygon class="battersea-cls-207" points="1011.9 869.52 1190.86 767.04 1215.78 762.28 1036.82 864.76 1011.9 869.52" />
+			<polygon class="battersea-cls-2" points="1036.82 864.76 1215.78 762.28 1236.27 793.83 1057.31 896.31 1036.82 864.76" />
+			<polygon class="battersea-cls-208" points="1011.9 869.52 1057.31 896.31 1036.82 864.76 1011.9 869.52" />
+			<polyline class="battersea-cls-206" points="838.4 1017.35 793 1017.35 762.6 1000.25 961.92 888.12 971.96 888.08" />
+			<polygon class="battersea-cls-209" points="793 990.56 971.96 888.08 996.88 883.32 817.92 985.8 793 990.56" />
+			<polygon class="battersea-cls-2" points="817.92 985.8 996.88 883.32 1017.37 914.87 838.4 1017.35 817.92 985.8" />
+			<polygon class="battersea-cls-210" points="793 990.56 838.4 1017.35 817.92 985.8 793 990.56" />
+			<polyline class="battersea-cls-206" points="619.79 1137.85 574.38 1137.85 543.98 1120.75 743.3 1008.62 753.35 1008.58" />
+			<polygon class="battersea-cls-211" points="574.38 1111.06 753.35 1008.58 778.26 1003.82 599.3 1106.3 574.38 1111.06" />
+			<polygon class="battersea-cls-2" points="599.3 1106.3 778.26 1003.82 798.75 1035.37 619.79 1137.85 599.3 1106.3" />
+			<polygon class="battersea-cls-212" points="574.38 1111.06 619.79 1137.85 599.3 1106.3 574.38 1111.06" />
+			<polyline class="battersea-cls-206" points="1119.45 967.36 1080.7 967.36 1054.75 952.77 1224.87 857.06 1233.44 857.03" />
+			<polygon class="battersea-cls-213" points="1080.7 944.5 1233.44 857.03 1254.71 852.96 1101.96 940.43 1080.7 944.5" />
+			<polygon class="battersea-cls-2" points="1101.96 940.43 1254.71 852.96 1272.19 879.89 1119.45 967.36 1101.96 940.43" />
+			<polygon class="battersea-cls-214" points="1080.7 944.5 1119.45 967.36 1101.96 940.43 1080.7 944.5" />
+			<polyline class="battersea-cls-206" points="932.62 1070.66 893.86 1070.66 867.91 1056.07 1038.04 960.37 1046.61 960.34" />
+			<polygon class="battersea-cls-215" points="893.86 1047.8 1046.61 960.34 1067.88 956.27 915.13 1043.74 893.86 1047.8" />
+			<polygon class="battersea-cls-2" points="915.13 1043.74 1067.88 956.27 1085.36 983.2 932.62 1070.66 915.13 1043.74" />
+			<polygon class="battersea-cls-216" points="893.86 1047.8 932.62 1070.66 915.13 1043.74 893.86 1047.8" />
+			<polyline class="battersea-cls-206" points="746.02 1173.51 707.27 1173.51 681.32 1158.92 851.44 1063.22 860.02 1063.18" />
+			<polygon class="battersea-cls-217" points="707.27 1150.65 860.02 1063.18 881.28 1059.12 728.54 1146.59 707.27 1150.65" />
+			<polygon class="battersea-cls-2" points="728.54 1146.59 881.28 1059.12 898.77 1086.05 746.02 1173.51 728.54 1146.59" />
+			<polygon class="battersea-cls-218" points="707.27 1150.65 746.02 1173.51 728.54 1146.59 707.27 1150.65" />
+			<polygon class="battersea-cls-219" points="577.11 511.88 577.11 647.39 716 568.82 715.82 431.75 577.11 511.88" />
+			<path class="battersea-cls-220" d="M769.55,445a1,1,0,0,0,0-.17s0-.06,0-.09a1,1,0,0,0-.07-.17l0-.07a1,1,0,0,0-.11-.14l0-.06a1,1,0,0,0-.21-.16l-66.38-38.09h0l-12.84-7.37a1,1,0,0,0-.67-.11h-.08a1,1,0,0,0-.24.1l-86.62,50.46a1,1,0,0,0-.17.13l0,0a1,1,0,0,0-.1.13l-.06.07a1,1,0,0,0,0,.12,1,1,0,0,0-.05.12,1,1,0,0,0,0,.12,1,1,0,0,0,0,.14V632.43a1,1,0,0,1,0,.52,1,1,0,0,0,.5.86l79.24,45.46a1,1,0,0,0,1,0l86.62-50.46a1,1,0,0,0,.5-.87.44.44,0,0,1,0-.23V445h0ZM727,508.52,719.12,475l23-13.39Zm17.7-48.45,5.9-3.44V609l-22.71-96.68Zm5.48,155.88-46.94-27.1L726.69,516ZM752.59,437l14,8-14,8.13Zm0,18.46,15-8.72V626l-15-8.64Zm-2-1.15-5,2.9,5-15.48ZM746,433.23l4.4,2.53-7.39,23-24.39,14.21-15-64Zm-42.92-17.73L716.83,474l-13.74,8Zm0,68.8L717.31,476l8.5,36.19-22.72,70.57Zm-12.77-83,10.77,6.18v75.69l-10.77,6.28Zm0,90.47,10.77-6.28V587.61l-10.77-6.22ZM664,596.09l-13.09,7.62-9.62-41L664,492.2ZM649.55,606.8l14,59.6-46.94-27.1,5.28-16.39Zm-26.74,13.26,17.26-53.63,9,38.33Zm28.55-14.32L664,598.41v61Zm-11-46.77L617,459.35l46.82,26.87Zm-1.19,3.69-19,58.91-3.75,2.19V466Zm-19.88,61.75-2.84,8.81v-7.16Zm-14.17,8.26,9.34-5.44v10.83Zm75.8,43.76-15-8.64V597.24l15-8.72Zm-15-81.51V487.46l15,8.58v90.16Zm22.35-13L682.93,585V496l5.38-3.14Zm0-180.62v89.3l-6.39,3.72L604.7,450Zm-73.85,56.63v167L603.7,631.2V451.73Zm68.46,218.75v-89.3l6.39-3.72L766.56,628Z" />
+			<polygon class="battersea-cls-221" points="327.52 237.19 289.36 237.19 289.36 261.82 327.52 239.79 327.52 237.19" />
+			<polygon class="battersea-cls-222" points="251.2 242.31 251.2 264.23 289.36 286.26 289.36 261.63 251.2 242.31" />
+			<polygon class="battersea-cls-223" points="327.52 242.31 289.36 261.63 289.36 286.26 327.52 264.23 327.52 242.31" />
+			<polygon class="battersea-cls-224" points="251.2 242.31 289.36 264.34 327.52 242.31 289.36 220.28 251.2 242.31" />
+			<polygon class="battersea-cls-222" points="251.2 217.87 251.2 239.79 289.36 261.82 289.36 237.19 251.2 217.87" />
+			<polygon class="battersea-cls-223" points="327.52 217.87 289.36 237.19 289.36 261.82 327.52 239.79 327.52 217.87" />
+			<line class="battersea-cls-225" x1="27.03" y1="354.77" x2="2" y2="374.65" />
+			<polygon class="battersea-cls-226" points="252.21 567.89 252.21 253.27 225.21 237.77 225.21 552.3 252.21 567.89" />
+			<polyline class="battersea-cls-227" points="252.21 567.89 225.21 518.78 252.21 489.79 225.21 448.12 252.21 418.45 225.21 379.79 252.21 332.12 225.21 299.45 252.21 253.27" />
+			<polygon class="battersea-cls-228" points="252.21 567.89 252.21 253.27 279.21 237.77 279.21 552.3 252.21 567.89" />
+			<polyline class="battersea-cls-229" points="252.21 567.89 279.21 518.78 252.21 489.79 279.21 448.12 252.21 418.45 279.21 379.79 252.21 332.12 279.21 299.45 252.21 253.27" />
+			<polyline class="battersea-cls-230" points="52.07 368.15 27.03 354.77 25.07 321.89" />
+			<polygon class="battersea-cls-231" points="25.07 321.38 2 374.65 52.07 368.15 25.07 321.38" />
+			<polygon class="battersea-cls-232" points="251.2 217.87 289.36 239.9 327.52 217.87 289.36 195.84 251.2 217.87" />
+			<polygon class="battersea-cls-233" points="324.46 179.71 51.99 337.02 25.07 321.38 297.46 164.12 324.46 179.71" />
+			<polyline class="battersea-cls-234" points="324.46 179.71 268.43 180.88 256.82 218.76 207.23 216.21 195.04 254.43 148.06 250.38 120.28 297.59 78.48 290.54 51.99 337.02" />
+			<polygon class="battersea-cls-235" points="324.46 179.71 51.99 337.02 52.07 368.15 324.46 210.88 324.46 179.71" />
+			<polyline class="battersea-cls-236" points="2 374.65 51.99 337.02 105.48 337.31 120.28 297.59 175.06 297.14 195.04 254.43 234.23 262.98 256.82 218.76 295.43 227.64 324.46 179.71" />
+			<polygon class="battersea-cls-237" points="1282.2 724.15 1320.37 724.15 1320.37 748.78 1282.2 726.75 1282.2 724.15" />
+			<polygon class="battersea-cls-222" points="1358.53 729.27 1358.53 751.19 1320.37 773.22 1320.37 748.59 1358.53 729.27" />
+			<polygon class="battersea-cls-223" points="1282.2 729.27 1320.37 748.59 1320.37 773.22 1282.2 751.19 1282.2 729.27" />
+			<polygon class="battersea-cls-238" points="1358.53 729.27 1320.37 751.3 1282.2 729.27 1320.37 707.24 1358.53 729.27" />
+			<polygon class="battersea-cls-222" points="1358.53 704.83 1358.53 726.75 1320.37 748.78 1320.37 724.15 1358.53 704.83" />
+			<polygon class="battersea-cls-223" points="1282.2 704.83 1320.37 724.15 1320.37 748.78 1282.2 726.75 1282.2 704.83" />
+			<line class="battersea-cls-239" x1="1582.69" y1="841.72" x2="1607.73" y2="861.61" />
+			<polygon class="battersea-cls-240" points="1357.52 1054.85 1357.52 740.23 1384.52 724.73 1384.52 1039.26 1357.52 1054.85" />
+			<polyline class="battersea-cls-241" points="1357.52 1054.85 1384.52 1005.74 1357.52 976.74 1384.52 935.08 1357.52 905.41 1384.52 866.74 1357.52 819.08 1384.52 786.41 1357.52 740.23" />
+			<polygon class="battersea-cls-242" points="1357.52 1054.85 1357.52 740.23 1330.52 724.73 1330.52 1039.26 1357.52 1054.85" />
+			<polyline class="battersea-cls-243" points="1357.52 1054.85 1330.52 1005.74 1357.52 976.74 1330.52 935.08 1357.52 905.41 1330.52 866.74 1357.52 819.08 1330.52 786.41 1357.52 740.23" />
+			<polyline class="battersea-cls-244" points="1557.66 855.11 1582.69 841.72 1584.66 808.85" />
+			<polygon class="battersea-cls-245" points="1584.66 808.34 1607.73 861.61 1557.66 855.11 1584.66 808.34" />
+			<polygon class="battersea-cls-246" points="1358.53 704.83 1320.37 726.86 1282.2 704.83 1320.37 682.79 1358.53 704.83" />
+			<polygon class="battersea-cls-247" points="1285.26 666.66 1557.74 823.98 1584.66 808.34 1312.26 651.08 1285.26 666.66" />
+			<polyline class="battersea-cls-248" points="1285.26 666.66 1341.29 667.84 1352.91 705.72 1402.49 703.17 1414.68 741.38 1461.67 737.34 1489.45 784.55 1531.24 777.5 1557.74 823.98" />
+			<polygon class="battersea-cls-249" points="1285.26 666.66 1557.74 823.98 1557.66 855.11 1285.26 697.84 1285.26 666.66" />
+			<polyline class="battersea-cls-250" points="1607.73 861.61 1557.74 823.98 1504.24 824.27 1489.45 784.55 1434.67 784.1 1414.68 741.38 1375.49 749.93 1352.91 705.72 1314.29 714.6 1285.26 666.66" />
+		</g>
+	</g>
+</svg>

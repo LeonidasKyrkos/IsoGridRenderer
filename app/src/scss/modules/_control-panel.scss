@@ -1,0 +1,38 @@
+$module: 		'control-panel';
+
+.#{$module} {
+	background-color: rgba(black,0.8);
+	color: white;
+	position: absolute;
+	bottom: em(50);
+	left: 0;
+	right: 0;
+	width: em(600);
+	max-width: 95%;
+	margin: 0 auto;
+	padding: em(15) em(30);
+	border-radius: em(10);
+
+	&__options {
+		margin-bottom: em(20);
+
+		> li {
+			display: inline-block;
+			vertical-align: bottom;
+		}
+	}
+
+	&__buttons {
+		text-align: right;
+	}
+
+	&__item {
+		padding: em(10);
+		display: block;
+		border: 1px solid transparent;
+
+		&.active {
+			border: 1px solid white;
+		}
+	}
+}

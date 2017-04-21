@@ -1,0 +1,41 @@
+// variables //
+
+// dimensions
+
+	$navWidth: 			220;
+
+// Typography
+// -------------------------	
+	
+	// family
+	$ffBase: 			'Source Sans Pro', sans-serif;
+	$ffSecondary: 		Arial, sans-serif;
+	$ffHeadings: 		'Source Sans Pro', serif;
+	
+	
+	// style
+	$fzBase: 			19 !default;
+	$lhBase: 			(19 * 1.6) !default;
+	$fwBase: 			400;
+
+
+// colors 
+
+	$color1: 			#006eb7; // dark blue for tower bridge road
+	$color2: 			#fd29fc; // pink
+	$color3: 			#44d397; // turquoise
+	$color4: 			#2d96d2; // light blue
+	$color5: 			#772abd; // purple
+	$color6: 			#004673; // dark blue background
+
+// Headings
+// -------------------------
+
+	$headings: 							'.alpha','.beta','.gamma','.delta';
+	$headingSizes: 						70,30,20,16;
+	$headingFamilies: 					$ffHeadings, $ffHeadings, $ffHeadings, $ffBase;
+	$headingColors: 					inherit , inherit, inherit, inherit;
+	$headingMargins: 					42,42,0,10;
+	$headingLineHeights: 				77,35,26,19;
+	$headingFontWeights: 				700, 500, 500, 700;
+

@@ -1,0 +1,54 @@
+$module: 		'shard';
+
+.#{$module} {
+	transform: translateY(23px)translateX(-31px);
+	&__svg {
+		width: 100%;
+		height: auto;
+
+		.palette & {
+			height: em(94);
+			width: auto;
+		}
+	}
+
+	&__balloon {
+		position: absolute;
+		bottom: 0;
+		right: 0;
+		width: em(80);
+		height: auto;
+		opacity: 0;
+
+		.#{$module}.active & {
+			animation: 10s 1.5s linear forwards flyBalloon;
+		}		
+
+		.palette & {
+			display: none;
+		}
+	}
+}
+
+@keyframes flyBalloon {
+	0% {
+		opacity: 0;
+		transform: translateY(0)translateX(0)translateZ(0);
+	}
+	25% {
+		opacity: 1;
+		transform: translateY(-150px)translateX(-5px)translateZ(0);
+	}
+	50% {
+		opacity: 1;
+		transform: translateY(-300px)translateX(-15px)translateZ(0);
+	}
+	75% {
+		transform: translateY(-450px)translateX(-25px)translateZ(0);
+		opacity: 1;
+	}
+	100% {
+		transform: translateY(-600px)translateX(-5px)translateZ(0);
+		opacity: 0;
+	}
+}

@@ -1,0 +1,44 @@
+$module: 		'btn';
+
+.buttons {
+	position: fixed;
+	bottom: em(5);
+	right: em(5);
+	z-index: 10;
+	text-align: right;
+}
+
+.#{$module} {
+	background-image: none;
+	outline: 0;
+	border: 0;
+	box-shadow: none;
+
+	&-primary {
+		@extend .#{$module};
+		display: inline-block;
+		$fontSize: 12;
+		margin: em(10,$fontSize);
+		font-size: em($fontSize);
+		background-color: #337ab7;
+		border: 1px solid #2e6da4;
+		border-radius: em(6,$fontSize);
+		padding: em(8,$fontSize) em(13,$fontSize);
+		color: white;
+
+		&:hover {
+			background-color: darken(#337ab7,10%);
+			border: 1px solid darken(#2e6da4,10%);
+		}
+
+		&.active {
+			background-color: #5cb85c;
+			border-color: #4cae4c;
+
+			&:hover {
+				background-color: darken(#5cb85c,10%);
+				border-color: darken(#4cae4c,10%);
+			}
+		}
+	}
+}

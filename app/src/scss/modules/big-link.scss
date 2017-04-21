@@ -1,0 +1,13 @@
+$module: 		'big-link';
+
+.#{$module} {
+	@extend %big-link;
+
+	&__text {
+		@extend %big-link__text;
+	}
+
+	&__arrow {
+		@extend %big-link__arrow;
+	}
+}

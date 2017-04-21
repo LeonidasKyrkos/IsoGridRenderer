@@ -1,0 +1,28 @@
+$module:        'zoom';
+
+
+.#{$module} {
+    position: fixed;
+    top: 0;
+    right: 0;
+    padding: em(10);
+    z-index: 2;
+
+    &__item {
+        width: em(30);
+        background-color: firebrick;
+        color: white;
+        text-align: center;
+        line-height: em(30);
+        display: inline-block;
+        vertical-align: middle;
+
+        &:hover {
+            background-color: darken(firebrick,10%);
+        }
+    }
+
+    @include bp(tab-l-b) {
+        display: none;
+    }
+}

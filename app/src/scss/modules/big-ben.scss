@@ -1,0 +1,63 @@
+$module: 		'big-ben';
+
+
+.#{$module} {
+	transform: translateX(12px);
+
+	&__svg {
+		pointer-events: none;
+		position: relative;
+		width: 100%;
+		height: auto;
+
+		.palette & {
+			position: static;
+			height: em(94);
+		}
+	}
+
+	&__image {
+		pointer-events: none;
+		position: relative;
+		width: 100%;
+		height: auto;
+
+		.palette & {
+			position: static;
+			width: auto;
+			height: em(94);
+		}
+	}
+
+	&__time {
+		font-family: 'VT323', Arial;
+		user-select: none;
+		$fontSize: 16;
+		font-size: em($fontSize);
+		position: absolute;
+		top: em(115,$fontSize);
+		left: em(4,$fontSize);
+		z-index: 2;
+		transform: rotateY(-45deg) rotateZ(22deg) rotateX(-14deg) translateY(6px);
+		color: #28b8ce;
+
+		span {
+			padding: 0 em(1,$fontSize) 0 0;
+			display: inline-block;
+			vertical-align: middle;
+		}
+
+		.palette & {
+			display: none;
+		}
+	}
+
+	&__time--right {
+		$fontSize: 16;
+		@extend .#{$module}__time;
+		color: #3c59a3;
+		right: em(2,$fontSize);
+		left: auto;
+		transform: rotateY(44deg) rotateZ(-23deg) rotateX(-20deg) translateY(6px);
+	}
+}

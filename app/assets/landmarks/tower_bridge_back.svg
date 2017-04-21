@@ -1,0 +1,836 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 519.66 446.79" width="520" height="447" class="tower-bridge__right">
+	<defs>
+		<style>
+			.tb-left-cls-1,.tb-left-cls-29{fill:none;}.tb-left-cls-2{fill:#2d96d2;}.tb-left-cls-3{fill:#2d437a;}.tb-left-cls-4{fill:#3c59a3;}.tb-left-cls-5{fill:url(#tb-left-linear-gradient);}.tb-left-cls-6{fill:url(#tb-left-linear-gradient-2);}.tb-left-cls-7{fill:url(#tb-left-linear-gradient-3);}.tb-left-cls-8{fill:#006eb7;}.tb-left-cls-9{fill:url(#tb-left-linear-gradient-4);}.tb-left-cls-10{opacity:0.7;}.tb-left-cls-11,.tb-left-cls-14{fill:#dacda2;}.tb-left-cls-11{stroke:#ac9044;}.tb-left-cls-11,.tb-left-cls-14,.tb-left-cls-29{stroke-miterlimit:10;}.tb-left-cls-12{fill:url(#tb-left-linear-gradient-5);}.tb-left-cls-13{fill:#666;}.tb-left-cls-14{stroke:#fff;}.tb-left-cls-15{fill:#d2c1ad;}.tb-left-cls-16{opacity:0.3;}.tb-left-cls-17{fill:#4481aa;}.tb-left-cls-18{fill:url(#tb-left-linear-gradient-6);}.tb-left-cls-19{fill:#336180;}.tb-left-cls-20{fill:#d8d0c4;}.tb-left-cls-21{fill:url(#tb-left-linear-gradient-7);}.tb-left-cls-22{fill:url(#tb-left-linear-gradient-8);}.tb-left-cls-23{fill:#09d1e3;}.tb-left-cls-24{fill:#e6e6e6;}.tb-left-cls-25{fill:#22325c;}.tb-left-cls-26{fill:#c7b299;}.tb-left-cls-27{fill:#eae7e3;}.tb-left-cls-28{fill:#bdaa92;}.tb-left-cls-29{stroke:#e4dace;stroke-linecap:round;}.tb-left-cls-30{fill:url(#tb-left-linear-gradient-9);}.tb-left-cls-31{fill:url(#tb-left-linear-gradient-10);}.tb-left-cls-32{fill:url(#tb-left-linear-gradient-11);}.tb-left-cls-33{fill:url(#tb-left-linear-gradient-12);}.tb-left-cls-34{fill:url(#tb-left-linear-gradient-13);}.tb-left-cls-35{fill:url(#tb-left-linear-gradient-14);}.tb-left-cls-36{fill:url(#tb-left-linear-gradient-15);}.tb-left-cls-37{fill:url(#tb-left-linear-gradient-16);}.tb-left-cls-38{fill:url(#tb-left-linear-gradient-17);}.tb-left-cls-39{fill:url(#tb-left-linear-gradient-18);}.tb-left-cls-40{fill:url(#tb-left-linear-gradient-19);}.tb-left-cls-41{fill:url(#tb-left-linear-gradient-20);}.tb-left-cls-42{fill:url(#tb-left-linear-gradient-21);}.tb-left-cls-43{fill:url(#tb-left-linear-gradient-22);}.tb-left-cls-44{fill:url(#tb-left-linear-gradient-23);}.tb-left-cls-45{fill:url(#tb-left-linear-gradient-24);}.tb-left-cls-46{fill:url(#tb-left-linear-gradient-25);}.tb-left-cls-47{fill:url(#tb-left-linear-gradient-26);}.tb-left-cls-48{fill:url(#tb-left-linear-gradient-27);}.tb-left-cls-49{fill:url(#tb-left-linear-gradient-28);}.tb-left-cls-50{fill:url(#tb-left-linear-gradient-29);}.tb-left-cls-51{fill:url(#tb-left-linear-gradient-30);}.tb-left-cls-52{fill:url(#tb-left-linear-gradient-31);}.tb-left-cls-53{fill:url(#tb-left-linear-gradient-32);}.tb-left-cls-54{fill:url(#tb-left-linear-gradient-33);}.tb-left-cls-55{fill:url(#tb-left-linear-gradient-34);}.tb-left-cls-56{fill:url(#tb-left-linear-gradient-35);}.tb-left-cls-57{fill:url(#tb-left-linear-gradient-36);}.tb-left-cls-58{fill:url(#tb-left-linear-gradient-37);}.tb-left-cls-59{fill:url(#tb-left-linear-gradient-38);}.tb-left-cls-60{fill:url(#tb-left-linear-gradient-39);}.tb-left-cls-61{fill:url(#tb-left-linear-gradient-40);}.tb-left-cls-62{fill:url(#tb-left-linear-gradient-41);}.tb-left-cls-63{fill:url(#tb-left-linear-gradient-42);}.tb-left-cls-64{fill:url(#tb-left-linear-gradient-43);}.tb-left-cls-65{fill:url(#tb-left-linear-gradient-44);}.tb-left-cls-66{fill:url(#tb-left-linear-gradient-45);}.tb-left-cls-67{fill:url(#tb-left-linear-gradient-46);}.tb-left-cls-68{fill:url(#tb-left-linear-gradient-47);}.tb-left-cls-69{fill:url(#tb-left-linear-gradient-48);}.tb-left-cls-70{fill:url(#tb-left-linear-gradient-49);}.tb-left-cls-71{fill:url(#tb-left-linear-gradient-50);}.tb-left-cls-72{fill:url(#tb-left-linear-gradient-51);}.tb-left-cls-73{fill:url(#tb-left-linear-gradient-52);}.tb-left-cls-74{fill:url(#tb-left-linear-gradient-53);}.tb-left-cls-75{fill:url(#tb-left-linear-gradient-54);}.tb-left-cls-76{fill:url(#tb-left-linear-gradient-55);}.tb-left-cls-77{fill:url(#tb-left-linear-gradient-56);}.tb-left-cls-78{fill:url(#tb-left-linear-gradient-57);}.tb-left-cls-79{fill:url(#tb-left-linear-gradient-58);}.tb-left-cls-80{fill:url(#tb-left-linear-gradient-59);}.tb-left-cls-81{fill:url(#tb-left-linear-gradient-60);}.tb-left-cls-82{fill:url(#tb-left-linear-gradient-61);}.tb-left-cls-83{fill:url(#tb-left-linear-gradient-62);}.tb-left-cls-84{fill:url(#tb-left-linear-gradient-63);}.tb-left-cls-85{fill:url(#tb-left-linear-gradient-64);}.tb-left-cls-86{fill:url(#tb-left-linear-gradient-65);}.tb-left-cls-87{fill:url(#tb-left-linear-gradient-66);}.tb-left-cls-88{fill:url(#tb-left-linear-gradient-67);}.tb-left-cls-89{fill:url(#tb-left-linear-gradient-68);}.tb-left-cls-90{fill:url(#tb-left-linear-gradient-69);}.tb-left-cls-91{fill:url(#tb-left-linear-gradient-70);}.tb-left-cls-92{fill:url(#tb-left-linear-gradient-71);}.tb-left-cls-93{fill:url(#tb-left-linear-gradient-72);}.tb-left-cls-94{fill:url(#tb-left-linear-gradient-73);}.tb-left-cls-95{fill:url(#tb-left-linear-gradient-74);}.tb-left-cls-96{fill:url(#tb-left-linear-gradient-75);}.tb-left-cls-97{fill:url(#tb-left-linear-gradient-76);}.tb-left-cls-98{fill:url(#tb-left-linear-gradient-77);}.tb-left-cls-99{fill:url(#tb-left-linear-gradient-78);}.tb-left-cls-100{fill:url(#tb-left-linear-gradient-79);}.tb-left-cls-101{fill:url(#tb-left-linear-gradient-80);}.tb-left-cls-102{fill:url(#tb-left-linear-gradient-81);}.tb-left-cls-103{fill:url(#tb-left-linear-gradient-82);}.tb-left-cls-104{fill:url(#tb-left-linear-gradient-83);}.tb-left-cls-105{fill:url(#tb-left-linear-gradient-84);}.tb-left-cls-106{fill:url(#tb-left-linear-gradient-85);}.tb-left-cls-107{fill:url(#tb-left-linear-gradient-86);}.tb-left-cls-108{fill:url(#tb-left-linear-gradient-87);}.tb-left-cls-109{fill:url(#tb-left-linear-gradient-88);}.tb-left-cls-110{fill:url(#tb-left-linear-gradient-89);}.tb-left-cls-111{fill:url(#tb-left-linear-gradient-90);}.tb-left-cls-112{fill:url(#tb-left-linear-gradient-91);}.tb-left-cls-113{fill:url(#tb-left-linear-gradient-92);}.tb-left-cls-114{fill:url(#tb-left-linear-gradient-93);}.tb-left-cls-115{fill:url(#tb-left-linear-gradient-94);}.tb-left-cls-116{fill:url(#tb-left-linear-gradient-95);}.tb-left-cls-117{fill:url(#tb-left-linear-gradient-96);}.tb-left-cls-118{fill:url(#tb-left-linear-gradient-97);}.tb-left-cls-119{fill:url(#tb-left-linear-gradient-98);}.tb-left-cls-120{fill:url(#tb-left-linear-gradient-99);}.tb-left-cls-121{fill:url(#tb-left-linear-gradient-100);}.tb-left-cls-122{fill:url(#tb-left-linear-gradient-101);}.tb-left-cls-123{fill:url(#tb-left-linear-gradient-102);}.tb-left-cls-124{fill:url(#tb-left-linear-gradient-103);}.tb-left-cls-125{fill:url(#tb-left-linear-gradient-104);}.tb-left-cls-126{fill:url(#tb-left-linear-gradient-105);}.tb-left-cls-127{fill:url(#tb-left-linear-gradient-106);}.tb-left-cls-128{fill:url(#tb-left-linear-gradient-107);}.tb-left-cls-129{fill:url(#tb-left-linear-gradient-108);}.tb-left-cls-130{fill:url(#tb-left-linear-gradient-109);}.tb-left-cls-131{fill:url(#tb-left-linear-gradient-110);}.tb-left-cls-132{fill:url(#tb-left-linear-gradient-111);}.tb-left-cls-133{fill:url(#tb-left-linear-gradient-112);}.tb-left-cls-134{fill:url(#tb-left-linear-gradient-113);}.tb-left-cls-135{fill:url(#tb-left-linear-gradient-114);}.tb-left-cls-136{fill:url(#tb-left-pattern-3);}.tb-left-cls-137{fill:url(#tb-left-pattern-2);}.tb-left-cls-138{fill:url(#tb-left-linear-gradient-115);}.tb-left-cls-139{fill:url(#tb-left-linear-gradient-116);}.tb-left-cls-140{fill:url(#tb-left-linear-gradient-117);}.tb-left-cls-141{fill:url(#tb-left-linear-gradient-118);}.tb-left-cls-142{fill:url(#tb-left-linear-gradient-119);}.tb-left-cls-143{fill:url(#tb-left-linear-gradient-120);}.tb-left-cls-144{fill:url(#tb-left-linear-gradient-121);}.tb-left-cls-145{fill:url(#tb-left-linear-gradient-122);}.tb-left-cls-146{fill:url(#tb-left-linear-gradient-123);}.tb-left-cls-147{fill:url(#tb-left-linear-gradient-124);}.tb-left-cls-148{fill:url(#tb-left-linear-gradient-125);}.tb-left-cls-149{fill:url(#tb-left-linear-gradient-126);}.tb-left-cls-150{fill:url(#tb-left-linear-gradient-127);}.tb-left-cls-151{fill:url(#tb-left-linear-gradient-128);}.tb-left-cls-152{fill:url(#tb-left-linear-gradient-129);}.tb-left-cls-153{fill:url(#tb-left-linear-gradient-130);}.tb-left-cls-154{fill:url(#tb-left-linear-gradient-131);}.tb-left-cls-155{fill:url(#tb-left-linear-gradient-132);}.tb-left-cls-156{fill:#ccbfb0;}.tb-left-cls-157{fill:url(#tb-left-linear-gradient-133);}.tb-left-cls-158{fill:url(#tb-left-linear-gradient-134);}.tb-left-cls-159{fill:url(#tb-left-linear-gradient-135);}.tb-left-cls-160{fill:url(#tb-left-linear-gradient-136);}.tb-left-cls-161{fill:url(#tb-left-linear-gradient-137);}.tb-left-cls-162{fill:url(#tb-left-linear-gradient-138);}.tb-left-cls-163{fill:url(#tb-left-linear-gradient-139);}.tb-left-cls-164{fill:url(#tb-left-linear-gradient-140);}.tb-left-cls-165{fill:url(#tb-left-linear-gradient-141);}.tb-left-cls-166{fill:url(#tb-left-pattern);}.tb-left-cls-167{fill:url(#tb-left-linear-gradient-142);}.tb-left-cls-168{fill:url(#tb-left-linear-gradient-143);}.tb-left-cls-169{fill:url(#tb-left-linear-gradient-144);}.tb-left-cls-170{fill:url(#tb-left-linear-gradient-145);}.tb-left-cls-171{fill:url(#tb-left-linear-gradient-146);}.tb-left-cls-172{fill:url(#tb-left-linear-gradient-147);}.tb-left-cls-173{fill:url(#tb-left-linear-gradient-148);}.tb-left-cls-174{fill:url(#tb-left-linear-gradient-149);}.tb-left-cls-175{fill:url(#tb-left-linear-gradient-150);}
+		</style>
+		<linearGradient id="tb-left-linear-gradient" x1="256.49" y1="284.8" x2="445.48" y2="284.8" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#2b98d3" />
+			<stop offset="1" stop-color="#2057a1" />
+		</linearGradient>
+		<linearGradient id="tb-left-linear-gradient-2" x1="387.86" y1="86.34" x2="466.85" y2="86.34" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#2d96d2" />
+			<stop offset="1" stop-color="#2057a1" />
+		</linearGradient>
+		<linearGradient id="tb-left-linear-gradient-3" x1="519.42" y1="370.92" x2="256.49" y2="370.92" xlink:href="#tb-left-linear-gradient" />
+		<linearGradient id="tb-left-linear-gradient-4" x1="355.74" y1="202.79" x2="498.82" y2="285.4" xlink:href="#tb-left-linear-gradient-2" />
+		<linearGradient id="tb-left-linear-gradient-5" x1="388.65" y1="244.31" x2="308.78" y2="244.31" xlink:href="#tb-left-linear-gradient-2" />
+		<linearGradient id="tb-left-linear-gradient-6" x1="420.75" y1="362.97" x2="435.82" y2="362.97" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#64c8c3" />
+			<stop offset="1" stop-color="#4296ab" />
+		</linearGradient>
+		<linearGradient id="tb-left-linear-gradient-7" x1="427.78" y1="345.21" x2="435.82" y2="345.21" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-8" x1="420.81" y1="340.43" x2="432.39" y2="340.43" xlink:href="#tb-left-linear-gradient-2" />
+		<linearGradient id="tb-left-linear-gradient-9" x1="447.86" y1="335.2" x2="450.62" y2="335.2" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-10" x1="444.69" y1="344.31" x2="450.62" y2="344.31" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-11" x1="408.42" y1="357.98" x2="411.18" y2="357.98" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-12" x1="405.24" y1="367.09" x2="411.18" y2="367.09" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-13" x1="423.49" y1="321.95" x2="425.4" y2="321.95" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-14" x1="421.29" y1="328.25" x2="425.4" y2="328.25" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-15" x1="410.91" y1="329.25" x2="412.81" y2="329.25" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-16" x1="408.71" y1="335.54" x2="412.81" y2="335.54" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-17" x1="443.06" y1="310.71" x2="444.97" y2="310.71" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-18" x1="440.87" y1="317.01" x2="444.97" y2="317.01" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-19" x1="429.99" y1="318.22" x2="431.9" y2="318.22" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-20" x1="427.8" y1="324.52" x2="431.9" y2="324.52" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-21" x1="423.49" y1="302.6" x2="425.4" y2="302.6" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-22" x1="421.29" y1="308.9" x2="425.4" y2="308.9" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-23" x1="429.99" y1="298.86" x2="431.9" y2="298.86" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-24" x1="427.8" y1="305.16" x2="431.9" y2="305.16" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-25" x1="410.91" y1="310.28" x2="412.81" y2="310.28" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-26" x1="408.71" y1="316.58" x2="412.81" y2="316.58" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-27" x1="443.06" y1="291.74" x2="444.97" y2="291.74" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-28" x1="440.87" y1="298.04" x2="444.97" y2="298.04" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-29" x1="410.98" y1="270.4" x2="412.89" y2="270.4" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-30" x1="408.79" y1="276.7" x2="412.89" y2="276.7" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-31" x1="412.2" y1="279.08" x2="412.89" y2="279.08" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-32" x1="408.79" y1="282.7" x2="412.89" y2="282.7" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-33" x1="410.98" y1="202.02" x2="412.89" y2="202.02" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-34" x1="408.79" y1="208.31" x2="412.89" y2="208.31" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-35" x1="412.2" y1="210.7" x2="412.89" y2="210.7" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-36" x1="408.79" y1="214.32" x2="412.89" y2="214.32" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-37" x1="443.21" y1="251.76" x2="445.11" y2="251.76" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-38" x1="441.01" y1="258.06" x2="445.11" y2="258.06" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-39" x1="444.42" y1="260.45" x2="445.11" y2="260.45" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-40" x1="441.01" y1="264.06" x2="445.11" y2="264.06" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-41" x1="443.21" y1="183.39" x2="445.11" y2="183.39" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-42" x1="441.01" y1="189.68" x2="445.11" y2="189.68" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-43" x1="444.42" y1="192.07" x2="445.11" y2="192.07" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-44" x1="441.01" y1="195.69" x2="445.11" y2="195.69" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-45" x1="426.87" y1="192.81" x2="428.78" y2="192.81" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-46" x1="424.67" y1="199.1" x2="428.78" y2="199.1" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-47" x1="428.09" y1="201.49" x2="428.78" y2="201.49" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-48" x1="424.67" y1="205.11" x2="428.78" y2="205.11" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-49" x1="423.86" y1="263.06" x2="425.76" y2="263.06" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-50" x1="421.66" y1="269.36" x2="425.76" y2="269.36" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-51" x1="425.07" y1="271.75" x2="425.76" y2="271.75" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-52" x1="421.66" y1="275.37" x2="425.76" y2="275.37" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-53" x1="430.2" y1="259.49" x2="432.11" y2="259.49" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-54" x1="428" y1="265.79" x2="432.11" y2="265.79" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-55" x1="431.42" y1="268.18" x2="432.11" y2="268.18" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-56" x1="428" y1="271.79" x2="432.11" y2="271.79" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-57" x1="360.93" y1="269.45" x2="362.84" y2="269.45" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-58" x1="360.93" y1="275.74" x2="365.04" y2="275.74" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-59" x1="360.93" y1="278.13" x2="361.62" y2="278.13" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-60" x1="360.93" y1="281.75" x2="365.04" y2="281.75" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-61" x1="328.71" y1="250.81" x2="330.61" y2="250.81" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-62" x1="328.71" y1="257.11" x2="332.81" y2="257.11" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-63" x1="328.71" y1="259.49" x2="329.4" y2="259.49" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-64" x1="328.71" y1="263.11" x2="332.81" y2="263.11" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-65" x1="348.06" y1="262.11" x2="349.96" y2="262.11" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-66" x1="348.06" y1="268.41" x2="352.16" y2="268.41" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-67" x1="348.06" y1="270.79" x2="348.75" y2="270.79" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-68" x1="348.06" y1="274.41" x2="352.16" y2="274.41" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-69" x1="341.71" y1="258.54" x2="343.62" y2="258.54" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-70" x1="341.71" y1="264.84" x2="345.82" y2="264.84" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-71" x1="341.71" y1="267.22" x2="342.4" y2="267.22" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-72" x1="341.71" y1="270.84" x2="345.82" y2="270.84" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-73" x1="360.93" y1="191.55" x2="362.84" y2="191.55" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-74" x1="360.93" y1="197.85" x2="365.04" y2="197.85" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-75" x1="360.93" y1="200.23" x2="361.62" y2="200.23" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-76" x1="360.93" y1="203.85" x2="365.04" y2="203.85" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-77" x1="328.71" y1="172.92" x2="330.61" y2="172.92" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-78" x1="328.71" y1="179.21" x2="332.81" y2="179.21" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-79" x1="328.71" y1="181.6" x2="329.4" y2="181.6" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-80" x1="328.71" y1="185.22" x2="332.81" y2="185.22" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-81" x1="348.06" y1="184.22" x2="349.96" y2="184.22" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-82" x1="348.06" y1="190.51" x2="352.16" y2="190.51" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-83" x1="348.06" y1="192.9" x2="348.75" y2="192.9" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-84" x1="348.06" y1="196.52" x2="352.16" y2="196.52" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-85" x1="341.71" y1="180.65" x2="343.62" y2="180.65" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-86" x1="341.71" y1="186.94" x2="345.82" y2="186.94" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-87" x1="341.71" y1="189.33" x2="342.4" y2="189.33" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-88" x1="341.71" y1="192.95" x2="345.82" y2="192.95" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-89" x1="410.98" y1="159.84" x2="412.89" y2="159.84" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-90" x1="408.79" y1="166.14" x2="412.89" y2="166.14" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-91" x1="412.2" y1="168.53" x2="412.89" y2="168.53" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-92" x1="408.79" y1="172.14" x2="412.89" y2="172.14" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-93" x1="443.21" y1="141.21" x2="445.11" y2="141.21" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-94" x1="441.01" y1="147.5" x2="445.11" y2="147.5" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-95" x1="444.42" y1="149.89" x2="445.11" y2="149.89" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-96" x1="441.01" y1="153.51" x2="445.11" y2="153.51" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-97" x1="423.86" y1="152.51" x2="425.76" y2="152.51" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-98" x1="421.66" y1="158.8" x2="425.76" y2="158.8" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-99" x1="425.07" y1="161.19" x2="425.76" y2="161.19" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-100" x1="421.66" y1="164.81" x2="425.76" y2="164.81" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-101" x1="430.2" y1="148.94" x2="432.11" y2="148.94" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-102" x1="428" y1="155.23" x2="432.11" y2="155.23" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-103" x1="431.42" y1="157.62" x2="432.11" y2="157.62" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-104" x1="428" y1="161.24" x2="432.11" y2="161.24" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-105" x1="425.71" y1="173.81" x2="447.29" y2="173.81" xlink:href="#tb-left-linear-gradient-2" />
+		<linearGradient id="tb-left-linear-gradient-106" x1="312" y1="122.7" x2="381.91" y2="122.7" xlink:href="#tb-left-linear-gradient-2" />
+		<linearGradient id="tb-left-linear-gradient-107" x1="423.86" y1="112.04" x2="425.76" y2="112.04" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-108" x1="421.66" y1="118.34" x2="425.76" y2="118.34" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-109" x1="425.07" y1="120.73" x2="425.76" y2="120.73" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-110" x1="421.66" y1="124.35" x2="425.76" y2="124.35" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-111" x1="430.2" y1="108.47" x2="432.11" y2="108.47" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-112" x1="428" y1="114.77" x2="432.11" y2="114.77" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-113" x1="431.42" y1="117.16" x2="432.11" y2="117.16" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-114" x1="428" y1="120.78" x2="432.11" y2="120.78" xlink:href="#tb-left-linear-gradient-6" />
+		<pattern id="tb-left-pattern-3" width="24.73" height="24.73" patternTransform="translate(49.46)" patternUnits="userSpaceOnUse" viewBox="0 0 24.73 24.73">
+			<rect class="tb-left-cls-1" width="24.73" height="24.73" />
+			<rect class="tb-left-cls-2" width="24.73" height="24.73" />
+		</pattern>
+		<pattern id="tb-left-pattern-2" width="24.73" height="24.73" patternTransform="translate(49.46)" patternUnits="userSpaceOnUse" viewBox="0 0 24.73 24.73">
+			<rect class="tb-left-cls-1" width="24.73" height="24.73" />
+			<rect class="tb-left-cls-4" width="24.73" height="24.73" />
+		</pattern>
+		<linearGradient id="tb-left-linear-gradient-115" x1="338.26" y1="108.96" x2="354.45" y2="108.96" xlink:href="#tb-left-linear-gradient-2" />
+		<linearGradient id="tb-left-linear-gradient-116" x1="347.41" y1="110.65" x2="349.32" y2="110.65" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-117" x1="347.41" y1="116.95" x2="351.51" y2="116.95" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-118" x1="347.41" y1="119.34" x2="348.1" y2="119.34" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-119" x1="347.41" y1="122.95" x2="351.51" y2="122.95" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-120" x1="341.07" y1="107.08" x2="342.97" y2="107.08" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-121" x1="341.07" y1="113.38" x2="345.17" y2="113.38" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-122" x1="341.07" y1="115.77" x2="341.76" y2="115.77" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-123" x1="341.07" y1="119.38" x2="345.17" y2="119.38" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-124" x1="470.33" y1="344.2" x2="424.61" y2="423.38" xlink:href="#tb-left-linear-gradient" />
+		<linearGradient id="tb-left-linear-gradient-125" x1="281.74" y1="315.04" x2="270.67" y2="334.21" xlink:href="#tb-left-linear-gradient" />
+		<linearGradient id="tb-left-linear-gradient-126" x1="360.95" y1="151.35" x2="362.86" y2="151.35" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-127" x1="360.95" y1="157.65" x2="365.06" y2="157.65" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-128" x1="360.95" y1="160.03" x2="361.64" y2="160.03" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-129" x1="360.95" y1="163.65" x2="365.06" y2="163.65" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-130" x1="328.73" y1="132.71" x2="330.64" y2="132.71" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-131" x1="328.73" y1="139.01" x2="332.83" y2="139.01" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-132" x1="328.73" y1="141.4" x2="329.42" y2="141.4" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-133" x1="348.08" y1="144.02" x2="349.99" y2="144.02" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-134" x1="348.08" y1="150.31" x2="352.18" y2="150.31" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-135" x1="348.08" y1="152.7" x2="348.77" y2="152.7" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-136" x1="341.73" y1="140.44" x2="343.64" y2="140.44" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-137" x1="341.73" y1="146.74" x2="345.84" y2="146.74" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-138" x1="341.73" y1="149.13" x2="342.43" y2="149.13" xlink:href="#tb-left-linear-gradient-6" />
+		<linearGradient id="tb-left-linear-gradient-139" x1="348.08" y1="161.48" x2="358.18" y2="161.48" xlink:href="#tb-left-linear-gradient-2" />
+		<linearGradient id="tb-left-linear-gradient-140" x1="349.99" y1="151.41" x2="358.18" y2="151.41" xlink:href="#tb-left-linear-gradient-2" />
+		<linearGradient id="tb-left-linear-gradient-141" x1="326.53" y1="144.56" x2="341.98" y2="144.56" xlink:href="#tb-left-linear-gradient-2" />
+		<pattern id="tb-left-pattern" data-name="Unnamed Pattern" width="24.73" height="24.73" patternTransform="translate(49.46)" patternUnits="userSpaceOnUse" viewBox="0 0 24.73 24.73">
+			<rect class="tb-left-cls-1" width="24.73" height="24.73" />
+			<rect class="tb-left-cls-3" width="24.73" height="24.73" />
+		</pattern>
+		<linearGradient id="tb-left-linear-gradient-142" x1="394.62" y1="12.76" x2="381.55" y2="12.76" gradientUnits="userSpaceOnUse">
+			<stop offset="0.07" stop-color="#c914bc" />
+			<stop offset="0.59" stop-color="#911ac4" />
+			<stop offset="0.99" stop-color="#731ac4" />
+		</linearGradient>
+		<linearGradient id="tb-left-linear-gradient-143" x1="502.68" y1="421.48" x2="519.55" y2="421.48" xlink:href="#tb-left-linear-gradient" />
+		<linearGradient id="tb-left-linear-gradient-144" x1="463.72" y1="423.83" x2="511" y2="423.83" xlink:href="#tb-left-linear-gradient" />
+		<linearGradient id="tb-left-linear-gradient-145" x1="348.08" y1="201.62" x2="358.18" y2="201.62" xlink:href="#tb-left-linear-gradient-2" />
+		<linearGradient id="tb-left-linear-gradient-146" x1="349.99" y1="191.55" x2="358.18" y2="191.55" xlink:href="#tb-left-linear-gradient-2" />
+		<linearGradient id="tb-left-linear-gradient-147" x1="326.53" y1="184.71" x2="341.98" y2="184.71" xlink:href="#tb-left-linear-gradient-2" />
+		<linearGradient id="tb-left-linear-gradient-148" x1="504.06" y1="357.56" x2="519.41" y2="357.56" xlink:href="#tb-left-linear-gradient" />
+		<linearGradient id="tb-left-linear-gradient-149" x1="63.89" y1="261.91" x2="378.67" y2="261.91" xlink:href="#tb-left-linear-gradient-2" />
+		<linearGradient id="tb-left-linear-gradient-150" x1="9.11" y1="233.58" x2="323.88" y2="233.58" xlink:href="#tb-left-linear-gradient-2" />
+	</defs>
+	<g>
+		<g>
+			<path class="tb-left-cls-5" d="M445.48,305l-41.2-24S335.85,236,277.79,269.34c-17.94,10.3-22.78,21.2-20.93,31.36,1.49-7.77,7.58-15.77,20.92-23.43C335.84,243.93,404.27,289,404.27,289l40.5,23.56" />
+			<polygon class="tb-left-cls-4" points="309.66 102.1 387.86 147.16 394.12 25.53 382.05 18.72 309.66 102.1" />
+			<polygon class="tb-left-cls-6" points="387.86 147.16 466.85 101.55 394.12 25.53 387.86 147.16" />
+			<path class="tb-left-cls-7" d="M519.4,406.32l0-28.91-29.28-8.21a133.86,133.86,0,0,0-13-7.73l-72.91-42.41S335.85,274,277.79,307.34q-1.38.79-2.65,1.58l-18.65-5.23v30.43h0c-.67,24.68,42.22,46.23,42.22,46.23l72.91,42.41s68.42,45.06,126.48,11.72c16.08-9.23,21.64-18.95,21.28-28.18Z" />
+			<path class="tb-left-cls-8" d="M477.42,331.4,404.51,289S336.09,243.93,278,277.27s20.93,73,20.93,73l72.91,42.41s68.42,45.06,126.48,11.72S477.42,331.4,477.42,331.4Z" />
+			<polygon class="tb-left-cls-9" points="387.86 147.16 387.72 386.63 435.7 358.93 466.71 341.03 466.85 101.55 387.86 147.16" />
+			<g class="tb-left-cls-10">
+				<path class="tb-left-cls-11" d="M500.42,370.08" />
+			</g>
+			<polygon class="tb-left-cls-3" points="370.71 315.82 318.01 346.25 318.01 271.38 370.71 300.68 370.71 315.82" />
+			<path class="tb-left-cls-12" d="M348.27,290.47c33.1,19.22,30.35,66,30.35,66l-.08,24.75,9.23,5.33.88-238.82-79-45.6-.88,238.82,9.23,5.33.08-24.54S315.16,271.25,348.27,290.47Z" />
+			<path class="tb-left-cls-13" d="M364.46,393.31" />
+			<rect class="tb-left-cls-4" x="381.57" y="281.12" width="90.68" height="1" transform="translate(-83.63 251.39) rotate(-30.02)" />
+			<path class="tb-left-cls-14" d="M389.39,357.21" />
+			<rect class="tb-left-cls-4" x="381.57" y="274.88" width="90.68" height="1" transform="translate(-80.5 250.55) rotate(-30.02)" />
+			<path class="tb-left-cls-15" d="M460.17,255.71" />
+			<g class="tb-left-cls-16">
+				<path d="M454.56,266.15a.5.5,0,0,1-.25-.94l5-2.81a.5.5,0,0,1,.49.87l-5,2.81A.5.5,0,0,1,454.56,266.15Z" />
+			</g>
+			<g class="tb-left-cls-16">
+				<polygon points="459.54 262.27 459.54 257.16 454.56 259.93 454.56 265.09 459.54 262.27" />
+			</g>
+			<g class="tb-left-cls-16">
+				<polygon points="454.34 197.96 454.37 252.56 453.81 254.38 453.84 259.23 454.4 258.89 459.43 256.08 459.71 255.71 460.17 255.33 460.18 194.57 454.34 197.96" />
+			</g>
+			<g class="tb-left-cls-16">
+				<polygon points="453.58 167.77 454.36 176.72 454.37 184.12 453.81 185.93 453.81 191.22 454.34 190.9 459.54 187.98 459.71 187.27 460.17 186.89 460.18 163.95 453.58 167.77" />
+			</g>
+			<g class="tb-left-cls-16">
+				<polygon points="453.39 161.41 454.34 161.09 459.54 158.17 459.71 157.46 460.17 157.08 460.18 116.14 453.39 120.07 453.39 161.41" />
+			</g>
+			<g class="tb-left-cls-16">
+				<polygon points="453.39 120.07 454.34 119.75 459.54 116.84 459.71 116.12 460.17 115.75 460.18 105.21 453.39 109.15 453.39 120.07" />
+			</g>
+			<g class="tb-left-cls-16">
+				<path d="M454.34,260a.5.5,0,0,1-.25-.94l5.2-2.92a.5.5,0,0,1,.49.87l-5.2,2.92A.5.5,0,0,1,454.34,260Z" />
+			</g>
+			<rect class="tb-left-cls-4" x="381.57" y="212.71" width="90.68" height="1" transform="translate(-49.4 242.21) rotate(-30.02)" />
+			<rect class="tb-left-cls-4" x="381.57" y="206.47" width="90.68" height="1" transform="translate(-46.28 241.37) rotate(-30.02)" />
+			<rect class="tb-left-cls-4" x="381.57" y="182.46" width="90.68" height="1" transform="translate(-34.26 238.15) rotate(-30.02)" />
+			<rect class="tb-left-cls-4" x="381.57" y="176.22" width="90.68" height="1" transform="translate(-31.14 237.32) rotate(-30.02)" />
+			<g class="tb-left-cls-16">
+				<polygon points="459.54 193.86 459.54 188.75 454.56 191.51 454.56 196.68 459.54 193.86" />
+			</g>
+			<g class="tb-left-cls-16">
+				<path d="M454.34,191.59a.5.5,0,0,1-.25-.94l5.2-2.92a.5.5,0,0,1,.49.87l-5.2,2.92A.5.5,0,0,1,454.34,191.59Z" />
+			</g>
+			<g class="tb-left-cls-16">
+				<path d="M454.56,197.77a.5.5,0,0,1-.25-.94l5-2.81a.5.5,0,0,1,.49.87l-5,2.81A.5.5,0,0,1,454.56,197.77Z" />
+			</g>
+			<g class="tb-left-cls-16">
+				<polygon points="459.54 163.63 460.33 157.75 453.42 161.99 453.42 167.15 459.54 163.63" />
+			</g>
+			<g class="tb-left-cls-16">
+				<path d="M453.39,161.91a.5.5,0,0,1-.25-.93l7.54-4.32a.5.5,0,1,1,.5.87l-7.54,4.32A.5.5,0,0,1,453.39,161.91Z" />
+			</g>
+			<rect class="tb-left-cls-4" x="381.57" y="135.07" width="90.68" height="1" transform="translate(-10.55 231.79) rotate(-30.02)" />
+			<path class="tb-left-cls-16" d="M453.39,120.57a.5.5,0,0,1-.24-.94l7.54-4.14a.5.5,0,0,1,.48.88l-7.54,4.14A.5.5,0,0,1,453.39,120.57Z" />
+			<path class="tb-left-cls-16" d="M453.69,168a.5.5,0,0,1-.25-.94l5.88-3.3a.5.5,0,0,1,.49.87l-5.88,3.3A.5.5,0,0,1,453.69,168Z" />
+			<polygon class="tb-left-cls-17" points="433.78 340.59 433.78 358.38 429.19 361.03 428.65 360.86 424.19 363.39 423.65 363.22 420.75 364.96 420.75 347.99 433.78 340.59" />
+			<polygon class="tb-left-cls-18" points="420.75 365.92 420.75 367.57 435.82 358.87 433.78 358.38 429.19 361.03 428.65 360.86 424.19 363.39 423.65 363.22 420.75 364.79 420.75 365.92" />
+			<polygon class="tb-left-cls-19" points="429.19 361.03 429.19 343.23 428.65 343.54 428.65 360.86 429.19 361.03" />
+			<polygon class="tb-left-cls-19" points="432.52 359.12 432.52 341.32 432.47 341.35 432.46 359.14 432.52 359.12" />
+			<polygon class="tb-left-cls-19" points="424.19 363.39 424.19 346.04 423.65 346.35 423.65 363.22 424.19 363.39" />
+			<path class="tb-left-cls-20" d="M433.78,340.59l2-1.19-2,1.17Z" />
+			<path class="tb-left-cls-21" d="M429.45,331.54a13.62,13.62,0,0,0-1.67,1.19c6.69,2,6,7.57,6,7.86v17.78l2,.49V339.4C435.82,331.49,429.45,331.54,429.45,331.54Z" />
+			<g class="tb-left-cls-16">
+				<path d="M427.79,332.73a18.65,18.65,0,0,0-1.53,1.39c5.63,0,6.12,6,6.12,6l-11.58,6.59c0,.41,0,.82,0,1.25l8.7-4.94,3.05-1.73v17.8l1.28-.74V340.59C433.8,340.33,434.48,334.71,427.79,332.73Z" />
+			</g>
+			<path class="tb-left-cls-22" d="M426.27,334.13a19.16,19.16,0,0,0-5.46,12.62l11.58-6.59S431.9,334.17,426.27,334.13Z" />
+			<g class="tb-left-cls-16">
+				<polygon points="467.95 348.24 453.81 348.48 459.54 345.25 467.95 348.24" />
+			</g>
+			<g class="tb-left-cls-16">
+				<polygon points="454.37 340.61 453.81 342.42 453.81 348.48 454.34 348.17 459.54 345.25 459.54 343.64 460.17 343.37 460.17 311.29 454.48 314.58 454.37 340.61" />
+			</g>
+			<g class="tb-left-cls-16">
+				<polygon points="460.17 263 454.69 266.18 454.5 310.47 460.17 307.19 460.17 263" />
+			</g>
+			<polygon class="tb-left-cls-23" points="394.23 345.25 394.23 349.35 460.17 311.3 460.19 307.19 394.23 345.25" />
+			<polygon class="tb-left-cls-23" points="394.23 326.23 394.23 330.32 460.17 292.26 460.18 288.15 394.23 326.23" />
+			<polygon class="tb-left-cls-24" points="460.18 307.19 460.17 307.19 460.17 311.29 460.18 311.29 460.18 307.19" />
+			<g class="tb-left-cls-16">
+				<polygon points="454.5 310.47 454.48 314.58 460.17 311.29 460.17 307.19 454.5 310.47" />
+			</g>
+			<g class="tb-left-cls-16">
+				<polygon points="454.5 291.43 454.48 295.54 460.17 292.25 460.17 288.15 454.5 291.43" />
+			</g>
+			<path class="tb-left-cls-25" d="M461.62,119.29a.5.5,0,0,1-.4-.2l-1.51-2a.5.5,0,1,1,.8-.6l1.51,2a.5.5,0,0,1-.4.8Z" />
+			<polygon class="tb-left-cls-3" points="460.11 89.96 460.11 91.25 460.11 116.11 461.62 118.46 461.62 92.26 461.62 91.96 460.11 89.96" />
+			<path class="tb-left-cls-26" d="M470.08,340.78l-8-4.25a12.62,12.62,0,0,1,4.74-.84c4,0,6.74,1.46,6.74,2.76,0,.89-1.3,1.91-3.57,2.42Z" />
+			<path class="tb-left-cls-23" d="M466.78,336.19c3.75,0,6.24,1.36,6.24,2.26,0,.55-1,1.35-2.8,1.84l-.63-.33-6.3-3.33a13.4,13.4,0,0,1,3.49-.44m0-1a11.65,11.65,0,0,0-5.83,1.34l8.17,4.32-1.17.83c3.44-.25,6.07-1.59,6.07-3.22,0-1.8-3.24-3.26-7.24-3.26Z" />
+			<path class="tb-left-cls-3" d="M461,336.52a2.45,2.45,0,0,0-1.41,1.93c0,1.8,3.24,3.26,7.24,3.26.4,0,.79,0,1.17,0l1.17-.83Z" />
+			<path class="tb-left-cls-14" d="M467.93,311.86" />
+			<path class="tb-left-cls-2" d="M460.18,262.81V337c0,3.12,5.86,4,6.61,4,3.82-.05,6.56-1.44,6.56-3V262.81Z" />
+			<path class="tb-left-cls-4" d="M460.18,338.53a.76.76,0,0,0,0,.37c.85,1.53,4.59,2.13,6.56,2.13a14.92,14.92,0,0,0,2.34-.2V265l-8.95-1Z" />
+			<path class="tb-left-cls-2" d="M474,256.11c-.37,1.57-2.86,2.82-6,3.08h0v6.57c3.45-.28,6.08-1.73,6.08-3.49v-6.16Z" />
+			<path class="tb-left-cls-4" d="M468,259.19c-.39,0-.78,0-1.19,0-3.73,0-6.8-1.37-7.22-3.13h-.05v6.16c0,2,3.25,3.54,7.27,3.54.41,0,.8,0,1.19-.05v-6.57Z" />
+			<path class="tb-left-cls-27" d="M470.08,258.3l-8-4.25a12.62,12.62,0,0,1,4.74-.84c4,0,6.74,1.46,6.74,2.76,0,.89-1.3,1.91-3.57,2.42Z" />
+			<path class="tb-left-cls-23" d="M466.78,253.71c3.75,0,6.24,1.36,6.24,2.26,0,.55-1,1.35-2.8,1.84l-.63-.33-6.3-3.33a13.4,13.4,0,0,1,3.49-.44m0-1A11.65,11.65,0,0,0,461,254l8.17,4.32-1.17.83c3.44-.25,6.07-1.59,6.07-3.22,0-1.8-3.24-3.26-7.24-3.26Z" />
+			<path class="tb-left-cls-3" d="M461,254a2.45,2.45,0,0,0-1.41,1.93c0,1.8,3.24,3.26,7.24,3.26.4,0,.79,0,1.17,0l1.17-.83Z" />
+			<path class="tb-left-cls-2" d="M473.34,256.06V190.48H460.18v5.41l8.95,62.48c1.78-.29,3.56-.91,4.17-1.93A.72.72,0,0,0,473.34,256.06Z" />
+			<path class="tb-left-cls-4" d="M460.18,256.07a.76.76,0,0,0,0,.37c.85,1.53,4.59,2.13,6.56,2.13a14.92,14.92,0,0,0,2.34-.2l0-62.54-8.93-.39Z" />
+			<path class="tb-left-cls-27" d="M470.06,189.89l-8-4.25a12.62,12.62,0,0,1,4.74-.84c4,0,6.74,1.46,6.74,2.76,0,.89-1.3,1.91-3.57,2.42Z" />
+			<path class="tb-left-cls-23" d="M466.76,185.3c3.75,0,6.24,1.36,6.24,2.26,0,.55-1,1.35-2.8,1.84l-.63-.33-6.3-3.33a13.4,13.4,0,0,1,3.49-.44m0-1a11.65,11.65,0,0,0-5.83,1.34L469.1,190l-1.17.83c3.44-.25,6.07-1.59,6.07-3.22,0-1.8-3.24-3.26-7.24-3.26Z" />
+			<path class="tb-left-cls-3" d="M460.93,185.63a2.45,2.45,0,0,0-1.41,1.93c0,1.8,3.24,3.26,7.24,3.26.4,0,.79,0,1.17,0l1.17-.83Z" />
+			<path class="tb-left-cls-2" d="M473.34,187.51V161.92H460.18v5.41l8.95,22.48c1.78-.29,3.56-.91,4.17-1.93A.72.72,0,0,0,473.34,187.51Z" />
+			<path class="tb-left-cls-4" d="M460.18,187.52a.76.76,0,0,0,0,.37c.85,1.53,4.59,2.13,6.56,2.13a14.92,14.92,0,0,0,2.34-.2V172.7l-1.66,5.49-3.73-10-3.56-.83Z" />
+			<path class="tb-left-cls-2" d="M474,187.73c-.37,1.57-2.86,2.82-6,3.08h0v6.57c3.45-.28,6.08-1.73,6.08-3.49v-6.16Z" />
+			<path class="tb-left-cls-4" d="M467.94,190.81c-.39,0-.78,0-1.19,0-3.73,0-6.8-1.37-7.22-3.13h-.05v6.16c0,2,3.25,3.54,7.27,3.54.41,0,.8,0,1.19-.05v-6.57Z" />
+			<polygon class="tb-left-cls-3" points="470.49 168.18 467.46 178.19 470.16 170.01 473.35 174.69 470.49 168.18" />
+			<path class="tb-left-cls-2" d="M474,165.65a1.74,1.74,0,0,0,0-.25v-6.17H474c-.38,1.57-2.86,2.83-6,3.08h-.24l.23.13-2.06,11.46h0l1.59,4.28,3-10h0l2.84,6.51.68-9Z" />
+			<path class="tb-left-cls-4" d="M467.93,162.45l-.23-.13c-.31,0-.62,0-.94,0-3.73,0-6.8-1.37-7.22-3.13h-.05v6.16a1.76,1.76,0,0,0,0,.25h0l.69,9,3.82-5.81,3.47,9.31-.7-9.24Z" />
+			<polygon class="tb-left-cls-3" points="460.18 174.68 463.73 168.16 467.46 178.19 463.92 168.99 460.18 174.68" />
+			<path class="tb-left-cls-23" d="M474,159.23c0-1.8-3.24-3.26-7.24-3.26a11.65,11.65,0,0,0-5.83,1.34l8.17,4.32-1.17.83C471.37,162.19,474,160.85,474,159.23Z" />
+			<path class="tb-left-cls-3" d="M460.93,157.3a2.45,2.45,0,0,0-1.41,1.93c0,1.8,3.24,3.26,7.24,3.26.4,0,.79,0,1.17,0l1.17-.83Z" />
+			<polygon class="tb-left-cls-28" points="469.12 161.62 469.12 161.61 469.1 161.62 469.12 161.62" />
+			<polygon class="tb-left-cls-2" points="469.12 119.79 469.12 119.87 469.12 161.61 473.35 159.23 473.35 118.14 473.35 116.79 469.12 119.79" />
+			<polygon class="tb-left-cls-4" points="468.38 119.69 461.62 118.79 461.62 119.09 461.62 160.29 469.1 161.62 469.12 161.61 469.12 119.87 469.12 119.79 468.38 119.69" />
+			<polygon class="tb-left-cls-3" points="460.11 116.79 460.11 118.08 460.11 157.94 461.62 160.29 461.62 119.09 461.62 118.79 460.11 116.79" />
+			<polygon class="tb-left-cls-2" points="469.12 92.96 469.12 93.04 469.12 119.78 473.35 117.4 473.35 91.31 473.35 89.96 469.12 92.96" />
+			<polygon class="tb-left-cls-4" points="468.38 92.86 461.62 91.96 461.62 92.26 461.62 118.46 469.1 119.79 469.12 119.78 469.12 93.04 469.12 92.96 468.38 92.86" />
+			<path class="tb-left-cls-29" d="M469.12,119.87" />
+			<path class="tb-left-cls-3" d="M469.12,120.37h-.07l-7.5-1.08a.5.5,0,1,1,.14-1l7.5,1.08a.5.5,0,0,1-.07,1Z" />
+			<path class="tb-left-cls-23" d="M469.12,120.37a.5.5,0,0,1-.29-.91l4.22-3a.5.5,0,1,1,.58.81l-4.22,3A.5.5,0,0,1,469.12,120.37Z" />
+			<polygon class="tb-left-cls-3" points="466.78 67.25 460.11 89.96 461.62 91.96 466.78 67.25" />
+			<polygon class="tb-left-cls-4" points="466.78 67.25 461.62 91.96 469.12 93.04 466.78 67.25" />
+			<polygon class="tb-left-cls-23" points="469.12 93.04 466.78 67.25 473.35 89.96 469.12 93.04" />
+			<path class="tb-left-cls-25" d="M461.62,92.46a.5.5,0,0,1-.4-.2l-1.51-2a.5.5,0,1,1,.8-.6l1.51,2a.5.5,0,0,1-.4.8Z" />
+			<path class="tb-left-cls-23" d="M469.12,93.54a.5.5,0,0,1-.29-.91l4.22-3a.5.5,0,0,1,.58.82l-4.22,3A.5.5,0,0,1,469.12,93.54Z" />
+			<path class="tb-left-cls-3" d="M469.12,93.54h-.07l-7.5-1.08a.5.5,0,1,1,.14-1l7.5,1.08a.5.5,0,0,1-.07,1Z" />
+			<polygon class="tb-left-cls-4" points="465.62 67.02 467.25 67.25 467.25 73.51 465.62 73.28 465.62 67.02" />
+			<polygon class="tb-left-cls-2" points="467.25 73.51 467.25 67.25 468.17 66.6 468.17 72.86 467.25 73.51" />
+			<polygon class="tb-left-cls-3" points="465.62 67.02 465.62 73.28 465.14 72.86 465.14 66.6 465.62 67.02" />
+			<path class="tb-left-cls-25" d="M465.62,73.78a.5.5,0,0,1-.4-.2l-.33-.44a.5.5,0,0,1,.8-.6L466,73a.5.5,0,0,1-.4.8Z" />
+			<path class="tb-left-cls-23" d="M467.25,74a.5.5,0,0,1-.29-.91l.92-.65a.5.5,0,1,1,.58.82l-.92.65A.5.5,0,0,1,467.25,74Z" />
+			<path class="tb-left-cls-3" d="M467.25,74h-.07l-1.63-.23a.5.5,0,1,1,.14-1l1.63.23a.5.5,0,0,1-.07,1Z" />
+			<path class="tb-left-cls-28" d="M468.17,66.6V69s-.23-1.23,1.16-.43,1.22-.39,1.22-.39v-.21Z" />
+			<polygon class="tb-left-cls-23" points="467.25 67.25 468.17 66.6 470.55 67.94 469.63 68.59 467.25 67.25" />
+			<path class="tb-left-cls-2" d="M470.55,67.94l-.92.65v.35l-.79.45h.6l1-.71a.71.71,0,0,0,.12-.33C470.55,68.18,470.55,67.94,470.55,67.94Z" />
+			<path class="tb-left-cls-4" d="M467.25,67.25v2.37s-.23-1.23,1.16-.43,1.22-.39,1.22-.39v-.21Z" />
+			<path class="tb-left-cls-3" d="M465.62,68.67l-.48-.23V66.59l-2.86.81a1.37,1.37,0,0,0,.39.84h0l0,0h0l.44.39,1.2-.33a.59.59,0,0,1,.75.42h.53Z" />
+			<path class="tb-left-cls-3" d="M465.09,68.75a.78.78,0,0,1,0,.22l.48.42v-.64Z" />
+			<polygon class="tb-left-cls-23" points="465.62 67.02 465.14 66.59 462.27 67.4 462.76 67.83 465.62 67.02" />
+			<path class="tb-left-cls-2" d="M465.62,69.39V67l-2.86.81a1.28,1.28,0,0,0,.52.95,1.41,1.41,0,0,0,1.1.1S465.62,68.34,465.62,69.39Z" />
+			<polygon class="tb-left-cls-23" points="465.14 66.59 466.02 66 467.37 66.11 468.17 66.6 467.25 67.25 465.62 67.02 465.14 66.59" />
+			<polygon class="tb-left-cls-23" points="466.02 66 466.44 64.78 467.67 64.88 467.37 66.11 466.02 66" />
+			<path class="tb-left-cls-2" d="M467.67,64.88a4.33,4.33,0,0,1-.08,1.36l-.21-.13Z" />
+			<polygon class="tb-left-cls-4" points="466.32 64.58 466.85 64.65 466.85 66.68 466.32 66.61 466.32 64.58" />
+			<polygon class="tb-left-cls-23" points="466.85 66.68 466.85 64.65 467.14 64.44 467.14 66.47 466.85 66.68" />
+			<polygon class="tb-left-cls-3" points="466.32 64.58 466.32 66.61 466.16 66.47 466.16 64.44 466.32 64.58" />
+			<path class="tb-left-cls-23" d="M467.14,64.44a.11.11,0,0,0,0-.17,6,6,0,0,1-.48-.87s0,1.06,0,1.06l.17.19Z" />
+			<path class="tb-left-cls-4" d="M466.85,64.65a.17.17,0,0,0,0-.21,5.47,5.47,0,0,1-.17-1l-.44,1,.09.19Z" />
+			<path class="tb-left-cls-3" d="M466.16,64.44s-.13-.08,0-.19a5.36,5.36,0,0,0,.5-.86l-.28,1a.15.15,0,0,0-.07.2Z" />
+			<path class="tb-left-cls-2" d="M474,338.58c-.37,1.57-2.86,2.82-6,3.08h0v6.57c3.45-.28,6.08-1.73,6.08-3.49v-6.16Z" />
+			<path class="tb-left-cls-4" d="M467.94,341.66c-.39,0-.78,0-1.19,0-3.73,0-6.8-1.37-7.22-3.13h-.05v6.16c0,2,3.25,3.54,7.27,3.54.41,0,.8,0,1.19-.05v-6.57Z" />
+			<path class="tb-left-cls-30" d="M447.94,327.59l-.07.08a5.13,5.13,0,0,1,1.76,3.47v11.24l1,.42V331.57S450.44,328.49,447.94,327.59Z" />
+			<polygon class="tb-left-cls-31" points="444.69 345.24 444.69 346.23 450.62 342.8 449.62 342.38 444.69 345.24" />
+			<path class="tb-left-cls-2" d="M447.86,327.67c-.45.52-3.09,3.72-3.18,7.29v10.27l4.94-2.85V331.15A5.13,5.13,0,0,0,447.86,327.67Z" />
+			<path class="tb-left-cls-23" d="M451.26,325.16v18.56l-7.21,4.16V329.36l7.21-4.19m1-1.74-9.21,5.36v20.83l9.21-5.32V323.43Z" />
+			<path class="tb-left-cls-32" d="M408.49,350.38l-.07.08a5.13,5.13,0,0,1,1.76,3.47v11.24l1,.42V354.35S411,351.27,408.49,350.38Z" />
+			<polygon class="tb-left-cls-33" points="405.24 368.02 405.24 369.01 411.18 365.59 410.18 365.17 405.24 368.02" />
+			<path class="tb-left-cls-2" d="M408.42,350.46c-.45.52-3.09,3.72-3.18,7.29V368l4.94-2.85V353.93A5.13,5.13,0,0,0,408.42,350.46Z" />
+			<path class="tb-left-cls-23" d="M411.81,347.95v18.56l-7.21,4.16V352.14l7.21-4.19m1-1.74-9.21,5.36V372.4l9.21-5.32V346.21Z" />
+			<path class="tb-left-cls-34" d="M423.54,316.7l0,.06a3.55,3.55,0,0,1,1.22,2.4v7.77l.69.29v-7.77A3.23,3.23,0,0,0,423.54,316.7Z" />
+			<polygon class="tb-left-cls-35" points="421.29 328.89 421.29 329.58 425.4 327.21 424.71 326.92 421.29 328.89" />
+			<path class="tb-left-cls-2" d="M423.49,316.76a9,9,0,0,0-2.2,5v7.1l3.41-2v-7.77A3.55,3.55,0,0,0,423.49,316.76Z" />
+			<path class="tb-left-cls-36" d="M411,324l0,.06a3.55,3.55,0,0,1,1.22,2.4v7.77l.69.29v-7.77A3.23,3.23,0,0,0,411,324Z" />
+			<polygon class="tb-left-cls-37" points="408.71 336.18 408.71 336.87 412.81 334.5 412.12 334.21 408.71 336.18" />
+			<path class="tb-left-cls-2" d="M410.91,324a9,9,0,0,0-2.2,5v7.1l3.41-2v-7.77A3.55,3.55,0,0,0,410.91,324Z" />
+			<path class="tb-left-cls-38" d="M443.11,305.45l0,.06a3.55,3.55,0,0,1,1.22,2.4v7.77l.69.29V308.2A3.23,3.23,0,0,0,443.11,305.45Z" />
+			<polygon class="tb-left-cls-39" points="440.87 317.65 440.87 318.33 444.97 315.97 444.28 315.68 440.87 317.65" />
+			<path class="tb-left-cls-2" d="M443.06,305.51a9,9,0,0,0-2.2,5v7.1l3.41-2v-7.77A3.55,3.55,0,0,0,443.06,305.51Z" />
+			<path class="tb-left-cls-40" d="M430,313l0,.06a3.55,3.55,0,0,1,1.22,2.4v7.77l.69.29v-7.77A3.23,3.23,0,0,0,430,313Z" />
+			<polygon class="tb-left-cls-41" points="427.8 325.16 427.8 325.85 431.9 323.48 431.21 323.19 427.8 325.16" />
+			<path class="tb-left-cls-2" d="M430,313a9,9,0,0,0-2.2,5v7.1l3.41-2v-7.77A3.55,3.55,0,0,0,430,313Z" />
+			<path class="tb-left-cls-42" d="M423.54,297.34l0,.06a3.55,3.55,0,0,1,1.22,2.4v7.77l.69.29v-7.77A3.23,3.23,0,0,0,423.54,297.34Z" />
+			<polygon class="tb-left-cls-43" points="421.29 309.54 421.29 310.23 425.4 307.86 424.71 307.57 421.29 309.54" />
+			<path class="tb-left-cls-2" d="M423.49,297.4a9,9,0,0,0-2.2,5v7.1l3.41-2V299.8A3.55,3.55,0,0,0,423.49,297.4Z" />
+			<path class="tb-left-cls-44" d="M430,293.61l0,.06a3.55,3.55,0,0,1,1.22,2.4v7.77l.69.29v-7.77A3.23,3.23,0,0,0,430,293.61Z" />
+			<polygon class="tb-left-cls-45" points="427.8 305.8 427.8 306.49 431.9 304.12 431.21 303.83 427.8 305.8" />
+			<path class="tb-left-cls-2" d="M430,293.67a9,9,0,0,0-2.2,5v7.1l3.41-2v-7.77A3.55,3.55,0,0,0,430,293.67Z" />
+			<path class="tb-left-cls-23" d="M433.42,289.32v33.23l-13.68,7.9V297.28l13.68-8m1-1.74-15.68,9.12v35.48l15.68-9.05V287.58Z" />
+			<path class="tb-left-cls-23" d="M413.88,321.46v13.18l-6.24,3.6V325.09l6.24-3.63m1-1.74-8.24,4.8V340l8.24-4.76v-15.5Z" />
+			<path class="tb-left-cls-23" d="M446,302.9v13.18l-6.24,3.6V306.54L446,302.9m1-1.74L438.8,306v15.46l8.24-4.76v-15.5Z" />
+			<path class="tb-left-cls-46" d="M411,305l0,.06a3.55,3.55,0,0,1,1.22,2.4v7.77l.69.29v-7.77A3.23,3.23,0,0,0,411,305Z" />
+			<polygon class="tb-left-cls-47" points="408.71 317.22 408.71 317.91 412.81 315.54 412.12 315.25 408.71 317.22" />
+			<path class="tb-left-cls-2" d="M410.91,305.08a9,9,0,0,0-2.2,5v7.1l3.41-2v-7.77A3.55,3.55,0,0,0,410.91,305.08Z" />
+			<path class="tb-left-cls-48" d="M443.11,286.49l0,.06a3.55,3.55,0,0,1,1.22,2.4v7.77l.69.29v-7.77A3.23,3.23,0,0,0,443.11,286.49Z" />
+			<polygon class="tb-left-cls-49" points="440.87 298.68 440.87 299.37 444.97 297 444.28 296.71 440.87 298.68" />
+			<path class="tb-left-cls-2" d="M443.06,286.55a9,9,0,0,0-2.2,5v7.1l3.41-2v-7.77A3.55,3.55,0,0,0,443.06,286.55Z" />
+			<path class="tb-left-cls-23" d="M413.88,302.49v13.18l-6.24,3.6V306.13l6.24-3.63m1-1.74-8.24,4.8V321l8.24-4.76v-15.5Z" />
+			<path class="tb-left-cls-23" d="M446,283.94v13.18l-6.24,3.6V287.57l6.24-3.63m1-1.74L438.8,287v15.46L447,297.7V282.2Z" />
+			<path class="tb-left-cls-20" d="M426.58,292.15" />
+			<line class="tb-left-cls-23" x1="426.58" y1="283.56" x2="426.58" y2="292.61" />
+			<path class="tb-left-cls-23" d="M426.58,293.11a.5.5,0,0,1-.5-.5v-9.05a.5.5,0,0,1,1,0v9.05A.5.5,0,0,1,426.58,293.11Z" />
+			<line class="tb-left-cls-23" x1="424.31" y1="287.2" x2="428.85" y2="284.56" />
+			<path class="tb-left-cls-23" d="M424.31,287.7a.5.5,0,0,1-.25-.93l4.54-2.64a.5.5,0,0,1,.5.87l-4.54,2.64A.5.5,0,0,1,424.31,287.7Z" />
+			<line class="tb-left-cls-23" x1="425.87" y1="288.22" x2="427.29" y2="287.4" />
+			<path class="tb-left-cls-23" d="M425.87,288.72a.5.5,0,0,1-.25-.93L427,287a.5.5,0,0,1,.5.87l-1.42.82A.5.5,0,0,1,425.87,288.72Z" />
+			<path class="tb-left-cls-23" d="M433.5,250.67v19.23l-13.68,7.9V258.63l13.68-8m1-1.74-15.68,9.12v21.48l15.68-9.05V248.94Z" />
+			<path class="tb-left-cls-50" d="M411,265.14l0,.06a3.55,3.55,0,0,1,1.22,2.4v7.77l.69.29v-7.77A3.23,3.23,0,0,0,411,265.14Z" />
+			<polygon class="tb-left-cls-51" points="408.79 277.34 408.79 278.02 412.89 275.65 412.2 275.37 408.79 277.34" />
+			<path class="tb-left-cls-2" d="M411,265.2a9,9,0,0,0-2.2,5v7.1l3.41-2V267.6A3.55,3.55,0,0,0,411,265.2Z" />
+			<path class="tb-left-cls-23" d="M413.89,262.34l.07,18.75-6.25,3.61L407.64,266l6.25-3.64m1-1.74-8.24,4.8.08,21,8.24-4.76-.08-21.06Z" />
+			<path class="tb-left-cls-23" d="M446.11,243.35v19.18l-6.24,3.6V247l6.24-3.63m1-1.74-8.24,4.8v21.46l8.24-4.76v-21.5Z" />
+			<line class="tb-left-cls-24" x1="426.66" y1="244.92" x2="426.66" y2="253.97" />
+			<path class="tb-left-cls-23" d="M426.66,254.47a.5.5,0,0,1-.5-.5v-9.05a.5.5,0,0,1,1,0V254A.5.5,0,0,1,426.66,254.47Z" />
+			<line class="tb-left-cls-24" x1="424.39" y1="248.55" x2="428.93" y2="245.91" />
+			<path class="tb-left-cls-23" d="M424.39,249.05a.5.5,0,0,1-.25-.93l4.54-2.64a.5.5,0,0,1,.5.87L424.64,249A.5.5,0,0,1,424.39,249.05Z" />
+			<line class="tb-left-cls-24" x1="425.95" y1="249.57" x2="427.36" y2="248.75" />
+			<path class="tb-left-cls-23" d="M426,250.07a.5.5,0,0,1-.25-.93l1.41-.82a.5.5,0,0,1,.5.87l-1.41.82A.5.5,0,0,1,426,250.07Z" />
+			<polygon class="tb-left-cls-52" points="412.2 281.37 412.89 281.66 412.89 276.5 412.2 276.9 412.2 281.37" />
+			<polygon class="tb-left-cls-53" points="408.79 283.34 408.79 284.03 412.89 281.66 412.2 281.37 408.79 283.34" />
+			<polygon class="tb-left-cls-2" points="412.2 276.9 408.79 278.87 408.79 283.1 408.79 283.34 412.2 281.37 412.2 276.9" />
+			<path class="tb-left-cls-54" d="M411,196.76l0,.06a3.55,3.55,0,0,1,1.22,2.4V207l.69.29v-7.77A3.23,3.23,0,0,0,411,196.76Z" />
+			<polygon class="tb-left-cls-55" points="408.79 208.95 408.79 209.64 412.89 207.27 412.2 206.98 408.79 208.95" />
+			<path class="tb-left-cls-2" d="M411,196.82a9,9,0,0,0-2.2,5V209l3.41-2v-7.77A3.55,3.55,0,0,0,411,196.82Z" />
+			<path class="tb-left-cls-23" d="M413.89,194,414,212.7l-6.25,3.61-.07-18.72,6.25-3.64m1-1.74-8.24,4.8.08,21,8.24-4.76-.08-21.06Z" />
+			<polygon class="tb-left-cls-56" points="412.2 212.99 412.89 213.28 412.89 208.12 412.2 208.52 412.2 212.99" />
+			<polygon class="tb-left-cls-57" points="408.79 214.96 408.79 215.65 412.89 213.28 412.2 212.99 408.79 214.96" />
+			<polygon class="tb-left-cls-2" points="412.2 208.52 408.79 210.49 408.79 214.72 408.79 214.96 412.2 212.99 412.2 208.52" />
+			<path class="tb-left-cls-58" d="M443.26,246.51l0,.06a3.55,3.55,0,0,1,1.22,2.4v7.77l.69.29v-7.77A3.23,3.23,0,0,0,443.26,246.51Z" />
+			<polygon class="tb-left-cls-59" points="441.01 258.7 441.01 259.39 445.11 257.02 444.42 256.73 441.01 258.7" />
+			<path class="tb-left-cls-2" d="M443.21,246.56a9,9,0,0,0-2.2,5v7.1l3.41-2V249A3.55,3.55,0,0,0,443.21,246.56Z" />
+			<polygon class="tb-left-cls-60" points="444.42 262.74 445.11 263.02 445.11 257.87 444.42 258.27 444.42 262.74" />
+			<polygon class="tb-left-cls-61" points="441.01 264.7 441.01 265.39 445.11 263.02 444.42 262.74 441.01 264.7" />
+			<polygon class="tb-left-cls-2" points="444.42 258.27 441.01 260.24 441.01 264.46 441.01 264.7 444.42 262.74 444.42 258.27" />
+			<path class="tb-left-cls-23" d="M446.11,175v19.18l-6.24,3.6V178.61l6.24-3.63m1-1.74-8.24,4.8v21.46l8.24-4.76v-21.5Z" />
+			<path class="tb-left-cls-62" d="M443.26,178.13l0,.06a3.55,3.55,0,0,1,1.22,2.4v7.77l.69.29v-7.77A3.23,3.23,0,0,0,443.26,178.13Z" />
+			<polygon class="tb-left-cls-63" points="441.01 190.32 441.01 191.01 445.11 188.64 444.42 188.35 441.01 190.32" />
+			<path class="tb-left-cls-2" d="M443.21,178.19a9,9,0,0,0-2.2,5v7.1l3.41-2v-7.77A3.55,3.55,0,0,0,443.21,178.19Z" />
+			<polygon class="tb-left-cls-64" points="444.42 194.36 445.11 194.65 445.11 189.49 444.42 189.89 444.42 194.36" />
+			<polygon class="tb-left-cls-65" points="441.01 196.33 441.01 197.02 445.11 194.65 444.42 194.36 441.01 196.33" />
+			<polygon class="tb-left-cls-2" points="444.42 189.89 441.01 191.86 441.01 196.09 441.01 196.33 444.42 194.36 444.42 189.89" />
+			<path class="tb-left-cls-23" d="M429.78,184.39v19.18l-6.24,3.6V188l6.24-3.63m1-1.74-8.24,4.8v21.46l8.24-4.76v-21.5Z" />
+			<path class="tb-left-cls-66" d="M426.92,187.55l0,.06a3.55,3.55,0,0,1,1.22,2.4v7.77l.69.29V190.3A3.23,3.23,0,0,0,426.92,187.55Z" />
+			<polygon class="tb-left-cls-67" points="424.68 199.74 424.68 200.43 428.78 198.06 428.09 197.77 424.68 199.74" />
+			<path class="tb-left-cls-2" d="M426.87,187.61a9,9,0,0,0-2.2,5v7.1l3.41-2V190A3.55,3.55,0,0,0,426.87,187.61Z" />
+			<polygon class="tb-left-cls-68" points="428.09 203.78 428.78 204.07 428.78 198.91 428.09 199.31 428.09 203.78" />
+			<polygon class="tb-left-cls-69" points="424.68 205.75 424.68 206.44 428.78 204.07 428.09 203.78 424.68 205.75" />
+			<polygon class="tb-left-cls-2" points="428.09 199.31 424.68 201.28 424.68 205.5 424.68 205.75 428.09 203.78 428.09 199.31" />
+			<path class="tb-left-cls-70" d="M423.91,257.81l0,.06a3.55,3.55,0,0,1,1.22,2.4V268l.69.29v-7.77A3.23,3.23,0,0,0,423.91,257.81Z" />
+			<polygon class="tb-left-cls-71" points="421.66 270 421.66 270.69 425.76 268.32 425.07 268.03 421.66 270" />
+			<path class="tb-left-cls-2" d="M423.86,257.86a9,9,0,0,0-2.2,5V270l3.41-2v-7.77A3.55,3.55,0,0,0,423.86,257.86Z" />
+			<polygon class="tb-left-cls-72" points="425.07 274.04 425.76 274.33 425.76 269.17 425.07 269.57 425.07 274.04" />
+			<polygon class="tb-left-cls-73" points="421.66 276.01 421.66 276.69 425.76 274.33 425.07 274.04 421.66 276.01" />
+			<polygon class="tb-left-cls-2" points="425.07 269.57 421.66 271.54 421.66 275.76 421.66 276.01 425.07 274.04 425.07 269.57" />
+			<path class="tb-left-cls-74" d="M430.25,254.24l0,.06a3.55,3.55,0,0,1,1.22,2.4v7.77l.69.29V257A3.23,3.23,0,0,0,430.25,254.24Z" />
+			<polygon class="tb-left-cls-75" points="428 266.43 428 267.12 432.11 264.75 431.42 264.46 428 266.43" />
+			<path class="tb-left-cls-2" d="M430.2,254.29a9,9,0,0,0-2.2,5v7.1l3.41-2v-7.77A3.55,3.55,0,0,0,430.2,254.29Z" />
+			<polygon class="tb-left-cls-76" points="431.42 270.46 432.11 270.75 432.11 265.6 431.42 266 431.42 270.46" />
+			<polygon class="tb-left-cls-77" points="428 272.44 428 273.12 432.11 270.75 431.42 270.46 428 272.44" />
+			<polygon class="tb-left-cls-2" points="431.42 266 428 267.97 428 272.19 428 272.44 431.42 270.46 431.42 266" />
+			<path class="tb-left-cls-23" d="M340.32,249.72l13.68,8v19.17L340.32,269V249.72m-1-1.74v21.55L355,278.58V257.11L339.32,248Z" />
+			<path class="tb-left-cls-78" d="M362.79,264.19l0,.06a3.55,3.55,0,0,0-1.22,2.4v7.77l-.69.29v-7.77A3.23,3.23,0,0,1,362.79,264.19Z" />
+			<polygon class="tb-left-cls-79" points="365.04 276.38 365.04 277.07 360.93 274.7 361.62 274.41 365.04 276.38" />
+			<path class="tb-left-cls-2" d="M362.84,264.25a9,9,0,0,1,2.2,5v7.1l-3.41-2v-7.77A3.55,3.55,0,0,1,362.84,264.25Z" />
+			<path class="tb-left-cls-23" d="M359.93,261.38l6.25,3.64-.07,18.72-6.25-3.61.07-18.75m-1-1.74-.08,21.06,8.24,4.76.08-21-8.24-4.8Z" />
+			<path class="tb-left-cls-23" d="M327.71,242.4,334,246v19.15l-6.24-3.6V242.4m-1-1.74v21.5l8.24,4.76V245.46l-8.24-4.8Z" />
+			<path class="tb-left-cls-23" d="M347.16,253.51a.5.5,0,0,1-.5-.5V244a.5.5,0,1,1,1,0V253A.5.5,0,0,1,347.16,253.51Z" />
+			<path class="tb-left-cls-23" d="M349.43,248.1a.5.5,0,0,1-.25-.07l-4.54-2.64a.5.5,0,0,1,.5-.87l4.54,2.64a.5.5,0,0,1-.25.93Z" />
+			<path class="tb-left-cls-23" d="M347.87,249.12a.5.5,0,0,1-.25-.07l-1.42-.82a.5.5,0,0,1,.5-.87l1.42.82a.5.5,0,0,1-.25.93Z" />
+			<polygon class="tb-left-cls-80" points="361.62 280.42 360.93 280.71 360.93 275.55 361.62 275.95 361.62 280.42" />
+			<polygon class="tb-left-cls-81" points="365.04 282.39 365.04 283.08 360.93 280.71 361.62 280.42 365.04 282.39" />
+			<polygon class="tb-left-cls-2" points="361.62 275.95 365.04 277.92 365.04 282.14 365.04 282.39 361.62 280.42 361.62 275.95" />
+			<path class="tb-left-cls-82" d="M330.57,245.55l0,.06a3.55,3.55,0,0,0-1.22,2.4v7.77l-.69.29V248.3A3.23,3.23,0,0,1,330.57,245.55Z" />
+			<polygon class="tb-left-cls-83" points="332.81 257.75 332.81 258.44 328.71 256.07 329.4 255.78 332.81 257.75" />
+			<path class="tb-left-cls-2" d="M330.61,245.61a9,9,0,0,1,2.2,5v7.1l-3.41-2V248A3.55,3.55,0,0,1,330.61,245.61Z" />
+			<polygon class="tb-left-cls-84" points="329.4 261.78 328.71 262.07 328.71 256.91 329.4 257.31 329.4 261.78" />
+			<polygon class="tb-left-cls-85" points="332.81 263.75 332.81 264.44 328.71 262.07 329.4 261.78 332.81 263.75" />
+			<polygon class="tb-left-cls-2" points="329.4 257.31 332.81 259.28 332.81 263.51 332.81 263.75 329.4 261.78 329.4 257.31" />
+			<path class="tb-left-cls-86" d="M349.92,256.86l0,.06a3.55,3.55,0,0,0-1.22,2.4v7.77l-.69.29V259.6A3.23,3.23,0,0,1,349.92,256.86Z" />
+			<polygon class="tb-left-cls-87" points="352.16 269.05 352.16 269.74 348.06 267.37 348.75 267.08 352.16 269.05" />
+			<path class="tb-left-cls-2" d="M350,256.91a9,9,0,0,1,2.2,5V269l-3.41-2v-7.77A3.55,3.55,0,0,1,350,256.91Z" />
+			<polygon class="tb-left-cls-88" points="348.75 273.08 348.06 273.37 348.06 268.21 348.75 268.61 348.75 273.08" />
+			<polygon class="tb-left-cls-89" points="352.16 275.05 352.16 275.74 348.06 273.37 348.75 273.08 352.16 275.05" />
+			<polygon class="tb-left-cls-2" points="348.75 268.61 352.16 270.58 352.16 274.81 352.16 275.05 348.75 273.08 348.75 268.61" />
+			<path class="tb-left-cls-90" d="M343.57,253.28l0,.06a3.55,3.55,0,0,0-1.22,2.4v7.77l-.69.29V256A3.23,3.23,0,0,1,343.57,253.28Z" />
+			<polygon class="tb-left-cls-91" points="345.82 265.48 345.82 266.17 341.71 263.8 342.4 263.51 345.82 265.48" />
+			<path class="tb-left-cls-2" d="M343.62,253.34a9,9,0,0,1,2.2,5v7.1l-3.41-2v-7.77A3.55,3.55,0,0,1,343.62,253.34Z" />
+			<polygon class="tb-left-cls-92" points="342.4 269.51 341.71 269.8 341.71 264.64 342.4 265.04 342.4 269.51" />
+			<polygon class="tb-left-cls-93" points="345.82 271.48 345.82 272.17 341.71 269.8 342.4 269.51 345.82 271.48" />
+			<polygon class="tb-left-cls-2" points="342.4 265.04 345.82 267.01 345.82 271.24 345.82 271.48 342.4 269.51 342.4 265.04" />
+			<path class="tb-left-cls-23" d="M340.32,171.83l13.68,8V199l-13.68-7.9V171.83m-1-1.74v21.55L355,200.69V179.21l-15.68-9.12Z" />
+			<path class="tb-left-cls-94" d="M362.79,186.3l0,.06a3.55,3.55,0,0,0-1.22,2.4v7.77l-.69.29V189A3.23,3.23,0,0,1,362.79,186.3Z" />
+			<polygon class="tb-left-cls-95" points="365.04 198.49 365.04 199.18 360.93 196.81 361.62 196.52 365.04 198.49" />
+			<path class="tb-left-cls-2" d="M362.84,186.35a9,9,0,0,1,2.2,5v7.1l-3.41-2v-7.77A3.55,3.55,0,0,1,362.84,186.35Z" />
+			<path class="tb-left-cls-23" d="M359.93,183.49l6.25,3.64-.07,18.72-6.25-3.61.07-18.75m-1-1.74-.08,21.06,8.24,4.76.08-21-8.24-4.8Z" />
+			<path class="tb-left-cls-23" d="M327.71,164.5l6.24,3.63v19.15l-6.24-3.6V164.5m-1-1.74v21.5L335,189V167.56l-8.24-4.8Z" />
+			<polygon class="tb-left-cls-96" points="361.62 202.52 360.93 202.81 360.93 197.66 361.62 198.06 361.62 202.52" />
+			<polygon class="tb-left-cls-97" points="365.04 204.49 365.04 205.18 360.93 202.81 361.62 202.52 365.04 204.49" />
+			<polygon class="tb-left-cls-2" points="361.62 198.06 365.04 200.03 365.04 204.25 365.04 204.49 361.62 202.52 361.62 198.06" />
+			<path class="tb-left-cls-98" d="M330.57,167.66l0,.06a3.55,3.55,0,0,0-1.22,2.4v7.77l-.69.29v-7.77A3.23,3.23,0,0,1,330.57,167.66Z" />
+			<polygon class="tb-left-cls-99" points="332.81 179.85 332.81 180.54 328.71 178.17 329.4 177.88 332.81 179.85" />
+			<path class="tb-left-cls-2" d="M330.61,167.72a9,9,0,0,1,2.2,5v7.1l-3.41-2v-7.77A3.55,3.55,0,0,1,330.61,167.72Z" />
+			<polygon class="tb-left-cls-100" points="329.4 183.89 328.71 184.18 328.71 179.02 329.4 179.42 329.4 183.89" />
+			<polygon class="tb-left-cls-101" points="332.81 185.86 332.81 186.55 328.71 184.18 329.4 183.89 332.81 185.86" />
+			<polygon class="tb-left-cls-2" points="329.4 179.42 332.81 181.39 332.81 185.61 332.81 185.86 329.4 183.89 329.4 179.42" />
+			<path class="tb-left-cls-102" d="M349.92,179l0,.06a3.55,3.55,0,0,0-1.22,2.4v7.77l-.69.29v-7.77A3.23,3.23,0,0,1,349.92,179Z" />
+			<polygon class="tb-left-cls-103" points="352.16 191.15 352.16 191.84 348.06 189.47 348.75 189.18 352.16 191.15" />
+			<path class="tb-left-cls-2" d="M350,179a9,9,0,0,1,2.2,5v7.1l-3.41-2v-7.77A3.55,3.55,0,0,1,350,179Z" />
+			<polygon class="tb-left-cls-104" points="348.75 195.19 348.06 195.48 348.06 190.32 348.75 190.72 348.75 195.19" />
+			<polygon class="tb-left-cls-105" points="352.16 197.16 352.16 197.85 348.06 195.48 348.75 195.19 352.16 197.16" />
+			<polygon class="tb-left-cls-2" points="348.75 190.72 352.16 192.69 352.16 196.91 352.16 197.16 348.75 195.19 348.75 190.72" />
+			<path class="tb-left-cls-106" d="M343.57,175.39l0,.06a3.55,3.55,0,0,0-1.22,2.4v7.77l-.69.29v-7.77A3.23,3.23,0,0,1,343.57,175.39Z" />
+			<polygon class="tb-left-cls-107" points="345.82 187.58 345.82 188.27 341.71 185.9 342.4 185.61 345.82 187.58" />
+			<path class="tb-left-cls-2" d="M343.62,175.45a9,9,0,0,1,2.2,5v7.1l-3.41-2v-7.77A3.55,3.55,0,0,1,343.62,175.45Z" />
+			<polygon class="tb-left-cls-108" points="342.4 191.62 341.71 191.91 341.71 186.75 342.4 187.15 342.4 191.62" />
+			<polygon class="tb-left-cls-109" points="345.82 193.59 345.82 194.28 341.71 191.91 342.4 191.62 345.82 193.59" />
+			<polygon class="tb-left-cls-2" points="342.4 187.15 345.82 189.12 345.82 193.34 345.82 193.59 342.4 191.62 342.4 187.15" />
+			<path class="tb-left-cls-23" d="M433.5,140.12v19.23l-13.68,7.9V148.08l13.68-8m1-1.74-15.68,9.12V169l15.68-9.05V138.38Z" />
+			<path class="tb-left-cls-110" d="M411,154.59l0,.06a3.55,3.55,0,0,1,1.22,2.4v7.77l.69.29v-7.77A3.23,3.23,0,0,0,411,154.59Z" />
+			<polygon class="tb-left-cls-111" points="408.79 166.78 408.79 167.47 412.89 165.1 412.2 164.81 408.79 166.78" />
+			<path class="tb-left-cls-2" d="M411,154.64a9,9,0,0,0-2.2,5v7.1l3.41-2V157A3.55,3.55,0,0,0,411,154.64Z" />
+			<path class="tb-left-cls-23" d="M413.89,151.78l.07,18.75-6.25,3.61-.07-18.72,6.25-3.64m1-1.74-8.24,4.8.08,21,8.24-4.76L414.88,150Z" />
+			<path class="tb-left-cls-23" d="M446.11,132.8V152l-6.24,3.6V136.43l6.24-3.63m1-1.74-8.24,4.8v21.46l8.24-4.76v-21.5Z" />
+			<polygon class="tb-left-cls-112" points="412.2 170.81 412.89 171.1 412.89 165.95 412.2 166.35 412.2 170.81" />
+			<polygon class="tb-left-cls-113" points="408.79 172.78 408.79 173.47 412.89 171.1 412.2 170.81 408.79 172.78" />
+			<polygon class="tb-left-cls-2" points="412.2 166.35 408.79 168.32 408.79 172.54 408.79 172.78 412.2 170.81 412.2 166.35" />
+			<path class="tb-left-cls-114" d="M443.26,136l0,.06a3.55,3.55,0,0,1,1.22,2.4v7.77l.69.29V138.7A3.23,3.23,0,0,0,443.26,136Z" />
+			<polygon class="tb-left-cls-115" points="441.01 148.14 441.01 148.83 445.11 146.46 444.42 146.17 441.01 148.14" />
+			<path class="tb-left-cls-2" d="M443.21,136a9,9,0,0,0-2.2,5v7.1l3.41-2v-7.77A3.55,3.55,0,0,0,443.21,136Z" />
+			<polygon class="tb-left-cls-116" points="444.42 152.18 445.11 152.47 445.11 147.31 444.42 147.71 444.42 152.18" />
+			<polygon class="tb-left-cls-117" points="441.01 154.15 441.01 154.84 445.11 152.47 444.42 152.18 441.01 154.15" />
+			<polygon class="tb-left-cls-2" points="444.42 147.71 441.01 149.68 441.01 153.91 441.01 154.15 444.42 152.18 444.42 147.71" />
+			<path class="tb-left-cls-118" d="M423.91,147.25l0,.06a3.55,3.55,0,0,1,1.22,2.4v7.77l.69.29V150A3.23,3.23,0,0,0,423.91,147.25Z" />
+			<polygon class="tb-left-cls-119" points="421.66 159.44 421.66 160.13 425.76 157.76 425.07 157.47 421.66 159.44" />
+			<path class="tb-left-cls-2" d="M423.86,147.31a9,9,0,0,0-2.2,5v7.1l3.41-2v-7.77A3.55,3.55,0,0,0,423.86,147.31Z" />
+			<polygon class="tb-left-cls-120" points="425.07 163.48 425.76 163.77 425.76 158.61 425.07 159.01 425.07 163.48" />
+			<polygon class="tb-left-cls-121" points="421.66 165.45 421.66 166.14 425.76 163.77 425.07 163.48 421.66 165.45" />
+			<polygon class="tb-left-cls-2" points="425.07 159.01 421.66 160.98 421.66 165.21 421.66 165.45 425.07 163.48 425.07 159.01" />
+			<path class="tb-left-cls-122" d="M430.25,143.68l0,.06a3.55,3.55,0,0,1,1.22,2.4v7.77l.69.29v-7.77A3.23,3.23,0,0,0,430.25,143.68Z" />
+			<polygon class="tb-left-cls-123" points="428 155.87 428 156.56 432.11 154.19 431.42 153.9 428 155.87" />
+			<path class="tb-left-cls-2" d="M430.2,143.74a9,9,0,0,0-2.2,5v7.1l3.41-2v-7.77A3.55,3.55,0,0,0,430.2,143.74Z" />
+			<polygon class="tb-left-cls-124" points="431.42 159.91 432.11 160.2 432.11 155.04 431.42 155.44 431.42 159.91" />
+			<polygon class="tb-left-cls-125" points="428 161.88 428 162.57 432.11 160.2 431.42 159.91 428 161.88" />
+			<polygon class="tb-left-cls-2" points="431.42 155.44 428 157.41 428 161.63 428 161.88 431.42 159.91 431.42 155.44" />
+			<g class="tb-left-cls-16">
+				<polygon points="415.62 166.33 410.27 173.25 410.27 185.44 418.51 190.05 443.21 175.51 415.62 166.33" />
+			</g>
+			<g class="tb-left-cls-16">
+				<path d="M410.78,186.41a.5.5,0,0,1-.25-.93l7.94-4.55a.5.5,0,1,1,.5.87L411,186.35A.5.5,0,0,1,410.78,186.41Z" />
+			</g>
+			<g class="tb-left-cls-16">
+				<path d="M416.53,189.39a.5.5,0,0,1-.25-.93l5.88-3.45a.5.5,0,0,1,.51.86l-5.88,3.45A.5.5,0,0,1,416.53,189.39Z" />
+			</g>
+			<polygon class="tb-left-cls-4" points="415.62 182.41 415.62 166.32 425.71 171.82 425.71 187.91 415.62 182.41" />
+			<polygon class="tb-left-cls-4" points="434.92 171.62 434.92 155.53 445.01 161.03 445.01 177.12 434.92 171.62" />
+			<polygon class="tb-left-cls-126" points="425.71 187.91 425.72 171.85 447.29 159.71 447.29 175.8 425.71 187.91" />
+			<polygon class="tb-left-cls-23" points="447.26 159.73 437.17 154.24 434.92 155.54 442.99 159.93 425.97 169.44 417.88 165.03 415.62 166.33 425.72 171.82 428.02 170.55 444.98 161.01 444.98 161.01 447.26 159.73" />
+			<g class="tb-left-cls-16">
+				<path d="M410.31,173.69a.5.5,0,0,1-.25-.93l3.86-2.23V167.2a.5.5,0,0,1,1,0v3.9l-4.36,2.52A.49.49,0,0,1,410.31,173.69Z" />
+			</g>
+			<polygon class="tb-left-cls-23" points="460.18 105.37 460.18 103.36 394.42 141.32 394.42 143.43 460.18 105.37" />
+			<polygon class="tb-left-cls-127" points="312 103.57 312 101.55 381.91 141.75 381.91 143.85 312 103.57" />
+			<polygon class="tb-left-cls-23" points="418.72 127.29 418.72 111.1 426.92 93.42 434.92 101.55 434.92 117.94 418.72 127.29" />
+			<path class="tb-left-cls-128" d="M423.91,106.79l0,.06a3.55,3.55,0,0,1,1.22,2.4V117l.69.29v-7.77A3.23,3.23,0,0,0,423.91,106.79Z" />
+			<polygon class="tb-left-cls-129" points="421.66 118.98 421.66 119.67 425.76 117.3 425.07 117.01 421.66 118.98" />
+			<path class="tb-left-cls-2" d="M423.86,106.85a9,9,0,0,0-2.2,5V119l3.41-2v-7.77A3.55,3.55,0,0,0,423.86,106.85Z" />
+			<polygon class="tb-left-cls-130" points="425.07 123.02 425.76 123.31 425.76 118.15 425.07 118.55 425.07 123.02" />
+			<polygon class="tb-left-cls-131" points="421.66 124.99 421.66 125.68 425.76 123.31 425.07 123.02 421.66 124.99" />
+			<polygon class="tb-left-cls-2" points="425.07 118.55 421.66 120.52 421.66 124.74 421.66 124.99 425.07 123.02 425.07 118.55" />
+			<path class="tb-left-cls-132" d="M430.25,103.22l0,.06a3.55,3.55,0,0,1,1.22,2.4v7.77l.69.29V106A3.23,3.23,0,0,0,430.25,103.22Z" />
+			<polygon class="tb-left-cls-133" points="428 115.41 428 116.1 432.11 113.73 431.42 113.44 428 115.41" />
+			<path class="tb-left-cls-2" d="M430.2,103.27a9,9,0,0,0-2.2,5v7.1l3.41-2v-7.77A3.55,3.55,0,0,0,430.2,103.27Z" />
+			<polygon class="tb-left-cls-134" points="431.42 119.45 432.11 119.73 432.11 114.58 431.42 114.98 431.42 119.45" />
+			<polygon class="tb-left-cls-135" points="428 121.42 428 122.11 432.11 119.73 431.42 119.45 428 121.42" />
+			<polygon class="tb-left-cls-2" points="431.42 114.98 428 116.95 428 121.17 428 121.42 431.42 119.45 431.42 114.98" />
+			<polygon class="tb-left-cls-136" points="426.92 93.42 425.42 92.5 417.06 110.14 418.72 111.1 426.92 93.42" />
+			<polygon class="tb-left-cls-137" points="417.06 110.14 418.72 111.1 418.72 127.29 417.06 128.25 417.06 110.14" />
+			<polygon class="tb-left-cls-138" points="354.45 125.9 354.45 109.71 346.26 92.03 338.26 100.16 338.26 116.55 354.45 125.9" />
+			<path class="tb-left-cls-139" d="M349.27,105.4l0,.06a3.55,3.55,0,0,0-1.22,2.4v7.77l-.69.29v-7.77A3.23,3.23,0,0,1,349.27,105.4Z" />
+			<polygon class="tb-left-cls-140" points="351.51 117.59 351.51 118.28 347.41 115.91 348.1 115.62 351.51 117.59" />
+			<path class="tb-left-cls-2" d="M349.32,105.45a9,9,0,0,1,2.2,5v7.1l-3.41-2v-7.77A3.55,3.55,0,0,1,349.32,105.45Z" />
+			<polygon class="tb-left-cls-141" points="348.1 121.63 347.41 121.92 347.41 116.76 348.1 117.16 348.1 121.63" />
+			<polygon class="tb-left-cls-142" points="351.51 123.6 351.51 124.28 347.41 121.92 348.1 121.63 351.51 123.6" />
+			<polygon class="tb-left-cls-2" points="348.1 117.16 351.51 119.13 351.51 123.35 351.51 123.6 348.1 121.63 348.1 117.16" />
+			<path class="tb-left-cls-143" d="M342.92,101.83l0,.06a3.55,3.55,0,0,0-1.22,2.4V112l-.69.29v-7.77A3.23,3.23,0,0,1,342.92,101.83Z" />
+			<polygon class="tb-left-cls-144" points="345.17 114.02 345.17 114.71 341.06 112.34 341.76 112.05 345.17 114.02" />
+			<path class="tb-left-cls-2" d="M343,101.88a9,9,0,0,1,2.2,5V114l-3.41-2v-7.77A3.55,3.55,0,0,1,343,101.88Z" />
+			<polygon class="tb-left-cls-145" points="341.76 118.06 341.06 118.34 341.06 113.19 341.76 113.59 341.76 118.06" />
+			<polygon class="tb-left-cls-146" points="345.17 120.03 345.17 120.71 341.06 118.34 341.76 118.06 345.17 120.03" />
+			<polygon class="tb-left-cls-2" points="341.76 113.59 345.17 115.56 345.17 119.78 345.17 120.03 341.76 118.06 341.76 113.59" />
+			<polygon class="tb-left-cls-23" points="346.26 92.03 347.75 91.11 356.11 108.74 354.45 109.71 346.26 92.03" />
+			<polygon class="tb-left-cls-2" points="356.11 108.74 354.45 109.71 354.45 125.9 356.11 126.86 356.11 108.74" />
+			<rect class="tb-left-cls-4" x="351.09" y="235.12" width="1" height="83.93" transform="translate(-64.76 441.54) rotate(-59.8)" />
+			<rect class="tb-left-cls-4" x="351.09" y="240.74" width="1" height="83.93" transform="translate(-69.61 444.33) rotate(-59.8)" />
+			<rect class="tb-left-cls-4" x="351.09" y="166.97" width="1" height="83.93" transform="translate(-5.86 407.68) rotate(-59.8)" />
+			<rect class="tb-left-cls-4" x="351.09" y="94.46" width="1" height="83.93" transform="translate(56.81 371.64) rotate(-59.8)" />
+			<rect class="tb-left-cls-4" x="351.09" y="172.59" width="1" height="83.93" transform="translate(-10.71 410.47) rotate(-59.8)" />
+			<path class="tb-left-cls-147" d="M374.29,394.32c13.11,7.78,72.58,39.66,123.9,10.2,17.94-10.3,23.06-20.65,21-32.14-1.49,7.77-7.69,16.43-21,24.09-50.34,28.91-108.47-1.12-123-9.62l-.8-.47Z" />
+			<path class="tb-left-cls-148" d="M295.51,340.61c-9.22-5.18-35.23-21.29-38.64-39.93-4.19,21.89,28.2,42,38.66,47.88Z" />
+			<path class="tb-left-cls-23" d="M347.16,175.71a.5.5,0,0,1-.5-.5v-9.05a.5.5,0,1,1,1,0v9.05A.5.5,0,0,1,347.16,175.71Z" />
+			<path class="tb-left-cls-24" d="M349.43,170.3a.5.5,0,0,1-.25-.07l-4.54-2.64a.5.5,0,0,1,.5-.87l4.54,2.64a.5.5,0,0,1-.25.93Z" />
+			<path class="tb-left-cls-24" d="M347.87,171.32a.5.5,0,0,1-.25-.07l-1.42-.82a.5.5,0,0,1,.5-.87l1.42.82a.5.5,0,0,1-.25.93Z" />
+			<path class="tb-left-cls-23" d="M340.35,131.63l13.68,8v19.17l-13.68-7.9V131.63m-1-1.74v21.55L355,160.49V139l-15.68-9.12Z" />
+			<path class="tb-left-cls-149" d="M362.81,146.09l0,.06a3.55,3.55,0,0,0-1.22,2.4v7.77l-.69.29v-7.77A3.23,3.23,0,0,1,362.81,146.09Z" />
+			<polygon class="tb-left-cls-150" points="365.06 158.29 365.06 158.97 360.95 156.61 361.64 156.32 365.06 158.29" />
+			<path class="tb-left-cls-2" d="M362.86,146.15a9,9,0,0,1,2.2,5v7.1l-3.41-2v-7.77A3.55,3.55,0,0,1,362.86,146.15Z" />
+			<path class="tb-left-cls-23" d="M360,143.29l6.25,3.64-.07,18.72L359.89,162l.07-18.75m-1-1.74-.08,21.06,8.24,4.76.08-21-8.24-4.8Z" />
+			<path class="tb-left-cls-23" d="M327.73,124.3l6.24,3.63v19.15l-6.24-3.6V124.3m-1-1.74v21.5l8.24,4.76V127.36l-8.24-4.8Z" />
+			<polygon class="tb-left-cls-151" points="361.64 162.32 360.95 162.61 360.95 157.45 361.64 157.85 361.64 162.32" />
+			<polygon class="tb-left-cls-152" points="365.06 164.29 365.06 164.98 360.95 162.61 361.64 162.32 365.06 164.29" />
+			<polygon class="tb-left-cls-2" points="361.64 157.85 365.06 159.82 365.06 164.05 365.06 164.29 361.64 162.32 361.64 157.85" />
+			<path class="tb-left-cls-153" d="M330.59,127.46l0,.06a3.55,3.55,0,0,0-1.22,2.4v7.77l-.69.29V130.2A3.23,3.23,0,0,1,330.59,127.46Z" />
+			<polygon class="tb-left-cls-154" points="332.83 139.65 332.83 140.34 328.73 137.97 329.42 137.68 332.83 139.65" />
+			<path class="tb-left-cls-2" d="M330.64,127.51a9,9,0,0,1,2.2,5v7.1l-3.41-2v-7.77A3.55,3.55,0,0,1,330.64,127.51Z" />
+			<polygon class="tb-left-cls-155" points="329.42 143.69 328.73 143.98 328.73 138.82 329.42 139.22 329.42 143.69" />
+			<polygon class="tb-left-cls-156" points="332.83 145.66 332.83 146.34 328.73 143.98 329.42 143.69 332.83 145.66" />
+			<polygon class="tb-left-cls-2" points="329.42 139.22 332.83 141.19 332.83 145.41 332.83 145.66 329.42 143.69 329.42 139.22" />
+			<path class="tb-left-cls-157" d="M349.94,138.76l0,.06a3.55,3.55,0,0,0-1.22,2.4V149l-.69.29v-7.77A3.23,3.23,0,0,1,349.94,138.76Z" />
+			<polygon class="tb-left-cls-158" points="352.18 150.95 352.18 151.64 348.08 149.27 348.77 148.98 352.18 150.95" />
+			<path class="tb-left-cls-2" d="M350,138.82a9,9,0,0,1,2.2,5V151l-3.41-2v-7.77A3.55,3.55,0,0,1,350,138.82Z" />
+			<polygon class="tb-left-cls-159" points="348.77 154.99 348.08 155.28 348.08 150.12 348.77 150.52 348.77 154.99" />
+			<polygon class="tb-left-cls-156" points="352.18 156.96 352.18 157.65 348.08 155.28 348.77 154.99 352.18 156.96" />
+			<polygon class="tb-left-cls-2" points="348.77 150.52 352.18 152.49 352.18 156.71 352.18 156.96 348.77 154.99 348.77 150.52" />
+			<path class="tb-left-cls-160" d="M343.59,135.19l0,.06a3.55,3.55,0,0,0-1.22,2.4v7.77l-.69.29v-7.77A3.23,3.23,0,0,1,343.59,135.19Z" />
+			<polygon class="tb-left-cls-161" points="345.84 147.38 345.84 148.07 341.73 145.7 342.43 145.41 345.84 147.38" />
+			<path class="tb-left-cls-2" d="M343.64,135.24a9,9,0,0,1,2.2,5v7.1l-3.41-2v-7.77A3.55,3.55,0,0,1,343.64,135.24Z" />
+			<polygon class="tb-left-cls-162" points="342.43 151.42 341.73 151.71 341.73 146.55 342.43 146.95 342.43 151.42" />
+			<polygon class="tb-left-cls-156" points="345.84 153.39 345.84 154.07 341.73 151.71 342.43 151.42 345.84 153.39" />
+			<polygon class="tb-left-cls-2" points="342.43 146.95 345.84 148.92 345.84 153.14 345.84 153.39 342.43 151.42 342.43 146.95" />
+			<g class="tb-left-cls-16">
+				<polygon points="358.18 166.77 339.96 173.34 323.23 163.57 323.23 143.13 336.63 138.59 336.25 157.41 355.92 149.39 358.18 166.77" />
+			</g>
+			<polygon class="tb-left-cls-163" points="358.18 166.77 358.18 150.69 348.08 156.19 348.08 172.27 358.18 166.77" />
+			<polygon class="tb-left-cls-164" points="349.99 152.62 353.13 153.44 358.18 150.69 355.92 149.39 349.99 152.62" />
+			<polygon class="tb-left-cls-23" points="353.13 153.44 353.13 169.52 348.08 172.27 348.08 156.19 353.13 153.44" />
+			<polygon class="tb-left-cls-4" points="348.08 172.27 348.08 156.21 326.51 144.07 326.51 160.16 348.08 172.27" />
+			<polygon class="tb-left-cls-4" points="338.96 155.98 338.96 139.89 328.86 145.39 328.86 161.48 338.96 155.98" />
+			<polygon class="tb-left-cls-165" points="330.81 144.29 338.88 139.9 336.63 138.59 326.53 144.09 328.82 145.37 334.56 148.6 341.98 150.53 330.81 144.29" />
+			<polygon class="tb-left-cls-166" points="417.06 128.25 410.04 105.67 417.06 110.14 417.06 128.25" />
+			<polygon class="tb-left-cls-137" points="417.06 110.14 425.42 92.5 415.62 87.21 410.04 105.67 417.06 110.14" />
+			<polygon class="tb-left-cls-166" points="356.16 126.79 363.18 104.21 356.16 108.68 356.16 126.79" />
+			<polygon class="tb-left-cls-2" points="356.16 108.68 347.8 91.04 357.6 85.75 363.18 104.21 356.16 108.68" />
+			<g class="tb-left-cls-16">
+				<polygon points="363.18 104.21 353.13 88.17 357.6 85.75 363.18 104.21" />
+			</g>
+			<path class="tb-left-cls-167" d="M394.5,22c-4.61-5.2-6.06-15.81-6.14-16.39V3.84l.84.48a.5.5,0,1,0,.5-.87l-1.34-.77V.5a.5.5,0,0,0-1,0V2.11l-1-.57a.5.5,0,0,0-.5.87l1.49.86V5.63c0,4-1.3,6.31-2.63,7.7h0l0,0a6.76,6.76,0,0,1-2.79,1.79.5.5,0,0,0-.35.61.49.49,0,0,0,.48.36v2.61l12.07,6.81V22.81a.5.5,0,0,0,.37-.83Zm-10-5-1.87-1a8.28,8.28,0,0,0,1.87-1.12Zm1-2.44,1.86.9v3.12l-1.86-1Zm2.86,4.58V15.93l1.7.82v3.31Zm2.7-.64a20.42,20.42,0,0,0,2,3.22l-2-1.08Zm-1.27-3-1.43-.69v-4A44.51,44.51,0,0,0,389.79,15.51Zm-2.43-1.18-1.56-.76A9.74,9.74,0,0,0,387.36,11Z" />
+			<path class="tb-left-cls-168" d="M502.68,401.76,511,441.2l8.55-32-.19-7.41S512.87,410.77,502.68,401.76Z" />
+			<path class="tb-left-cls-169" d="M502.68,401.76s-8.24,22.24-39,28.61l.61,15.53L511,441.2C511.14,424.12,508.46,410.86,502.68,401.76Z" />
+			<polygon class="tb-left-cls-3" points="381.75 130.1 381.75 131.39 381.75 156.25 383.26 158.6 383.26 132.4 383.26 132.1 381.75 130.1" />
+			<path class="tb-left-cls-26" d="M391.71,380.92l-8-4.25a12.62,12.62,0,0,1,4.74-.84c4,0,6.74,1.46,6.74,2.76,0,.89-1.3,1.91-3.57,2.42Z" />
+			<path class="tb-left-cls-23" d="M388.41,376.33c3.75,0,6.24,1.36,6.24,2.26,0,.55-1,1.35-2.8,1.84l-.63-.33-6.3-3.33a13.4,13.4,0,0,1,3.49-.44m0-1a11.65,11.65,0,0,0-5.83,1.34l8.17,4.32-1.17.83c3.44-.25,6.07-1.59,6.07-3.22,0-1.8-3.24-3.26-7.24-3.26Z" />
+			<path class="tb-left-cls-3" d="M382.58,376.66a2.45,2.45,0,0,0-1.41,1.93c0,1.8,3.24,3.26,7.24,3.26.4,0,.79,0,1.17,0l1.17-.83Z" />
+			<path class="tb-left-cls-14" d="M389.56,352" />
+			<path class="tb-left-cls-2" d="M381.81,302.95v74.21c0,3.12,5.86,4,6.61,4,3.82-.05,6.56-1.44,6.56-3V302.95Z" />
+			<path class="tb-left-cls-4" d="M381.81,378.67a.76.76,0,0,0,0,.37c.85,1.53,4.59,2.13,6.56,2.13a14.92,14.92,0,0,0,2.34-.2V305.12l-8.95-1Z" />
+			<path class="tb-left-cls-2" d="M395.61,296.25c-.37,1.57-2.86,2.82-6,3.08h0v6.57c3.45-.28,6.08-1.73,6.08-3.49v-6.16Z" />
+			<path class="tb-left-cls-4" d="M389.63,299.33c-.39,0-.78,0-1.19,0-3.73,0-6.8-1.37-7.22-3.13h-.05v6.16c0,2,3.25,3.54,7.27,3.54.41,0,.8,0,1.19-.05v-6.57Z" />
+			<path class="tb-left-cls-27" d="M391.71,298.44l-8-4.25a12.62,12.62,0,0,1,4.74-.84c4,0,6.74,1.46,6.74,2.76,0,.89-1.3,1.91-3.57,2.42Z" />
+			<path class="tb-left-cls-23" d="M388.41,293.85c3.75,0,6.24,1.36,6.24,2.26,0,.55-1,1.35-2.8,1.84l-.63-.33-6.3-3.33a13.4,13.4,0,0,1,3.49-.44m0-1a11.65,11.65,0,0,0-5.83,1.34l8.17,4.32-1.17.83c3.44-.25,6.07-1.59,6.07-3.22,0-1.8-3.24-3.26-7.24-3.26Z" />
+			<path class="tb-left-cls-3" d="M382.58,294.19a2.45,2.45,0,0,0-1.41,1.93c0,1.8,3.24,3.26,7.24,3.26.4,0,.79,0,1.17,0l1.17-.83Z" />
+			<path class="tb-left-cls-2" d="M395,296.2V230.62H381.81V236l8.95,62.48c1.78-.29,3.56-.91,4.17-1.93A.72.72,0,0,0,395,296.2Z" />
+			<path class="tb-left-cls-4" d="M381.81,296.21a.76.76,0,0,0,0,.37c.85,1.53,4.59,2.13,6.56,2.13a14.92,14.92,0,0,0,2.34-.2l0-62.54-8.93-.39Z" />
+			<path class="tb-left-cls-27" d="M391.69,230l-8-4.25a12.62,12.62,0,0,1,4.74-.84c4,0,6.74,1.46,6.74,2.76,0,.89-1.3,1.91-3.57,2.42Z" />
+			<path class="tb-left-cls-23" d="M388.39,225.44c3.75,0,6.24,1.36,6.24,2.26,0,.55-1,1.35-2.8,1.84l-.63-.33-6.3-3.33a13.4,13.4,0,0,1,3.49-.44m0-1a11.65,11.65,0,0,0-5.83,1.34l8.17,4.32-1.17.83c3.44-.25,6.07-1.59,6.07-3.22,0-1.8-3.24-3.26-7.24-3.26Z" />
+			<path class="tb-left-cls-3" d="M382.56,225.77a2.45,2.45,0,0,0-1.41,1.93c0,1.8,3.24,3.26,7.24,3.26.4,0,.79,0,1.17,0l1.17-.83Z" />
+			<path class="tb-left-cls-2" d="M395,227.65V202.06H381.81v5.41l8.95,22.48c1.78-.29,3.56-.91,4.17-1.93A.72.72,0,0,0,395,227.65Z" />
+			<path class="tb-left-cls-4" d="M381.81,227.66a.76.76,0,0,0,0,.37c.85,1.53,4.59,2.13,6.56,2.13a14.92,14.92,0,0,0,2.34-.2V212.84l-1.66,5.49-3.73-10-3.56-.83Z" />
+			<path class="tb-left-cls-2" d="M395.61,227.87c-.37,1.57-2.86,2.82-6,3.08h0v6.57c3.45-.28,6.08-1.73,6.08-3.49v-6.16Z" />
+			<path class="tb-left-cls-4" d="M389.58,230.95c-.39,0-.78,0-1.19,0-3.73,0-6.8-1.37-7.22-3.13h-.05V234c0,2,3.25,3.54,7.27,3.54.41,0,.8,0,1.19-.05V231Z" />
+			<polygon class="tb-left-cls-3" points="392.13 208.32 389.1 218.33 391.8 210.15 394.98 214.83 392.13 208.32" />
+			<path class="tb-left-cls-2" d="M395.64,205.79a1.74,1.74,0,0,0,0-.25v-6.17h-.05c-.38,1.57-2.86,2.83-6,3.08h-.24l.23.13L387.5,214h0l1.59,4.28,3-10h0l2.84,6.51.68-9Z" />
+			<path class="tb-left-cls-4" d="M389.56,202.59l-.23-.13c-.31,0-.62,0-.94,0-3.73,0-6.8-1.37-7.22-3.13h-.05v6.16a1.76,1.76,0,0,0,0,.25h0l.69,9,3.82-5.81,3.47,9.31-.7-9.24Z" />
+			<polygon class="tb-left-cls-3" points="381.81 214.82 385.37 208.3 389.1 218.33 385.55 209.13 381.81 214.82" />
+			<path class="tb-left-cls-23" d="M395.63,199.37c0-1.8-3.24-3.26-7.24-3.26a11.65,11.65,0,0,0-5.83,1.34l8.17,4.32-1.17.83C393,202.33,395.63,201,395.63,199.37Z" />
+			<path class="tb-left-cls-3" d="M382.56,197.44a2.45,2.45,0,0,0-1.41,1.93c0,1.8,3.24,3.26,7.24,3.26.4,0,.79,0,1.17,0l1.17-.83Z" />
+			<polygon class="tb-left-cls-28" points="390.76 201.76 390.76 201.75 390.74 201.76 390.76 201.76" />
+			<polygon class="tb-left-cls-2" points="390.76 159.93 390.76 160.01 390.76 201.75 394.98 199.37 394.98 158.28 394.98 156.93 390.76 159.93" />
+			<polygon class="tb-left-cls-4" points="390.01 159.83 383.26 158.93 383.26 159.23 383.26 200.43 390.74 201.76 390.76 201.75 390.76 160.01 390.76 159.93 390.01 159.83" />
+			<polygon class="tb-left-cls-3" points="381.75 156.93 381.75 158.22 381.75 198.08 383.26 200.43 383.26 159.23 383.26 158.93 381.75 156.93" />
+			<polygon class="tb-left-cls-2" points="390.76 133.1 390.76 133.18 390.76 159.92 394.98 157.54 394.98 131.45 394.98 130.1 390.76 133.1" />
+			<polygon class="tb-left-cls-4" points="390.01 133 383.26 132.1 383.26 132.4 383.26 158.6 390.74 159.93 390.76 159.92 390.76 133.18 390.76 133.1 390.01 133" />
+			<path class="tb-left-cls-29" d="M390.76,160" />
+			<path class="tb-left-cls-3" d="M390.76,160.51h-.07l-7.5-1.08a.5.5,0,0,1,.14-1l7.5,1.08a.5.5,0,0,1-.07,1Z" />
+			<path class="tb-left-cls-23" d="M390.76,160.51a.5.5,0,0,1-.29-.91l4.22-3a.5.5,0,1,1,.58.81l-4.22,3A.5.5,0,0,1,390.76,160.51Z" />
+			<polygon class="tb-left-cls-3" points="388.42 107.39 381.75 130.1 383.26 132.1 388.42 107.39" />
+			<polygon class="tb-left-cls-4" points="388.42 107.39 383.26 132.1 390.76 133.18 388.42 107.39" />
+			<polygon class="tb-left-cls-23" points="390.76 133.18 388.42 107.39 394.98 130.1 390.76 133.18" />
+			<path class="tb-left-cls-25" d="M383.26,132.6a.5.5,0,0,1-.4-.2l-1.51-2a.5.5,0,1,1,.8-.6l1.51,2a.5.5,0,0,1-.4.8Z" />
+			<path class="tb-left-cls-23" d="M390.76,133.68a.5.5,0,0,1-.29-.91l4.22-3a.5.5,0,1,1,.58.82l-4.22,3A.5.5,0,0,1,390.76,133.68Z" />
+			<path class="tb-left-cls-3" d="M390.76,133.68h-.07l-7.5-1.08a.5.5,0,0,1,.14-1l7.5,1.08a.5.5,0,0,1-.07,1Z" />
+			<polygon class="tb-left-cls-4" points="387.25 107.16 388.88 107.39 388.88 113.65 387.25 113.42 387.25 107.16" />
+			<polygon class="tb-left-cls-2" points="388.88 113.65 388.88 107.39 389.8 106.74 389.8 113 388.88 113.65" />
+			<polygon class="tb-left-cls-3" points="387.25 107.16 387.25 113.42 386.77 113 386.77 106.74 387.25 107.16" />
+			<path class="tb-left-cls-25" d="M387.25,113.92a.5.5,0,0,1-.4-.2l-.33-.44a.5.5,0,0,1,.8-.6l.33.44a.5.5,0,0,1-.4.8Z" />
+			<path class="tb-left-cls-23" d="M388.88,114.15a.5.5,0,0,1-.29-.91l.92-.65a.5.5,0,0,1,.58.82l-.92.65A.5.5,0,0,1,388.88,114.15Z" />
+			<path class="tb-left-cls-3" d="M388.88,114.15h-.07l-1.63-.23a.5.5,0,1,1,.14-1l1.63.23a.5.5,0,0,1-.07,1Z" />
+			<path class="tb-left-cls-28" d="M389.8,106.74v2.37s-.23-1.23,1.16-.43,1.22-.39,1.22-.39v-.21Z" />
+			<polygon class="tb-left-cls-23" points="388.88 107.39 389.8 106.74 392.18 108.08 391.26 108.73 388.88 107.39" />
+			<path class="tb-left-cls-2" d="M392.18,108.08l-.92.65v.35l-.79.45h.6l1-.71a.71.71,0,0,0,.12-.33C392.19,108.32,392.18,108.08,392.18,108.08Z" />
+			<path class="tb-left-cls-4" d="M388.88,107.39v2.37s-.23-1.23,1.16-.43,1.22-.39,1.22-.39v-.21Z" />
+			<path class="tb-left-cls-3" d="M387.25,108.81l-.48-.23v-1.84l-2.86.81a1.37,1.37,0,0,0,.39.84h0l0,0h0l.44.39,1.2-.33a.59.59,0,0,1,.75.42h.53Z" />
+			<path class="tb-left-cls-3" d="M386.73,108.89a.78.78,0,0,1,0,.22l.48.42v-.64Z" />
+			<polygon class="tb-left-cls-23" points="387.25 107.16 386.77 106.73 383.91 107.54 384.39 107.96 387.25 107.16" />
+			<path class="tb-left-cls-2" d="M387.25,109.53v-2.38l-2.86.81a1.28,1.28,0,0,0,.52.95,1.41,1.41,0,0,0,1.1.1S387.25,108.48,387.25,109.53Z" />
+			<polygon class="tb-left-cls-23" points="386.77 106.73 387.65 106.14 389 106.25 389.8 106.74 388.88 107.39 387.25 107.16 386.77 106.73" />
+			<polygon class="tb-left-cls-23" points="387.65 106.14 388.07 104.92 389.3 105.02 389 106.25 387.65 106.14" />
+			<path class="tb-left-cls-2" d="M389.3,105a4.33,4.33,0,0,1-.08,1.36l-.21-.13Z" />
+			<polygon class="tb-left-cls-4" points="387.95 104.72 388.48 104.79 388.48 106.82 387.95 106.75 387.95 104.72" />
+			<polygon class="tb-left-cls-23" points="388.48 106.82 388.48 104.79 388.78 104.58 388.78 106.61 388.48 106.82" />
+			<polygon class="tb-left-cls-3" points="387.95 104.72 387.95 106.75 387.79 106.61 387.79 104.58 387.95 104.72" />
+			<path class="tb-left-cls-23" d="M388.78,104.58a.11.11,0,0,0,0-.17,6,6,0,0,1-.48-.87s0,1.06,0,1.06l.17.19Z" />
+			<path class="tb-left-cls-4" d="M388.48,104.79a.17.17,0,0,0,0-.21,5.47,5.47,0,0,1-.17-1l-.44,1,.09.19Z" />
+			<path class="tb-left-cls-3" d="M387.79,104.58s-.13-.08,0-.19a5.36,5.36,0,0,0,.5-.86l-.28,1a.15.15,0,0,0-.07.2Z" />
+			<path class="tb-left-cls-2" d="M395.61,378.72c-.37,1.57-2.86,2.82-6,3.08h0v6.57c3.45-.28,6.08-1.73,6.08-3.49v-6.16Z" />
+			<path class="tb-left-cls-4" d="M389.58,381.8c-.39,0-.78,0-1.19,0-3.73,0-6.8-1.37-7.22-3.13h-.05v6.16c0,2,3.25,3.54,7.27,3.54.41,0,.8,0,1.19-.05v-6.57Z" />
+			<polygon class="tb-left-cls-3" points="299.14 87.14 299.14 88.43 299.14 113.29 300.65 115.64 300.65 89.44 300.65 89.14 299.14 87.14" />
+			<path class="tb-left-cls-26" d="M309.1,338l-8-4.25a12.62,12.62,0,0,1,4.74-.84c4,0,6.74,1.46,6.74,2.76,0,.89-1.3,1.91-3.57,2.42Z" />
+			<path class="tb-left-cls-23" d="M305.8,333.36c3.75,0,6.24,1.36,6.24,2.26,0,.55-1,1.35-2.8,1.84l-.63-.33-6.3-3.33a13.4,13.4,0,0,1,3.49-.44m0-1A11.65,11.65,0,0,0,300,333.7l8.17,4.32-1.17.83c3.44-.25,6.07-1.59,6.07-3.22,0-1.8-3.24-3.26-7.24-3.26Z" />
+			<path class="tb-left-cls-3" d="M300,333.7a2.45,2.45,0,0,0-1.41,1.93c0,1.8,3.24,3.26,7.24,3.26.4,0,.79,0,1.17,0l1.17-.83Z" />
+			<path class="tb-left-cls-14" d="M306.95,309" />
+			<path class="tb-left-cls-2" d="M299.2,260V334.2c0,3.12,5.86,4,6.61,4,3.82-.05,6.56-1.44,6.56-3V260Z" />
+			<path class="tb-left-cls-4" d="M299.2,335.7a.76.76,0,0,0,0,.37c.85,1.53,4.59,2.13,6.56,2.13a14.92,14.92,0,0,0,2.34-.2V262.16l-8.95-1Z" />
+			<path class="tb-left-cls-2" d="M313,253.29c-.37,1.57-2.86,2.82-6,3.08h0v6.57c3.45-.28,6.08-1.73,6.08-3.49v-6.16Z" />
+			<path class="tb-left-cls-4" d="M307,256.37c-.39,0-.78,0-1.19,0-3.73,0-6.8-1.37-7.22-3.13h-.05v6.16c0,2,3.25,3.54,7.27,3.54.41,0,.8,0,1.19-.05v-6.57Z" />
+			<path class="tb-left-cls-27" d="M309.1,255.48l-8-4.25a12.62,12.62,0,0,1,4.74-.84c4,0,6.74,1.46,6.74,2.76,0,.89-1.3,1.91-3.57,2.42Z" />
+			<path class="tb-left-cls-23" d="M305.8,250.89c3.75,0,6.24,1.36,6.24,2.26,0,.55-1,1.35-2.8,1.84l-.63-.33-6.3-3.33a13.4,13.4,0,0,1,3.49-.44m0-1a11.65,11.65,0,0,0-5.83,1.34l8.17,4.32-1.17.83c3.44-.25,6.07-1.59,6.07-3.22,0-1.8-3.24-3.26-7.24-3.26Z" />
+			<path class="tb-left-cls-3" d="M300,251.22a2.45,2.45,0,0,0-1.41,1.93c0,1.8,3.24,3.26,7.24,3.26.4,0,.79,0,1.17,0l1.17-.83Z" />
+			<path class="tb-left-cls-2" d="M312.37,253.24V187.66H299.2v5.41l8.95,62.48c1.78-.29,3.56-.91,4.17-1.93A.72.72,0,0,0,312.37,253.24Z" />
+			<path class="tb-left-cls-4" d="M299.2,253.25a.76.76,0,0,0,0,.37c.85,1.53,4.59,2.13,6.56,2.13a14.92,14.92,0,0,0,2.34-.2l0-62.54-8.93-.39Z" />
+			<path class="tb-left-cls-27" d="M309.08,187.07l-8-4.25a12.62,12.62,0,0,1,4.74-.84c4,0,6.74,1.46,6.74,2.76,0,.89-1.3,1.91-3.57,2.42Z" />
+			<path class="tb-left-cls-23" d="M305.78,182.48c3.75,0,6.24,1.36,6.24,2.26,0,.55-1,1.35-2.8,1.84l-.63-.33-6.3-3.33a13.4,13.4,0,0,1,3.49-.44m0-1a11.65,11.65,0,0,0-5.83,1.34l8.17,4.32L307,188c3.44-.25,6.07-1.59,6.07-3.22,0-1.8-3.24-3.26-7.24-3.26Z" />
+			<path class="tb-left-cls-3" d="M300,182.81a2.45,2.45,0,0,0-1.41,1.93c0,1.8,3.24,3.26,7.24,3.26.4,0,.79,0,1.17,0l1.17-.83Z" />
+			<path class="tb-left-cls-2" d="M312.37,184.68V159.1H299.2v5.41L308.15,187c1.78-.29,3.56-.91,4.17-1.93A.72.72,0,0,0,312.37,184.68Z" />
+			<path class="tb-left-cls-4" d="M299.2,184.7a.76.76,0,0,0,0,.37c.85,1.53,4.59,2.13,6.56,2.13a14.92,14.92,0,0,0,2.34-.2V169.88l-1.66,5.49-3.73-10-3.56-.83Z" />
+			<path class="tb-left-cls-2" d="M313,184.91c-.37,1.57-2.86,2.82-6,3.08h0v6.57c3.45-.28,6.08-1.73,6.08-3.49v-6.16Z" />
+			<path class="tb-left-cls-4" d="M307,188c-.39,0-.78,0-1.19,0-3.73,0-6.8-1.37-7.22-3.13h-.05v6.16c0,2,3.25,3.54,7.27,3.54.41,0,.8,0,1.19-.05V188Z" />
+			<polygon class="tb-left-cls-3" points="309.51 165.36 306.49 175.37 309.19 167.18 312.37 171.86 309.51 165.36" />
+			<path class="tb-left-cls-2" d="M313,162.82a1.74,1.74,0,0,0,0-.25v-6.17H313c-.38,1.57-2.86,2.83-6,3.08h-.24l.23.13-2.06,11.46h0l1.59,4.28,3-10h0l2.84,6.51.68-9Z" />
+			<path class="tb-left-cls-4" d="M307,159.63l-.23-.13c-.31,0-.62,0-.94,0-3.73,0-6.8-1.37-7.22-3.13h-.05v6.16a1.76,1.76,0,0,0,0,.25h0l.69,9,3.82-5.81,3.47,9.31-.7-9.24Z" />
+			<polygon class="tb-left-cls-3" points="299.2 171.86 302.75 165.34 306.49 175.37 302.94 166.17 299.2 171.86" />
+			<path class="tb-left-cls-23" d="M313,156.41c0-1.8-3.24-3.26-7.24-3.26a11.65,11.65,0,0,0-5.83,1.34l8.17,4.32-1.17.83C310.39,159.37,313,158,313,156.41Z" />
+			<path class="tb-left-cls-3" d="M300,154.48a2.45,2.45,0,0,0-1.41,1.93c0,1.8,3.24,3.26,7.24,3.26.4,0,.79,0,1.17,0l1.17-.83Z" />
+			<polygon class="tb-left-cls-28" points="308.15 158.8 308.15 158.79 308.13 158.8 308.15 158.8" />
+			<polygon class="tb-left-cls-2" points="308.15 116.97 308.15 117.05 308.15 158.79 312.37 156.41 312.37 115.32 312.37 113.97 308.15 116.97" />
+			<polygon class="tb-left-cls-4" points="307.4 116.87 300.65 115.97 300.65 116.27 300.65 157.47 308.13 158.8 308.15 158.79 308.15 117.05 308.15 116.97 307.4 116.87" />
+			<polygon class="tb-left-cls-3" points="299.14 113.97 299.14 115.26 299.14 155.12 300.65 157.47 300.65 116.27 300.65 115.97 299.14 113.97" />
+			<polygon class="tb-left-cls-2" points="308.15 90.14 308.15 90.22 308.15 116.96 312.37 114.58 312.37 88.49 312.37 87.14 308.15 90.14" />
+			<polygon class="tb-left-cls-4" points="307.4 90.04 300.65 89.14 300.65 89.44 300.65 115.64 308.13 116.97 308.15 116.96 308.15 90.22 308.15 90.14 307.4 90.04" />
+			<path class="tb-left-cls-29" d="M308.15,117" />
+			<path class="tb-left-cls-3" d="M308.15,117.55h-.07l-7.5-1.08a.5.5,0,0,1,.14-1l7.5,1.08a.5.5,0,0,1-.07,1Z" />
+			<path class="tb-left-cls-23" d="M308.15,117.55a.5.5,0,0,1-.29-.91l4.22-3a.5.5,0,1,1,.58.81l-4.22,3A.5.5,0,0,1,308.15,117.55Z" />
+			<polygon class="tb-left-cls-3" points="305.81 64.43 299.14 87.14 300.65 89.14 305.81 64.43" />
+			<polygon class="tb-left-cls-4" points="305.81 64.43 300.65 89.14 308.15 90.22 305.81 64.43" />
+			<polygon class="tb-left-cls-23" points="308.15 90.22 305.81 64.43 312.37 87.14 308.15 90.22" />
+			<path class="tb-left-cls-25" d="M300.65,89.64a.5.5,0,0,1-.4-.2l-1.51-2a.5.5,0,0,1,.8-.6l1.51,2a.5.5,0,0,1-.4.8Z" />
+			<path class="tb-left-cls-23" d="M308.15,90.72a.5.5,0,0,1-.29-.91l4.22-3a.5.5,0,1,1,.58.82l-4.22,3A.5.5,0,0,1,308.15,90.72Z" />
+			<path class="tb-left-cls-3" d="M308.15,90.72h-.07l-7.5-1.08a.5.5,0,0,1,.14-1l7.5,1.08a.5.5,0,0,1-.07,1Z" />
+			<polygon class="tb-left-cls-4" points="304.64 64.19 306.27 64.43 306.27 70.69 304.64 70.46 304.64 64.19" />
+			<polygon class="tb-left-cls-2" points="306.27 70.69 306.27 64.43 307.19 63.77 307.19 70.04 306.27 70.69" />
+			<polygon class="tb-left-cls-3" points="304.64 64.19 304.64 70.46 304.16 70.04 304.16 63.77 304.64 64.19" />
+			<path class="tb-left-cls-25" d="M304.64,71a.5.5,0,0,1-.4-.2l-.33-.44a.5.5,0,1,1,.8-.6l.33.44a.5.5,0,0,1-.4.8Z" />
+			<path class="tb-left-cls-23" d="M306.27,71.19a.5.5,0,0,1-.29-.91l.92-.65a.5.5,0,0,1,.58.82l-.92.65A.5.5,0,0,1,306.27,71.19Z" />
+			<path class="tb-left-cls-3" d="M306.27,71.19h-.07L304.57,71a.5.5,0,0,1,.14-1l1.63.23a.5.5,0,0,1-.07,1Z" />
+			<path class="tb-left-cls-28" d="M307.19,63.78v2.37s-.23-1.23,1.16-.43,1.22-.39,1.22-.39v-.21Z" />
+			<polygon class="tb-left-cls-23" points="306.27 64.43 307.19 63.77 309.57 65.12 308.65 65.77 306.27 64.43" />
+			<path class="tb-left-cls-2" d="M309.57,65.12l-.92.65v.35l-.79.45h.6l1-.71a.71.71,0,0,0,.12-.33C309.57,65.36,309.57,65.12,309.57,65.12Z" />
+			<path class="tb-left-cls-4" d="M306.27,64.43V66.8s-.23-1.23,1.16-.43,1.22-.39,1.22-.39v-.21Z" />
+			<path class="tb-left-cls-3" d="M304.64,65.84l-.48-.23V63.77l-2.86.81a1.37,1.37,0,0,0,.39.84h0l0,0h0l.44.39,1.2-.33a.59.59,0,0,1,.75.42h.53Z" />
+			<path class="tb-left-cls-3" d="M304.11,65.93a.78.78,0,0,1,0,.22l.48.42v-.64Z" />
+			<polygon class="tb-left-cls-23" points="304.64 64.19 304.16 63.77 301.3 64.58 301.78 65 304.64 64.19" />
+			<path class="tb-left-cls-2" d="M304.64,66.57V64.19l-2.86.81a1.28,1.28,0,0,0,.52.95,1.41,1.41,0,0,0,1.1.1S304.64,65.52,304.64,66.57Z" />
+			<polygon class="tb-left-cls-23" points="304.16 63.77 305.04 63.18 306.39 63.29 307.19 63.77 306.27 64.43 304.64 64.19 304.16 63.77" />
+			<polygon class="tb-left-cls-23" points="305.04 63.18 305.46 61.96 306.69 62.06 306.39 63.29 305.04 63.18" />
+			<path class="tb-left-cls-2" d="M306.69,62.06a4.33,4.33,0,0,1-.08,1.36l-.21-.13Z" />
+			<polygon class="tb-left-cls-4" points="305.34 61.76 305.87 61.83 305.87 63.86 305.34 63.78 305.34 61.76" />
+			<polygon class="tb-left-cls-23" points="305.87 63.86 305.87 61.83 306.17 61.62 306.17 63.65 305.87 63.86" />
+			<polygon class="tb-left-cls-3" points="305.34 61.76 305.34 63.78 305.18 63.65 305.18 61.62 305.34 61.76" />
+			<path class="tb-left-cls-23" d="M306.17,61.62a.11.11,0,0,0,0-.17,6,6,0,0,1-.48-.87s0,1.06,0,1.06l.17.19Z" />
+			<path class="tb-left-cls-4" d="M305.87,61.83a.17.17,0,0,0,0-.21,5.47,5.47,0,0,1-.17-1l-.44,1,.09.19Z" />
+			<path class="tb-left-cls-3" d="M305.18,61.62s-.13-.08,0-.19a5.36,5.36,0,0,0,.5-.86l-.28,1a.15.15,0,0,0-.07.2Z" />
+			<path class="tb-left-cls-2" d="M313,335.76c-.37,1.57-2.86,2.82-6,3.08h0v6.57c3.45-.28,6.08-1.73,6.08-3.49v-6.16Z" />
+			<path class="tb-left-cls-4" d="M307,338.84c-.39,0-.78,0-1.19,0-3.73,0-6.8-1.37-7.22-3.13h-.05v6.16c0,2,3.25,3.54,7.27,3.54.41,0,.8,0,1.19-.05v-6.57Z" />
+			<polygon class="tb-left-cls-23" points="353.13 153.44 349.99 152.62 347.82 153.8 341.98 150.53 334.56 148.6 345.77 154.91 348.08 156.19 358.18 150.69 353.13 153.44" />
+			<polygon class="tb-left-cls-170" points="358.18 206.91 358.18 190.83 348.08 196.33 348.08 212.41 358.18 206.91" />
+			<polygon class="tb-left-cls-171" points="349.99 192.76 353.13 193.58 358.18 190.83 355.92 189.53 349.99 192.76" />
+			<polygon class="tb-left-cls-23" points="353.13 193.58 353.13 209.66 348.08 212.41 348.08 196.33 353.13 193.58" />
+			<polygon class="tb-left-cls-4" points="348.08 212.41 348.08 196.35 326.51 184.21 326.51 200.3 348.08 212.41" />
+			<polygon class="tb-left-cls-4" points="338.96 196.12 338.96 180.03 328.86 185.53 328.86 201.62 338.96 196.12" />
+			<polygon class="tb-left-cls-172" points="330.81 184.43 338.88 180.04 336.63 178.74 326.53 184.23 328.82 185.51 334.56 188.74 341.98 190.68 330.81 184.43" />
+			<polygon class="tb-left-cls-23" points="353.13 193.58 349.99 192.76 347.82 193.94 341.98 190.68 334.56 188.74 345.77 195.05 348.08 196.33 358.18 190.83 353.13 193.58" />
+			<path class="tb-left-cls-173" d="M504.06,342.05v7.69c7.15,6.61,13.39,14.64,15,23.33C521.22,361.66,513.47,350.73,504.06,342.05Z" />
+			<path class="tb-left-cls-16" d="M378.67,181.82,346.3,212l-3.08-1.75-29,31.75L310,243.8s-10.6,2.52-10.74-2c-.16-5,0-14,0-14Z" />
+			<polygon class="tb-left-cls-23" points="54.79 336.37 63.89 342.03 378.67 160.38 369.08 154.99 54.79 336.37" />
+			<polygon class="tb-left-cls-174" points="63.89 342.03 63.89 363.44 378.67 181.79 378.67 160.38 63.89 342.03" />
+			<polygon class="tb-left-cls-16" points="378.67 160.38 373 163.61 363.12 158.43 369.08 154.99 378.67 160.38" />
+			<path class="tb-left-cls-23" d="M77,354.82a1,1,0,0,1-.92-1.38l10.45-25.23L99.4,340.6A1,1,0,1,1,98,342L87.24,331.68,77.92,354.2A1,1,0,0,1,77,354.82Z" />
+			<path class="tb-left-cls-23" d="M98.81,342.31a1,1,0,0,1-.92-1.38l10.45-25.23,12.89,12.39a1,1,0,0,1-1.39,1.44l-10.78-10.36-9.32,22.52A1,1,0,0,1,98.81,342.31Z" />
+			<path class="tb-left-cls-23" d="M120.53,329.84a1,1,0,0,1-.92-1.38L130,303.23l12.89,12.39a1,1,0,0,1-1.39,1.44L130.78,306.7l-9.32,22.52A1,1,0,0,1,120.53,329.84Z" />
+			<path class="tb-left-cls-23" d="M142.34,317.32a1,1,0,0,1-.92-1.38l10.45-25.23,12.89,12.39a1,1,0,0,1-1.39,1.44l-10.78-10.36-9.32,22.52A1,1,0,0,1,142.34,317.32Z" />
+			<path class="tb-left-cls-23" d="M164.06,304.84a1,1,0,0,1-.92-1.38l10.45-25.23,12.89,12.39a1,1,0,0,1-1.39,1.44L174.31,281.7,165,304.22A1,1,0,0,1,164.06,304.84Z" />
+			<path class="tb-left-cls-23" d="M185.88,292.32a1,1,0,0,1-.92-1.38l10.45-25.23,12.89,12.39a1,1,0,0,1-1.39,1.44l-10.78-10.36-9.33,22.52A1,1,0,0,1,185.88,292.32Z" />
+			<path class="tb-left-cls-23" d="M207.6,279.85a1,1,0,0,1-.92-1.38l10.45-25.23L230,265.63a1,1,0,0,1-1.39,1.44l-10.78-10.36-9.33,22.52A1,1,0,0,1,207.6,279.85Z" />
+			<path class="tb-left-cls-23" d="M229.41,267.34a1,1,0,0,1-.92-1.38l10.45-25.23,12.89,12.39a1,1,0,0,1-1.39,1.44L239.66,244.2l-9.32,22.52A1,1,0,0,1,229.41,267.34Z" />
+			<path class="tb-left-cls-23" d="M251.13,254.74a1,1,0,0,1-.92-1.38l10.45-25.23,12.89,12.39a1,1,0,0,1-1.39,1.44L261.38,231.6l-9.32,22.52A1,1,0,0,1,251.13,254.74Z" />
+			<path class="tb-left-cls-23" d="M272.95,242.23a1,1,0,0,1-.92-1.38l10.45-25.23L295.36,228a1,1,0,0,1-1.39,1.44L283.2,219.09l-9.33,22.52A1,1,0,0,1,272.95,242.23Z" />
+			<path class="tb-left-cls-23" d="M294.67,229.75a1,1,0,0,1-.92-1.38l10.45-25.23,12.89,12.39a1,1,0,0,1-1.39,1.44l-10.78-10.36-9.33,22.52A1,1,0,0,1,294.67,229.75Z" />
+			<path class="tb-left-cls-23" d="M316.48,217.24a1,1,0,0,1-.92-1.38L326,190.63,338.89,203a1,1,0,0,1-1.39,1.44L326.73,194.1l-9.33,22.52A1,1,0,0,1,316.48,217.24Z" />
+			<path class="tb-left-cls-23" d="M338.2,204.78a1,1,0,0,1-.92-1.38l10.45-25.23,12.89,12.39a1,1,0,0,1-1.39,1.44l-10.78-10.36-9.33,22.52A1,1,0,0,1,338.2,204.78Z" />
+			<path class="tb-left-cls-23" d="M359.92,192.31a1,1,0,0,1-.92-1.38l10.45-25.23,9.3,8.94a1,1,0,0,1-1.39,1.44l-7.18-6.9-9.33,22.52A1,1,0,0,1,359.92,192.31Z" />
+			<path class="tb-left-cls-23" d="M88.22,349.64l-11.91-11.2A1,1,0,1,1,77.68,337l9.8,9.22,9.89-23.89,12.89,12.39a1,1,0,1,1-1.39,1.44L98.1,325.78Z" />
+			<path class="tb-left-cls-23" d="M109.67,336.41a1,1,0,0,1-.92-1.38l10.45-25.23,12.89,12.39a1,1,0,0,1-1.39,1.44l-10.78-10.36-9.32,22.52A1,1,0,0,1,109.67,336.41Z" />
+			<path class="tb-left-cls-23" d="M131.39,323.93a1,1,0,0,1-.92-1.38l10.45-25.23,12.89,12.39a1,1,0,0,1-1.39,1.44L141.64,300.8l-9.32,22.52A1,1,0,0,1,131.39,323.93Z" />
+			<path class="tb-left-cls-23" d="M153.2,311.42a1,1,0,0,1-.92-1.38l10.45-25.23,12.89,12.39a1,1,0,0,1-1.39,1.44l-10.78-10.36-9.32,22.52A1,1,0,0,1,153.2,311.42Z" />
+			<path class="tb-left-cls-23" d="M174.92,298.94a1,1,0,0,1-.92-1.38l10.45-25.23,12.89,12.39a1,1,0,0,1-1.39,1.44L185.17,275.8l-9.32,22.52A1,1,0,0,1,174.92,298.94Z" />
+			<path class="tb-left-cls-23" d="M196.74,286.42a1,1,0,0,1-.92-1.38l10.45-25.23,12.89,12.39a1,1,0,0,1-1.39,1.44L207,263.28l-9.33,22.52A1,1,0,0,1,196.74,286.42Z" />
+			<path class="tb-left-cls-23" d="M218.46,274a1,1,0,0,1-.92-1.38L228,247.34l12.89,12.39a1,1,0,0,1-1.39,1.44L228.7,250.81l-9.33,22.52A1,1,0,0,1,218.46,274Z" />
+			<path class="tb-left-cls-23" d="M240.27,261.44a1,1,0,0,1-.92-1.38l10.45-25.23,12.89,12.39a1,1,0,0,1-1.39,1.44L250.52,238.3l-9.32,22.52A1,1,0,0,1,240.27,261.44Z" />
+			<path class="tb-left-cls-23" d="M262,248.84a1,1,0,0,1-.92-1.38l10.45-25.23,12.89,12.39a1,1,0,0,1-1.39,1.44L272.24,225.7l-9.32,22.52A1,1,0,0,1,262,248.84Z" />
+			<path class="tb-left-cls-23" d="M283.81,236.32a1,1,0,0,1-.92-1.38l10.45-25.23,12.89,12.39a1,1,0,0,1-1.39,1.44l-10.78-10.36-9.33,22.52A1,1,0,0,1,283.81,236.32Z" />
+			<path class="tb-left-cls-23" d="M305.53,223.85a1,1,0,0,1-.92-1.38L315,197.24l12.89,12.39a1,1,0,0,1-1.39,1.44l-10.78-10.36-9.33,22.52A1,1,0,0,1,305.53,223.85Z" />
+			<path class="tb-left-cls-23" d="M327.34,211.34a1,1,0,0,1-.92-1.38l10.45-25.23,12.89,12.39a1,1,0,0,1-1.39,1.44L337.59,188.2l-9.33,22.52A1,1,0,0,1,327.34,211.34Z" />
+			<path class="tb-left-cls-23" d="M349.06,198.88a1,1,0,0,1-.92-1.38l10.45-25.23,12.89,12.39a1,1,0,0,1-1.39,1.44l-10.78-10.36L350,198.26A1,1,0,0,1,349.06,198.88Z" />
+			<path class="tb-left-cls-23" d="M370.78,186.41a1,1,0,0,1-.92-1.38l7.23-17.46a1,1,0,1,1,1.85.77l-7.23,17.46A1,1,0,0,1,370.78,186.41Z" />
+			<polygon class="tb-left-cls-16" points="378.67 181.82 373 185.09 373 163.64 378.67 160.41 378.67 181.82" />
+			<polygon class="tb-left-cls-23" points="0 308.03 9.11 313.7 323.88 132.04 314.29 126.66 0 308.03" />
+			<polygon class="tb-left-cls-175" points="9.11 313.7 9.11 335.11 323.88 153.45 323.88 132.04 9.11 313.7" />
+			<polygon class="tb-left-cls-16" points="323.88 132.04 318.22 135.28 308.33 130.1 314.29 126.66 323.88 132.04" />
+			<path class="tb-left-cls-23" d="M22.21,326.49a1,1,0,0,1-.92-1.38l9.89-23.87a1,1,0,0,1,1.62-.34l11.83,11.38a1,1,0,1,1-1.39,1.44L32.46,303.35l-9.33,22.52A1,1,0,0,1,22.21,326.49Z" />
+			<path class="tb-left-cls-23" d="M44,314a1,1,0,0,1-.92-1.38L53,288.72a1,1,0,0,1,1.62-.34l11.83,11.38A1,1,0,1,1,65,301.2L54.27,290.84l-9.32,22.52A1,1,0,0,1,44,314Z" />
+			<path class="tb-left-cls-23" d="M65.74,301.5a1,1,0,0,1-.92-1.38l9.89-23.87a1,1,0,0,1,1.62-.34l11.83,11.38a1,1,0,1,1-1.39,1.44L76,278.36l-9.32,22.52A1,1,0,0,1,65.74,301.5Z" />
+			<path class="tb-left-cls-23" d="M87.56,289a1,1,0,0,1-.92-1.38l9.89-23.87a1,1,0,0,1,1.62-.34L110,274.77a1,1,0,1,1-1.39,1.44L97.81,265.85l-9.32,22.52A1,1,0,0,1,87.56,289Z" />
+			<path class="tb-left-cls-23" d="M109.28,276.5a1,1,0,0,1-.92-1.38l9.89-23.87a1,1,0,0,1,1.62-.34l11.83,11.38a1,1,0,0,1-1.39,1.44l-10.78-10.36-9.32,22.52A1,1,0,0,1,109.28,276.5Z" />
+			<path class="tb-left-cls-23" d="M131.09,264a1,1,0,0,1-.92-1.38l9.89-23.87a1,1,0,0,1,1.62-.34l11.83,11.38a1,1,0,0,1-1.39,1.44l-10.78-10.36L132,263.37A1,1,0,0,1,131.09,264Z" />
+			<path class="tb-left-cls-23" d="M152.81,251.52a1,1,0,0,1-.92-1.38l9.88-23.87a1,1,0,0,1,1.62-.34l11.83,11.38a1,1,0,0,1-1.39,1.44l-10.78-10.36-9.32,22.52A1,1,0,0,1,152.81,251.52Z" />
+			<path class="tb-left-cls-23" d="M174.63,239a1,1,0,0,1-.92-1.38l9.89-23.87a1,1,0,0,1,1.62-.34L197,224.79a1,1,0,0,1-1.39,1.44l-10.78-10.36-9.33,22.52A1,1,0,0,1,174.63,239Z" />
+			<path class="tb-left-cls-23" d="M196.34,226.41a1,1,0,0,1-.92-1.38l9.89-23.87a1,1,0,0,1,1.62-.34l11.83,11.38a1,1,0,0,1-1.39,1.44l-10.78-10.36-9.33,22.52A1,1,0,0,1,196.34,226.41Z" />
+			<path class="tb-left-cls-23" d="M218.16,213.89a1,1,0,0,1-.92-1.38l9.88-23.87a1,1,0,0,1,1.62-.34l11.83,11.38a1,1,0,0,1-1.39,1.44l-10.78-10.36-9.32,22.52A1,1,0,0,1,218.16,213.89Z" />
+			<path class="tb-left-cls-23" d="M239.88,201.42A1,1,0,0,1,239,200l9.88-23.87a1,1,0,0,1,1.62-.34l11.83,11.38a1,1,0,0,1-1.39,1.44l-10.78-10.36L240.8,200.8A1,1,0,0,1,239.88,201.42Z" />
+			<path class="tb-left-cls-23" d="M261.7,188.91a1,1,0,0,1-.92-1.38l9.89-23.87a1,1,0,0,1,1.62-.34l11.83,11.38a1,1,0,0,1-1.39,1.44l-10.78-10.36-9.33,22.52A1,1,0,0,1,261.7,188.91Z" />
+			<path class="tb-left-cls-23" d="M283.41,176.45a1,1,0,0,1-.92-1.38l9.89-23.87a1,1,0,0,1,1.62-.34l11.83,11.38a1,1,0,0,1-1.39,1.44l-10.78-10.36-9.33,22.52A1,1,0,0,1,283.41,176.45Z" />
+			<path class="tb-left-cls-23" d="M305.13,164a1,1,0,0,1-.92-1.38l9.89-23.87a1,1,0,0,1,1.62-.34l8.24,7.92a1,1,0,0,1-1.39,1.44l-7.18-6.9-9.33,22.52A1,1,0,0,1,305.13,164Z" />
+			<path class="tb-left-cls-23" d="M33.07,320.58a1,1,0,0,1-.69-.27L21.52,310.1a1,1,0,1,1,1.37-1.46l9.8,9.22L42,295.33a1,1,0,0,1,1.62-.34l11.83,11.38a1,1,0,1,1-1.39,1.44L43.31,297.45,34,320a1,1,0,0,1-.71.59Z" />
+			<path class="tb-left-cls-23" d="M54.88,308.07a1,1,0,0,1-.92-1.38l9.89-23.87a1,1,0,0,1,1.62-.34l11.83,11.38a1,1,0,1,1-1.39,1.44L65.13,284.93l-9.32,22.52A1,1,0,0,1,54.88,308.07Z" />
+			<path class="tb-left-cls-23" d="M76.6,295.6a1,1,0,0,1-.92-1.38l9.89-23.87a1,1,0,0,1,1.62-.34L99,281.38a1,1,0,1,1-1.39,1.44L86.85,272.46,77.52,295A1,1,0,0,1,76.6,295.6Z" />
+			<path class="tb-left-cls-23" d="M98.42,283.09a1,1,0,0,1-.92-1.38l9.89-23.87a1,1,0,0,1,1.62-.34l11.83,11.38a1,1,0,1,1-1.39,1.44l-10.78-10.36-9.32,22.52A1,1,0,0,1,98.42,283.09Z" />
+			<path class="tb-left-cls-23" d="M120.13,270.6a1,1,0,0,1-.92-1.38l9.89-23.87a1,1,0,0,1,1.62-.34l11.83,11.38a1,1,0,0,1-1.39,1.44l-10.78-10.36L121.06,270A1,1,0,0,1,120.13,270.6Z" />
+			<path class="tb-left-cls-23" d="M142,258.09a1,1,0,0,1-.92-1.38l9.88-23.87a1,1,0,0,1,1.62-.34l11.83,11.38a1,1,0,0,1-1.39,1.44L152.2,235l-9.32,22.52A1,1,0,0,1,142,258.09Z" />
+			<path class="tb-left-cls-23" d="M163.67,245.62a1,1,0,0,1-.92-1.38l9.88-23.87a1,1,0,0,1,1.62-.34l11.83,11.38a1,1,0,0,1-1.39,1.44l-10.78-10.36L164.59,245A1,1,0,0,1,163.67,245.62Z" />
+			<path class="tb-left-cls-23" d="M185.49,233.1a1,1,0,0,1-.92-1.38l9.89-23.87a1,1,0,0,1,1.62-.34l11.83,11.38a1,1,0,0,1-1.39,1.44L195.73,210l-9.33,22.52A1,1,0,0,1,185.49,233.1Z" />
+			<path class="tb-left-cls-23" d="M207.2,220.5a1,1,0,0,1-.92-1.38l9.89-23.87a1,1,0,0,1,1.62-.34l11.83,11.38a1,1,0,0,1-1.39,1.44l-10.78-10.36-9.33,22.52A1,1,0,0,1,207.2,220.5Z" />
+			<path class="tb-left-cls-23" d="M229,208a1,1,0,0,1-.92-1.38L238,182.73a1,1,0,0,1,1.62-.34l11.83,11.38a1,1,0,0,1-1.39,1.44l-10.78-10.36-9.32,22.52A1,1,0,0,1,229,208Z" />
+			<path class="tb-left-cls-23" d="M250.74,195.52a1,1,0,0,1-.92-1.38l9.88-23.87a1,1,0,0,1,1.62-.34l11.83,11.38a1,1,0,0,1-1.39,1.44L261,172.38l-9.32,22.52A1,1,0,0,1,250.74,195.52Z" />
+			<path class="tb-left-cls-23" d="M272.55,183a1,1,0,0,1-.92-1.38l9.89-23.87a1,1,0,0,1,1.62-.34L295,168.79a1,1,0,0,1-1.39,1.44L282.8,159.87l-9.33,22.52A1,1,0,0,1,272.55,183Z" />
+			<path class="tb-left-cls-23" d="M294.27,170.54a1,1,0,0,1-.92-1.38l9.89-23.87a1,1,0,0,1,1.62-.34l11.83,11.38a1,1,0,0,1-1.39,1.44l-10.78-10.36-9.33,22.52A1,1,0,0,1,294.27,170.54Z" />
+			<path class="tb-left-cls-23" d="M316,158.07a1,1,0,0,1-.92-1.38l7.23-17.46a1,1,0,0,1,1.85.77l-7.23,17.46A1,1,0,0,1,316,158.07Z" />
+			<polygon class="tb-left-cls-16" points="323.88 153.49 318.22 156.76 318.22 135.31 323.88 132.08 323.88 153.49" />
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,114 @@
+$module: 		'battersea';
+
+.#{$module} {
+	perspective: 1000px;
+	width: em(417);
+	overflow: visible;
+	transform: translateY(26px)translateX(-49px);
+	
+	&__svg {
+		width: 100%;
+		height: auto;
+
+		.palette & {
+			position: static;
+		}
+	}
+
+	&__image {
+		width: 100%;
+		height: auto;
+
+		.palette & {
+			position: static;
+		}
+	}
+
+	&__wire {
+		position: absolute;
+		background-color: $color5;
+		width: em(2);
+		height: em(60);
+		top: em(223);
+		right: em(1);
+		transform-origin: top;
+		z-index: 2;
+
+		.#{$module}.active & {
+			width: em(1);
+			animation: 4s linear infinite batterseaRope;
+		}		
+
+		.palette & {
+			display: none;
+		}
+	}
+
+	&__wire--2 {
+		@extend .#{$module}__wire;
+		right: auto;
+		left: 0;
+		top: em(97);
+
+		.#{$module}.active & {
+			animation: 4s 2s linear infinite batterseaRope;
+		}
+	}
+
+	&__box-wrap {		
+		position: absolute;
+		top: em(280);
+		right: em(-7);
+		transform: translateY(0px);
+
+		.#{$module}.active & {
+			animation: 4s linear infinite batterseaBob;
+		}
+
+		.palette & {
+			display: none;
+		}
+	}
+
+	&__box-wrap--2 {
+		@extend .#{$module}__box-wrap;		
+		top: em(156);
+		right: auto;
+		left: em(-9);
+
+		.#{$module}.active & {
+			animation: 4s 2s linear infinite batterseaBob;
+		}
+	}
+
+	&__box {
+		position: relative;
+		width: em(20);
+		height: em(20);		
+		transform-style: preserve-3d;
+		transform: rotateY(-45deg) rotateX(-24deg) rotateZ(24deg);
+	}
+
+	&__box-right, &__box-front, &__box-top {
+		position: absolute;
+		top: 0;
+		left: 0;
+		right: 0;
+		bottom: 0;
+	}
+
+	&__box-right {
+		background-color: #28b8ce;
+		transform: rotateY(90deg)translateZ(10px);
+	}
+
+	&__box-front {
+		background-color: #1e8a9b;
+		transform: translateZ(10px);
+	}
+
+	&__box-top {
+		background-color: #7ed4e2;
+		transform: rotateX(-90deg)translateZ(-10px);
+	}
+}

@@ -1,0 +1,31 @@
+// Convert pixels to ems
+// eg. for a relational value of 12px write em(12) when the parent is 16px
+// if the parent is another value say 24px write em(12, 24)
+@function em($pxval, $base: $fzBase) {
+	@return ($pxval / $base) * 1em;
+}
+
+// Font sizing using rems with a fallback to px in unsupported
+// Font-size of 62.5% must be set on body
+@mixin font-size($sizeValue: 16){
+	font-size: $sizeValue + px;
+	font-size: ($sizeValue / 10) + rem;
+}
+
+@mixin clearfix {
+	&:after, &:before {
+		content: "";
+		display: table;
+		clear: both;
+	}
+}
+
+/// Remove the unit of a length
+/// @param {Number} $number - Number to remove unit from
+/// @return {Number} - Unitless number
+@function strip-unit($number) {
+	@if type-of($number) == 'number' and not unitless($number) {
+		@return $number / ($number * 0 + 1);
+	}
+	@return $number;
+}

@@ -1,0 +1,38 @@
+$module: 		'pancake';
+
+.#{$module} {
+	cursor: pointer;
+	z-index: 10;
+	width: em(35);
+	height: em(25);
+	background-color: transparent;
+	background-image: none;
+	border: 0;
+	outline: 0;
+	box-shadow: none;
+	padding: 0;
+
+	&__line {
+		background-color: white;
+		width: 100%;
+		left: 0;
+		height: em(3);
+		position: absolute;
+		top: 50%;
+		margin-top: em(-2);
+
+		&:nth-child(1) {
+			transform: rotate(45deg);
+			transform-origin: center;
+			top: 50%;
+			margin-top: em(-1);
+		}
+
+		&:nth-child(2) {
+			transform: rotate(-45deg);
+			transform-origin: center;
+			top: 50%;
+			margin-top: em(-1);
+		}
+	}			
+}

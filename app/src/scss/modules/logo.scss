@@ -1,0 +1,51 @@
+$module:		'logo';
+
+.#{$module} {
+	margin-bottom: em(100);
+	width: em(130);
+	position: relative;
+	cursor: pointer;
+	margin-left: em(35);
+
+	@include bp(tab-l-b) {
+		$fontSize: 10;
+		font-size: em($fontSize);
+		margin-bottom: em(15,$fontSize);
+	}
+
+	&__text {
+		$fontSize: 35;
+		font-size: em($fontSize);
+		line-height: 1;
+		text-transform: uppercase;
+		font-weight: 300;		
+	}
+
+	&__tile {
+		width: em(40);
+		height: auto;
+		position: absolute;
+		transition-property: transform;
+		transition-duration: 0.1s;
+		transition-timing-function: linear;
+
+		.#{$module}:hover & {
+			transform: translateY(5px);
+		}
+
+		&:nth-child(1) {
+			bottom: em(-9);
+			right: em(-36);
+		}
+
+		&:nth-child(2) {
+			bottom: em(-19);
+			right: em(17);
+		}
+
+		&:nth-child(3) {
+			bottom: em(-40);
+			right: em(4);
+		}
+	}
+}

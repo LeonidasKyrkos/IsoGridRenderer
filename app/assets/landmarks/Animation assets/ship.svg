@@ -1,0 +1,93 @@
+<svg class="tower-bridge" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 282.37 234.06" width="282" height="234">
+	<defs>
+		<style>
+			.ship-cls-1{fill:url(#ship-linear-gradient);}.ship-cls-2{fill:#09d1e3;}.ship-cls-3{opacity:0.3;}.ship-cls-4{fill:url(#ship-linear-gradient-2);}.ship-cls-5{fill:url(#ship-linear-gradient-3);}.ship-cls-6{fill:url(#ship-linear-gradient-4);}.ship-cls-7{fill:url(#ship-linear-gradient-5);}.ship-cls-8{fill:url(#ship-linear-gradient-6);}.ship-cls-9{fill:url(#ship-linear-gradient-7);}.ship-cls-10{fill:url(#ship-linear-gradient-8);}.ship-cls-11{fill:url(#ship-linear-gradient-9);}.ship-cls-12{fill:url(#ship-linear-gradient-10);}.ship-cls-13{fill:url(#ship-linear-gradient-11);}.ship-cls-14{fill:none;}.ship-cls-15{fill:url(#ship-linear-gradient-12);}.ship-cls-16{fill:url(#ship-linear-gradient-13);}.ship-cls-17{fill:url(#ship-linear-gradient-14);}.ship-cls-18{fill:url(#ship-linear-gradient-15);}.ship-cls-19{fill:url(#ship-linear-gradient-16);}.ship-cls-20{fill:url(#ship-linear-gradient-17);}.ship-cls-21{fill:url(#ship-linear-gradient-18);}.ship-cls-22{fill:url(#ship-linear-gradient-19);}.ship-cls-23{fill:url(#ship-linear-gradient-20);}.ship-cls-24{fill:url(#ship-linear-gradient-21);}.ship-cls-25{fill:url(#ship-linear-gradient-22);}.ship-cls-26{fill:url(#ship-linear-gradient-23);}.ship-cls-27{fill:url(#ship-linear-gradient-24);}.ship-cls-28{fill:url(#ship-linear-gradient-25);}.ship-cls-29{fill:url(#ship-linear-gradient-26);}.ship-cls-30{fill:url(#ship-linear-gradient-27);}.ship-cls-31{fill:url(#ship-linear-gradient-28);}
+		</style>
+		<linearGradient id="ship-linear-gradient" x1="0.45" y1="159" x2="281.46" y2="159" gradientTransform="matrix(-1, 0, 0, 1, 282.66, 0)" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#2d96d2" />
+			<stop offset="1" stop-color="#2057a1" />
+		</linearGradient>
+		<linearGradient id="ship-linear-gradient-2" x1="185.56" y1="125.94" x2="14.41" y2="125.94" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#ship-linear-gradient" />
+		<linearGradient id="ship-linear-gradient-3" x1="80.27" y1="162.1" x2="85.32" y2="162.1" gradientTransform="matrix(-1, 0, 0, 1, 253, 7.29)" gradientUnits="userSpaceOnUse">
+			<stop offset="0.07" stop-color="#c914bc" />
+			<stop offset="0.59" stop-color="#911ac4" />
+			<stop offset="0.99" stop-color="#731ac4" />
+		</linearGradient>
+		<linearGradient id="ship-linear-gradient-4" x1="89.82" y1="153.61" x2="94.87" y2="153.61" gradientTransform="matrix(-1, 0, 0, 1, 251.53, 9.31)" xlink:href="#ship-linear-gradient-3" />
+		<linearGradient id="ship-linear-gradient-5" x1="98.83" y1="145.5" x2="103.88" y2="145.5" gradientTransform="matrix(-1, 0, 0, 1, 250.13, 11.21)" xlink:href="#ship-linear-gradient-3" />
+		<linearGradient id="ship-linear-gradient-6" x1="134.17" y1="113.83" x2="139.22" y2="113.83" gradientTransform="matrix(-1, 0, 0, 1, 244.65, 18.67)" xlink:href="#ship-linear-gradient-3" />
+		<linearGradient id="ship-linear-gradient-7" x1="143.73" y1="105.34" x2="148.77" y2="105.34" gradientTransform="matrix(-1, 0, 0, 1, 243.18, 20.69)" xlink:href="#ship-linear-gradient-3" />
+		<linearGradient id="ship-linear-gradient-8" x1="152.74" y1="97.23" x2="157.78" y2="97.23" gradientTransform="matrix(-1, 0, 0, 1, 241.78, 22.59)" xlink:href="#ship-linear-gradient-3" />
+		<linearGradient id="ship-linear-gradient-9" x1="185.56" y1="164.88" x2="254.41" y2="164.88" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#ship-linear-gradient-3" />
+		<linearGradient id="ship-linear-gradient-10" x1="185.56" y1="164.88" x2="254.42" y2="164.88" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#ship-linear-gradient-3" />
+		<linearGradient id="ship-linear-gradient-11" x1="46.1" y1="18.46" x2="43.9" y2="18.46" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#ship-linear-gradient" />
+		<linearGradient id="ship-linear-gradient-12" x1="77.9" y1="46.49" x2="45" y2="46.49" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#ship-linear-gradient" />
+		<linearGradient id="ship-linear-gradient-13" x1="48.98" y1="48.16" x2="104.51" y2="80.22" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#ship-linear-gradient" />
+		<linearGradient id="ship-linear-gradient-14" x1="66.25" y1="40.74" x2="335.01" y2="195.9" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#ship-linear-gradient" />
+		<linearGradient id="ship-linear-gradient-15" x1="219.83" y1="9.95" x2="229.69" y2="9.95" xlink:href="#ship-linear-gradient" />
+		<linearGradient id="ship-linear-gradient-16" x1="221.87" y1="2.36" x2="229.31" y2="2.36" xlink:href="#ship-linear-gradient" />
+		<linearGradient id="ship-linear-gradient-17" x1="210.36" y1="16.14" x2="220.22" y2="16.14" xlink:href="#ship-linear-gradient" />
+		<linearGradient id="ship-linear-gradient-18" x1="212.4" y1="8.55" x2="219.83" y2="8.55" xlink:href="#ship-linear-gradient" />
+		<linearGradient id="ship-linear-gradient-19" x1="200.57" y1="21.9" x2="210.43" y2="21.9" xlink:href="#ship-linear-gradient" />
+		<linearGradient id="ship-linear-gradient-20" x1="202.61" y1="14.31" x2="210.04" y2="14.31" xlink:href="#ship-linear-gradient" />
+		<linearGradient id="ship-linear-gradient-21" x1="190.66" y1="108.47" x2="195.71" y2="108.47" gradientTransform="matrix(-1, 0, 0, 1, 244.68, 29.74)" xlink:href="#ship-linear-gradient-3" />
+		<linearGradient id="ship-linear-gradient-22" x1="200.22" y1="99.98" x2="205.27" y2="99.98" gradientTransform="matrix(-1, 0, 0, 1, 243.22, 31.76)" xlink:href="#ship-linear-gradient-3" />
+		<linearGradient id="ship-linear-gradient-23" x1="209.23" y1="91.87" x2="214.28" y2="91.87" gradientTransform="matrix(-1, 0, 0, 1, 241.81, 33.66)" xlink:href="#ship-linear-gradient-3" />
+		<linearGradient id="ship-linear-gradient-24" x1="162.17" y1="134.21" x2="167.22" y2="134.21" gradientTransform="matrix(-1, 0, 0, 1, 249.14, 23.72)" xlink:href="#ship-linear-gradient-3" />
+		<linearGradient id="ship-linear-gradient-25" x1="171.73" y1="125.72" x2="176.78" y2="125.72" gradientTransform="matrix(-1, 0, 0, 1, 247.67, 25.74)" xlink:href="#ship-linear-gradient-3" />
+		<linearGradient id="ship-linear-gradient-26" x1="180.74" y1="117.61" x2="185.78" y2="117.61" gradientTransform="matrix(-1, 0, 0, 1, 246.27, 27.64)" xlink:href="#ship-linear-gradient-3" />
+		<linearGradient id="ship-linear-gradient-27" x1="-76.21" y1="152.66" x2="-136.62" y2="117.78" gradientTransform="translate(262.37)" xlink:href="#ship-linear-gradient" />
+		<linearGradient id="ship-linear-gradient-28" x1="46.4" y1="140.93" x2="98" y2="140.93" gradientTransform="matrix(-1, 0, 0, 1, 282.66, 0)" xlink:href="#ship-linear-gradient-3" />
+	</defs>
+	<g>
+		<g>
+			<path class="ship-cls-1" d="M35.21,144.09c-15.61-9.59-21.74-27.92-21.74-27.92L1.2,83.94l53,32.53,28-16.14L206,173.76s2,1.14,5,3.23l71.21,27.79-44.7,27.08S208.67,243.4,152,213.55L35.21,144.09Z" />
+			<path class="ship-cls-2" d="M15.59,56.76C48.75,36.21,92.46,55,92.46,55L236.41,140s49.12,28.36,45.8,64.76c0,0-69.95,12.51-124.79-19.16L13.47,100.57S-17.57,77.3,15.59,56.76Z" />
+			<path class="ship-cls-3" d="M63.75,51.67H25.66a60,60,0,0,0-10.35,5.09c-33.16,20.54-2.12,43.82-2.12,43.82l143.95,85.06a114.3,114.3,0,0,0,13.07,6.5l44.4,1.54Z" />
+			<path class="ship-cls-2" d="M25.4,94.09" />
+			<path class="ship-cls-4" d="M15.24,65.54h0a18.35,18.35,0,0,0-.81-2.83V85.38s-.2,4.41.81,5l170.32,98.8V164.34Z" />
+			<ellipse class="ship-cls-5" cx="170.2" cy="169.39" rx="2.52" ry="3.74" transform="translate(-29.65 36.27) rotate(-11.2)" />
+			<ellipse class="ship-cls-6" cx="159.18" cy="162.92" rx="2.52" ry="3.74" transform="translate(-28.6 34.01) rotate(-11.2)" />
+			<ellipse class="ship-cls-7" cx="148.77" cy="156.71" rx="2.52" ry="3.74" transform="translate(-27.6 31.87) rotate(-11.2)" />
+			<ellipse class="ship-cls-8" cx="107.96" cy="132.5" rx="2.52" ry="3.74" transform="translate(-23.67 23.48) rotate(-11.2)" />
+			<ellipse class="ship-cls-9" cx="96.93" cy="126.03" rx="2.52" ry="3.74" transform="translate(-22.62 21.22) rotate(-11.2)" />
+			<ellipse class="ship-cls-10" cx="86.52" cy="119.82" rx="2.52" ry="3.74" transform="translate(-21.62 19.08) rotate(-11.2)" />
+			<path class="ship-cls-11" d="M251.95,157.88l-6-21.79h0c1.61,6.13,1.75,16.26-10.79,23.85-18.53,11.23-49.62,4.4-49.62,4.4v24.83c23.65,9.11,51.67,3,62.77-6S251.95,157.88,251.95,157.88Z" />
+			<path class="ship-cls-2" d="M246,136.08a22.74,22.74,0,0,0-2.13-5.39L73.51,31.89S62.23,26.82,35.25,42.37s-20,23.16-20,23.16l170.32,98.8s31.08,6.83,49.62-4.4C247.71,152.34,247.57,142.21,246,136.08Z" />
+			<path class="ship-cls-12" d="M251.95,157.88l-6-21.79h0c1.61,6.13,1.75,16.26-10.79,23.85-18.53,11.23-49.62,4.4-49.62,4.4v24.83c23.65,9.11,51.67,3,62.77-6S251.95,157.88,251.95,157.88Z" />
+			<path class="ship-cls-3" d="M55.94,50.66h-33c-12.24,10-7.69,14.88-7.69,14.88l16.62,9.64H83.34Z" />
+			<path class="ship-cls-2" d="M91.75,73.09c4.05-2.45,4-5.73,3.49-7.71a7.34,7.34,0,0,0-.69-1.74L77.9,54H75.72V74.51S85.76,76.72,91.75,73.09Z" />
+			<polygon class="ship-cls-13" points="45 18.45 45 18.46 45 18.45 45 18.45" />
+			<polygon class="ship-cls-14" points="73.73 51.54 70.24 33.83 73.73 51.54 73.73 51.54" />
+			<path class="ship-cls-15" d="M73.73,51.54,70.24,33.83l-25-14.49a1.33,1.33,0,0,1-.26-.88V55.93h0a1.33,1.33,0,0,0,.26.88l30.45,17.7h0l-2-23Z" />
+			<polygon class="ship-cls-16" points="75.72 53.96 77.9 53.96 73.73 51.54 75.72 74.51 75.72 74.51 75.72 53.96" />
+			<path class="ship-cls-17" d="M95.47,67.66a7,7,0,0,0-.18-2.06L90,26.14,70.24,33.83l3.48,17.71,2,23a34.59,34.59,0,0,0,8.86.59,16.31,16.31,0,0,0,7.17-2c2.61-1.58,3.52-3.51,3.69-5.2h0Z" />
+			<path class="ship-cls-2" d="M89.76,24.7A7.35,7.35,0,0,0,89.08,23L64.1,8.46s-3.64-1.64-12.36,3.39C46,15.14,45,17.34,45,18.45h0a1.33,1.33,0,0,0,.26.88l25,14.49s10,2.21,16-1.42C90.33,29.95,90.28,26.68,89.76,24.7Z" />
+			<polyline class="ship-cls-3" points="78.01 29.49 62.77 29.49 56.99 26.14 77.78 26.14" />
+			<polyline class="ship-cls-3" points="68.08 23.73 52.84 23.73 47.06 20.38 67.84 20.38" />
+			<path class="ship-cls-3" d="M58.44,14.19H48.17a8.78,8.78,0,0,0-3,3.35H58.68Z" />
+			<path class="ship-cls-18" d="M53,2.53l8.21-.17,1.65,12.82h0c-.06.94-1.26,1.63-1.26,1.63a6,6,0,0,1-5.68,0,2.12,2.12,0,0,1-1.26-1.63h0Z" />
+			<path class="ship-cls-2" d="M59.9,4a6,6,0,0,1-5.68,0c-2.84-1.64,0-3.28,0-3.28a6.12,6.12,0,0,1,5.69,0C62.74,2.36,59.9,4,59.9,4Z" />
+			<path class="ship-cls-2" d="M59.9,4a6,6,0,0,1-5.68,0c-2.84-1.64,0-3.28,0-3.28a6.12,6.12,0,0,1,5.69,0C62.74,2.36,59.9,4,59.9,4Z" />
+			<path class="ship-cls-19" d="M59.64,3.73a5.86,5.86,0,0,1-5.14,0c-2.57-1.37,0-2.74,0-2.74a6,6,0,0,1,5.16,0C62.21,2.36,59.64,3.73,59.64,3.73Z" />
+			<path class="ship-cls-20" d="M62.44,8.72l8.21-.17,1.65,12.82h0C72.23,22.3,71,23,71,23a6,6,0,0,1-5.68,0,2.12,2.12,0,0,1-1.26-1.63h0Z" />
+			<path class="ship-cls-2" d="M69.38,10.18a6,6,0,0,1-5.68,0c-2.84-1.64,0-3.28,0-3.28a6.12,6.12,0,0,1,5.69,0C72.22,8.54,69.38,10.18,69.38,10.18Z" />
+			<path class="ship-cls-2" d="M69.38,10.18a6,6,0,0,1-5.68,0c-2.84-1.64,0-3.28,0-3.28a6.12,6.12,0,0,1,5.69,0C72.22,8.54,69.38,10.18,69.38,10.18Z" />
+			<path class="ship-cls-21" d="M69.11,9.91a5.86,5.86,0,0,1-5.14,0c-2.57-1.37,0-2.74,0-2.74a6,6,0,0,1,5.16,0C71.68,8.54,69.11,9.91,69.11,9.91Z" />
+			<path class="ship-cls-22" d="M72.23,14.48l8.21-.17,1.65,12.82h0c-.06.94-1.26,1.63-1.26,1.63a6,6,0,0,1-5.68,0,2.12,2.12,0,0,1-1.26-1.63h0Z" />
+			<path class="ship-cls-2" d="M79.17,15.94a6,6,0,0,1-5.68,0c-2.84-1.64,0-3.28,0-3.28a6.12,6.12,0,0,1,5.69,0C82,14.3,79.17,15.94,79.17,15.94Z" />
+			<path class="ship-cls-2" d="M79.17,15.94a6,6,0,0,1-5.68,0c-2.84-1.64,0-3.28,0-3.28a6.12,6.12,0,0,1,5.69,0C82,14.3,79.17,15.94,79.17,15.94Z" />
+			<path class="ship-cls-23" d="M78.9,15.68a5.86,5.86,0,0,1-5.14,0c-2.57-1.37,0-2.74,0-2.74a6,6,0,0,1,5.16,0C81.47,14.3,78.9,15.68,78.9,15.68Z" />
+			<ellipse class="ship-cls-24" cx="51.5" cy="138.22" rx="2.52" ry="3.74" transform="translate(-25.86 12.63) rotate(-11.2)" />
+			<ellipse class="ship-cls-25" cx="40.47" cy="131.74" rx="2.52" ry="3.74" transform="translate(-24.81 10.37) rotate(-11.2)" />
+			<ellipse class="ship-cls-26" cx="30.06" cy="125.54" rx="2.52" ry="3.74" transform="translate(-23.8 8.23) rotate(-11.2)" />
+			<ellipse class="ship-cls-27" cx="84.44" cy="157.93" rx="2.52" ry="3.74" transform="translate(-29.06 19.4) rotate(-11.2)" />
+			<ellipse class="ship-cls-28" cx="73.42" cy="151.46" rx="2.52" ry="3.74" transform="translate(-28.01 17.14) rotate(-11.2)" />
+			<ellipse class="ship-cls-29" cx="63.01" cy="145.25" rx="2.52" ry="3.74" transform="translate(-27 15) rotate(-11.2)" />
+			<polygon class="ship-cls-3" points="204.1 158.63 181.08 159 119.34 122.94 160.1 98.31 204.1 158.63" />
+			<polygon class="ship-cls-30" points="127.25 115.18 127.25 121.99 184.66 155.26 184.66 148.44 127.25 115.18" />
+			<path class="ship-cls-31" d="M228.32,123.23l6.08,8.57s5.61,12.25-2.71,19-29.31,11.3-47,4.47v-6.82Z" />
+			<path class="ship-cls-2" d="M170.91,90l57.41,33.27s7.91,13.19-6.49,21.91c-13.89,8.41-37.18,3.3-37.18,3.3l-57.41-33.27Z" />
+		</g>
+	</g>
+</svg>

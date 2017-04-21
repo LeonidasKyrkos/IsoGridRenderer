@@ -1,0 +1,108 @@
+$module: 		'side-panels';
+
+.#{$module} {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	width: em($navWidth);
+	z-index: 5;
+	transform: translateZ(0);
+	
+
+	@include bp(tab-l-b) {
+		width: 100%;
+		max-height: em(100);
+		overflow: hidden;
+		transition: max-height 0.15s linear;
+		background-color: rgba(black,0.65);
+
+		.navActive &, .homeActive & {
+			max-height: 100vh;
+		}
+	}
+
+	&__pancake {
+		position: absolute;
+		right: em(40);
+		top: em(45);
+		cursor: pointer;
+		z-index: 10;
+		width: em(35);
+		height: em(25);
+		background-color: transparent;
+		background-image: none;
+		border: 0;
+		outline: 0;
+		box-shadow: none;
+		display: none;
+		padding: 0;
+
+		@include bp(tab-l-b) {
+			display: block;
+			top: em(35);
+			right: em(30);
+		}
+
+		.articlesActive & {
+			display: none;
+		}
+	}
+
+	&__pancake--articles {
+		@extend .#{$module}__pancake;
+		width: auto;
+		height: auto;
+		display: none;
+
+		svg path {
+			fill: white;
+		}
+
+		.articlesActive & {
+			@include bp(tab-l-b) {
+				display: block;
+			}			
+		}
+	}
+
+	&__pancake-line {
+		background-color: white;
+		width: 100%;
+		left: 0;
+		height: 3px;
+		position: absolute;
+		top: 50%;
+		margin-top: em(-2);
+
+		&:nth-child(1) {
+			top: 0;
+			margin-top: 0;
+		}
+
+		&:nth-child(3) {
+			top: auto;
+			bottom: 0;
+			margin-top: 0;
+		}
+
+		.navActive &, .homeActive & {
+			&:nth-child(1) {
+				transform: rotate(45deg);
+				transform-origin: center;
+				top: 50%;
+				margin-top: em(-1);
+			}
+
+			&:nth-child(2) {
+				display: none;
+			}
+
+			&:nth-child(3) {
+				transform: rotate(-45deg);
+				transform-origin: center;
+				top: 50%;
+				margin-top: em(-1);
+			}
+		}
+	}
+}

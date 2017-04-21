@@ -1,0 +1,79 @@
+$module: 		'loader';
+
+.#{$module} {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-color: $color6;
+	transition: opacity 1s 1s linear;
+	opacity: 1;
+	z-index: 10;
+	pointer-events: none;
+
+	&.hidden {
+		opacity: 0;
+	}
+
+	&__text {
+		$fontSize: nth($headingSizes,3);
+		font-size: em($fontSize);
+		color: white;
+		display: block;
+		text-transform: uppercase;
+		letter-spacing: em(5,$fontSize);
+		font-weight: 700;
+		line-height: 1.2;
+		position: absolute;
+		top: 50%;
+		left: 0;
+		right: 0;
+		text-align: center;
+	}
+
+	&__tile {
+		position: absolute;
+		top: 42%;
+		left: 0;
+		right: 0;
+		margin: 0 auto;
+		opacity: 0;
+
+		&:nth-child(1) {
+			animation: 7s linear 0s infinite falling;
+		}
+
+		&:nth-child(2) {
+			animation: 7s linear 2s infinite falling;
+		}
+
+		&:nth-child(3) {
+			top: 39%;
+			animation: 7s linear 4s infinite falling;
+		}
+	}
+}
+
+@keyframes falling {
+	0% {
+		transform: translateY(em(-200));
+		opacity: 0;
+	}
+	5% {
+		transform: translateY(em(-133));
+		opacity: 1;
+	}
+	10% {
+		transform: translateY(em(-66));
+		opacity: 1;
+	}
+	15% {
+		transform: translateY(0);
+		opacity: 0;
+	}
+	100% {
+		opacity: 0;
+		transform: translateY(0);
+	}
+}

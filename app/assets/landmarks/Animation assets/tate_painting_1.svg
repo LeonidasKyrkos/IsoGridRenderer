@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 113.49 151.87" width="113" height="152" class="tate__painting">
+	<defs>
+		<style>
+			.tate-painting-cls-1{fill:url(#tate-painting-linear-gradient);}.tate-painting-cls-2{fill:url(#tate-painting-linear-gradient-2);}.tate-painting-cls-3{fill:url(#tate-painting-linear-gradient-3);}.tate-painting-cls-4{fill:url(#tate-painting-linear-gradient-4);}.tate-painting-cls-5{fill:url(#tate-painting-linear-gradient-5);}.tate-painting-cls-10,.tate-painting-cls-6{fill:none;stroke-miterlimit:10;}.tate-painting-cls-6{stroke:url(#tate-painting-linear-gradient-6);}.tate-painting-cls-7{fill:url(#tate-painting-linear-gradient-7);}.tate-painting-cls-8{fill:url(#tate-painting-linear-gradient-8);}.tate-painting-cls-9{fill:url(#tate-painting-linear-gradient-9);}.tate-painting-cls-10{stroke:url(#tate-painting-linear-gradient-10);}
+		</style>
+		<linearGradient id="tate-painting-linear-gradient" x1="6.24" y1="77.49" x2="113.49" y2="77.49" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#64c8c3" />
+			<stop offset="1" stop-color="#4296ab" />
+		</linearGradient>
+		<linearGradient id="tate-painting-linear-gradient-2" x1="106.36" y1="77.49" x2="13.36" y2="77.49" xlink:href="#tate-painting-linear-gradient" />
+		<linearGradient id="tate-painting-linear-gradient-3" x1="13.36" y1="76.72" x2="106.36" y2="76.72" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#2d96d2" />
+			<stop offset="1" stop-color="#2057a1" />
+		</linearGradient>
+		<linearGradient id="tate-painting-linear-gradient-4" x1="10.24" y1="76.72" x2="103.25" y2="76.72" xlink:href="#tate-painting-linear-gradient-3" />
+		<linearGradient id="tate-painting-linear-gradient-5" x1="8.12" y1="47.86" x2="67.77" y2="82.3" xlink:href="#tate-painting-linear-gradient" />
+		<linearGradient id="tate-painting-linear-gradient-6" x1="28.61" y1="85.62" x2="56.75" y2="69.37" gradientTransform="translate(44.47 -10.96) rotate(30)" xlink:href="#tate-painting-linear-gradient" />
+		<linearGradient id="tate-painting-linear-gradient-7" x1="34.76" y1="72.72" x2="86.35" y2="72.72" gradientTransform="translate(9.61 7.71)" xlink:href="#tate-painting-linear-gradient" />
+		<linearGradient id="tate-painting-linear-gradient-8" x1="66" y1="59.6" x2="70.16" y2="59.6" gradientUnits="userSpaceOnUse">
+			<stop offset="0.07" stop-color="#c914bc" />
+			<stop offset="0.59" stop-color="#911ac4" />
+			<stop offset="0.99" stop-color="#731ac4" />
+		</linearGradient>
+		<linearGradient id="tate-painting-linear-gradient-9" x1="21.5" y1="107.74" x2="39.76" y2="107.74" xlink:href="#tate-painting-linear-gradient-8" />
+		<linearGradient id="tate-painting-linear-gradient-10" x1="77.5" y1="55.62" x2="96.76" y2="55.62" xlink:href="#tate-painting-linear-gradient-8" />
+	</defs>
+	<g>
+		<g>
+			<polygon class="tate-painting-cls-1" points="6.24 151.87 6.24 65.04 113.49 3.12 113.11 90.17 6.24 151.87" />
+			<polygon class="tate-painting-cls-2" points="103.23 14.81 102.92 86.93 13.36 138.63 13.36 141.99 106.04 88.48 106.36 13 103.23 14.81" />
+			<polygon class="tate-painting-cls-3" points="103.23 14.81 13.36 66.69 13.36 138.63 102.92 86.93 103.23 14.81" />
+			<polygon class="tate-painting-cls-4" points="103.23 14.81 13.36 66.69 13.36 138.63 102.92 86.93 103.23 14.81" />
+			<polygon class="tate-painting-cls-5" points="6.21 151.87 0 148.75 0 61.94 107.28 0 113.49 3.12 6.21 65.05 6.21 151.87" />
+			<ellipse class="tate-painting-cls-6" cx="42.68" cy="77.49" rx="15.75" ry="6.84" transform="translate(-33.03 31.72) rotate(-30)" />
+			<ellipse class="tate-painting-cls-7" cx="70.16" cy="80.44" rx="25.8" ry="11.2" transform="translate(-20.02 23.33) rotate(-16.56)" />
+			<polygon class="tate-painting-cls-8" points="66 63.59 66 58.02 70.16 55.62 70.15 61.19 66 63.59" />
+			<polygon class="tate-painting-cls-9" points="21.5 125.22 21.5 100.81 39.76 90.27 39.7 114.72 21.5 125.22" />
+			<polygon class="tate-painting-cls-10" points="78 73.1 78 48.68 96.26 38.14 96.19 62.59 78 73.1" />
+		</g>
+	</g>
+</svg>

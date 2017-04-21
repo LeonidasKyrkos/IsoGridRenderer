@@ -1,0 +1,316 @@
+$module: 		'canvas';
+
+#htmlwrap {
+	&:before {
+		content: "";
+		position: fixed;
+		top: 0;
+		left: 0;
+		right: 0;
+		bottom: 0;
+		background-color: rgba(black,0.65);
+		z-index: 2;
+		pointer-events: none;
+		transition: transform 0.15s linear;
+		transform: translateX(calc(-100vw + #{em(220)}));
+	}
+
+	.homeActive &, .articlesActive & {
+		&:before {
+			transform: translateX(0);
+		}
+	}
+
+	@include bp(tab-l-b) {
+		&:before {
+			content: none !important;
+		}	
+	}
+}
+
+.#{$module} {
+	position: absolute;
+
+	&:nth-child(1) {
+		top: 0;
+		left: 0;
+	}
+
+	&:nth-child(2) {
+		top: 0;
+		left: floor((4000/3)) * 1px;
+	}
+
+	&:nth-child(3) {
+		top: 0;
+		left: floor(((4000/3) * 2)) * 1px;
+	}
+
+	&:nth-child(4) {
+		top: 50%;
+		left: 0;
+	}
+
+	&:nth-child(5) {
+		top: 50%;
+		left: floor((4000/3)) * 1px;
+	}
+
+	&:nth-child(6) {
+		top: 50%;
+		left: floor(((4000/3) * 2)) * 1px;
+	}
+
+	&__wrap {
+		overflow: scroll;
+		width: 100vw;
+		height: 100vh;
+		display: inline-block;
+		vertical-align: top;
+		position: absolute;
+		padding-left: 100vw;
+		right: 0;
+		top: 0;
+		touch-action: auto !important;
+		overflow: -moz-scrollbars-none !important;
+		backface-visibility: hidden;
+	}
+
+	&__group {
+		backface-visibility: hidden;
+	}
+
+	&__innerwrap {
+		position: relative;
+		transition-property: transform;
+		transition-duration: 0.15s;
+		transition-timing-function: linear;
+
+		&.animationMode {
+			cursor: url('../../assets/flag.png') 0 50, auto;
+		}
+
+		@include bp(mob-xl) {
+			transform-origin: center center;
+			transform: scale3d(0.5,0.5,0.5);
+		}
+	}
+
+	&__html {
+		&.active {
+			z-index: 2;
+		}
+
+		@include bp(tab-xl) {
+			&.active {
+				z-index: 1;
+			}
+		}
+	}
+
+	&__tooltip {
+		position: absolute;
+		background-color: rgba(white,0.2);
+		height: auto;
+		padding: em(15) em(20);
+		background-image: none;
+		box-shadow: none;
+		border: 0;
+		outline: 0;
+		border-bottom: em(2) solid white;
+		white-space: nowrap;
+		text-align: left;
+		color: white;
+
+		&:before {
+			content: "";
+			width: em(90);
+			height: em(2);
+			background-color: white;
+			position: absolute;
+		}
+
+		&:after {
+			content: "";
+			width: em(10);
+			height: em(10);
+			border-radius: 100%;
+			background-color: white;
+			position: absolute;
+		}
+
+		.articlesActive &, .homeActive & {
+			display: none;
+		}
+
+		@include bp(mob-xl) {
+			.navActive & {
+				display: none;
+			}
+		}
+
+		.eye & {
+			top: em(-100);
+			left: em(200);
+
+			&:before {
+				top: 100%;
+				right: 100%;
+				transform: rotate(-70deg);
+				transform-origin: right;
+			}
+
+			&:after {
+				top: 100%;
+				right: 100%;
+				transform: translateX(em(-26))translateY(em(79));
+			}
+		}
+
+		.battersea & {
+			top: 0;
+			left: em(333);
+
+			&:before {
+				top: 100%;
+				right: 100%;
+				transform: rotate(-70deg);
+				transform-origin: right;
+			}
+
+			&:after {
+				top: 100%;
+				right: 100%;
+				transform: translateX(em(-26))translateY(em(79));
+			}
+		}
+
+		.kew & {
+			top: em(-100);
+			left: em(-100);
+
+			&:before {
+				top: 100%;
+				left: 100%;
+				transform: rotate(70deg);
+				transform-origin: left;
+			}
+
+			&:after {
+				top: 100%;
+				left: 100%;
+				transform: translateX(em(26))translateY(em(79));
+			}
+		}
+
+		.big-ben & {
+			top: em(-55);
+			left: em(-190);
+
+			&:before {
+				top: 100%;
+				left: 100%;
+				transform: rotate(70deg);
+				transform-origin: left;
+			}
+
+			&:after {
+				top: 100%;
+				left: 100%;
+				transform: translateX(em(26))translateY(em(79));
+			}
+		}
+
+		.tate-modern & {
+			top: em(-65);
+			right: em(20);
+
+			&:before {
+				top: 100%;
+				right: 100%;
+				transform: rotate(-70deg);
+				transform-origin: right;
+			}
+
+			&:after {
+				top: 100%;
+				right: 100%;
+				transform: translateX(em(-26))translateY(em(79));
+			}
+		}
+
+		.shard & {
+			top: em(100);
+			left: em(150);
+
+			&:before {
+				top: 100%;
+				right: 100%;
+				transform: rotate(-70deg);
+				transform-origin: right;
+			}
+
+			&:after {
+				top: 100%;
+				right: 100%;
+				transform: translateX(em(-26))translateY(em(79));
+			}
+		}
+
+		.tower-bridge & {
+			top: em(-230);
+			right: em(-130);
+
+			&:before {
+				top: 100%;
+				right: 100%;
+				transform: rotate(-70deg)translateZ(em(2));
+				transform-origin: right;
+			}
+
+			&:after {
+				top: 100%;
+				right: 100%;
+				transform: translateX(em(-25))translateY(em(79))translateZ(em(2));
+			}
+		}
+
+		.o2 & {
+			top: em(145);
+			left: em(-235);
+
+			&:before {
+				top: 100%;
+				left: 100%;
+				transform: rotate(-45deg);
+				transform-origin: left;
+			}
+
+			&:after {
+				top: 100%;
+				left: 100%;
+				transform: translateX(em(55))translateY(em(-65));
+			}
+		}
+	}
+
+	&__tooltip-title {
+		$fontSize: nth($headingSizes,3);
+		display: block;
+		text-transform: uppercase;
+		letter-spacing: em(5,$fontSize);
+		margin-bottom: em(8,$fontSize);
+		font-weight: 700;
+		line-height: 1.2;
+		text-shadow: 0 0 em(2) rgba(black, 0.3);
+	}
+
+	&__tooltip-subtitle {
+		$fontSize: 15;
+		font-size: em($fontSize);
+		font-weight: 300;
+		display: block;
+		letter-spacing: em(1,$fontSize);
+		text-shadow: 0 0 em(2) rgba(black, 0.3);
+	}
+}

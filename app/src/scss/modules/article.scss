@@ -1,0 +1,353 @@
+$module: 		'article';
+
+.#{$module} {
+	color: white;
+	transition: none;
+	padding: 0 em(30) 0 em(10);
+	overflow: hidden;
+	cursor: auto;
+	width: calc(100vw - 37em);
+	max-width: em(1200);
+	margin: 0 auto;
+	left: 0;
+	right: em(210);
+	position: absolute;
+	top: em(170);
+	bottom: 0;
+	display: none;
+
+	$bp: (1040/16) * 1em;
+	@media(max-height: $bp) {
+		top: em(20);
+	}
+
+	.#{$module}__wrap.active > & {
+		display: block;		
+	}
+
+	@include bp(tab-xl) {
+		width: auto;
+		max-width: none;
+		left: em(220);
+		right: 0;
+		padding-bottom:  em(50);
+	}
+
+	@include bp(tab-l-b) {
+		transition: transform 0.15s linear;
+		padding: em(30) em(35) em(150);
+		opacity: 1;
+		height: 100%;
+		position: static;
+
+		.#{$module}__wrap.active > & {
+			transition: transform 0.15s linear;
+			transform: translateY(calc(-100% + 16rem));
+		}
+	}
+
+	@include bp(mob-xl) {
+		padding: 0 em(10) em(50);
+	}
+
+	&--home {
+		@extend .#{$module};
+		padding: 0 em(45) em(50);
+		
+		$bp: (1040/16) * 1em;
+		@media(max-height: $bp) {
+			top: em(170);
+		}
+
+		@include bp(mob-xl) {
+			padding: 0 em(10) em(50);
+		}
+	}
+
+	&__outerwrap {
+		width: 100vw;
+		vertical-align: top;
+		height: 100vh;
+		overflow: hidden;
+		position: absolute;
+		left: 0;
+		cursor: auto;
+		opacity: 1;
+		transition: opacity 0.15s 0.15s linear;
+
+		&.inactive {
+			pointer-events: none;
+			opacity: 0;
+		}
+
+		@include bp(tab-l-b) {
+			position: absolute;
+			top: 100%;
+			width: 100%;
+			left: 0;
+			transform: none;
+			background-color: transparent;
+			overflow: visible;
+			z-index: 4;
+
+			&.inactive {
+				transform: none;
+				z-index: 1;
+			}
+		}
+	}
+
+	&__wrap {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		padding: 0 0 0 em($navWidth);
+
+		&.active {
+			z-index: 2;
+		}
+
+		@include bp(tab-l-b) {
+			padding: 0;
+		}
+	}
+
+	&__header {
+		padding: 0 0 em(30) 0;
+		margin-top: em(-5);
+
+		@include bp(tab-xl) {
+			padding: 0;
+			margin: 0;
+		}
+	}
+
+	&__title {
+		$fontSize: nth($headingSizes,1);
+		@extend .alpha;
+
+		@media(max-width: 1900px) {
+			$fontSize: 60;
+			font-size: em($fontSize);
+		}
+
+		@media(max-width: 1785px) {
+			$fontSize: 50;
+			font-size: em($fontSize);
+			margin-right: em(-50,$fontSize);
+		}
+
+		@media(max-width: 1700px) {
+			margin-right: 0;
+		}
+
+		@include bp(desk-m-a) {
+			$fontSize: 40;
+			font-size: em($fontSize);
+		}
+
+		@include bp(tab-xl-b) {
+			$fontSize: 36;
+			font-size: em($fontSize);
+			margin-bottom: em(30,$fontSize);
+		}
+	}
+
+	&__title--strong {
+		@extend .#{$module}__title;
+		$fontSize: 100;
+		font-size: em($fontSize);
+		margin-bottom: 0;
+		color: $color1;
+		padding-left: 33%;
+		padding-right: 2rem;
+		margin-right: 0;
+
+		@media(max-width: 1900px) {
+			padding-left: 0;
+			$fontSize: 60;
+			font-size: em($fontSize);
+		}
+
+		@media(max-width: 1785px) {
+			$fontSize: 50;
+			font-size: em($fontSize);
+			margin-right: em(-50,$fontSize);
+		}
+
+		@media(max-width: 1700px) {
+			margin-right: 0;
+		}
+
+		@include bp(desk-m-a) {
+			padding-left: 0;
+			padding-right: 0;
+		}
+
+		@include bp(tab-xl-b) {
+			$fontSize: 40;
+			font-size: em($fontSize);
+			margin-bottom: em(30,$fontSize);
+		}
+	}
+
+	&__copy {
+		margin: 0 -4.5rem;
+		padding-bottom: em(100);
+		@include clearfix;
+		height: 100%;
+		overflow-y: auto;
+
+		@include bp(desk-m-a) {
+			$fontSize: 18;
+			font-size: em($fontSize);
+		}
+
+		@include bp(tab-xl) {
+			margin: 0;
+		}
+	}
+
+	&__column {
+		width: 50%;
+		float: left;
+		padding: 0 em(45);
+		position: relative;
+		margin-bottom: em(30);
+
+		@include bp(desk-m-a) {
+			float: none;
+			width: 100%;
+			padding-bottom: em(10);
+			margin-bottom: em(30);
+		}
+
+		@include bp(mob-xl) {
+			padding: 0;
+		}
+	}
+
+	&__column--lowered {
+		@extend .#{$module}__column;
+		padding-top: em(244);
+	}
+
+	&__user-story {
+		$fontSize: 26;
+		color: #30c18f;
+		font-size: em($fontSize);
+		margin-bottom: em(30,$fontSize);
+	}
+
+	&__columns {
+		margin-bottom: em(30);
+		columns: 3;
+
+		@include bp(desk-l-a) {
+			columns: 2;
+		}
+
+		@include bp(desk-m-a) {
+			columns: 1;
+		}
+
+		@include bp(tab-l-b) {
+			columns: 2;
+		}
+
+		@include bp(mob-xl) {
+			columns: 1;
+			margin-bottom: em(150);
+		}
+	}
+
+	&__facts {
+		clear: left;
+		border-radius: em(5);
+		padding: em(25) em(30) em(5);
+		margin: 0 em(40) em(30);
+		background: linear-gradient(to bottom, rgba(white,0.1), transparent 100%);
+		color: rgba(white,0.7);
+		@include clearfix;
+
+		@include bp(mob-xl) {
+			margin: 0 0 em(30);
+			padding: em(15) em(10) em(5);
+		}
+	}
+
+	&__fact {
+		margin-bottom: em(25);
+	}
+
+	&__fact-title {
+		min-width: em(120);
+		margin-right: em(-120);
+		float: left;
+		font-weight: 400;
+
+		@include bp(mob-xl) {
+			float: none;
+			min-width: 0;
+			margin-right: 0;
+		}
+	}
+
+	&__fact-copy {
+		display: block;
+		margin-bottom: 0;
+		padding-left: 14rem;
+		position: relative;
+		top: -0.2rem;
+
+		&.largetext {
+			top: -0.4rem;
+		}
+
+		@include bp(mob-xl) {
+			top: auto;
+			padding-left: 0;
+		}
+	}
+
+	&__home-info {
+		$fontSize: 21;
+		font-size: em($fontSize);
+		display: block;
+		float: right;
+		max-width: em(300,$fontSize);
+	}
+
+	&__close {
+		width: em(50);
+		height: em(50);
+		cursor: pointer;
+		position: absolute;
+		top: em(30);
+		right: em(30);
+		background-color: transparent;
+		background-image: none;
+		box-shadow: none;
+		border: 0;
+		outline: 0;
+		z-index: 3;
+		
+		&:before, &:after {
+			content: "";
+			width: 100%;
+			height: em(4);
+			background-color: white;
+			position: absolute;
+			top: 50%;
+			left: 0;
+			transform: rotate(45deg);
+			transform-origin: center;
+		}
+		
+		&:after {
+			transform: rotate(-45deg);
+		}
+	}
+}
